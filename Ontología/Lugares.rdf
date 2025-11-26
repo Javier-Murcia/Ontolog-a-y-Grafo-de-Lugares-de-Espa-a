@@ -1,0 +1,1426 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.monumentos.es/lugares/"
+     xml:base="http://www.monumentos.es/lugares/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:lugares="http://www.monumentos.es/lugares/">
+    <owl:Ontology rdf:about="http://www.monumentos.es/lugares"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Contenida_en_entidades_mayores -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Contenida_en_entidades_mayores">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.monumentos.es/lugares/Posee_entidades_menores"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Capital_municipal"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Ciudad"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Entidad_singular_de_población"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Localidad"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Núcleo_de_población"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Pedanía"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Comunidad_Autónoma"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:label xml:lang="es">Esta contenida en entidades mayores</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/ContieneComarcas -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/ContieneComarcas">
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comunidad_Autónoma"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:label xml:lang="es">Contiene Comarcas</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Contiene_Localidades -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Contiene_Localidades">
+        <owl:inverseOf rdf:resource="http://www.monumentos.es/lugares/Está_contenido_en_Municipio"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Capital_municipal"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Ciudad"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Entidad_singular_de_población"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Localidad"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Núcleo_de_población"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Pedanía"/>
+        <rdfs:label xml:lang="es">Municipio contiene Pedanías o Localidades menores</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Contiene_Municipios -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Contiene_Municipios">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.monumentos.es/lugares/Esta_contenido_en_Provincia"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:label xml:lang="es">Contiene Municipios</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Contiene_Provincias -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Contiene_Provincias">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.monumentos.es/lugares/Esta_contenida_en_CCAA"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comunidad_Autónoma"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:label xml:lang="es">Contiene Provincias</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Esta_contenida_en_CCAA -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Esta_contenida_en_CCAA">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Isla"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Comunidad_Autónoma"/>
+        <rdfs:label xml:lang="es">Está contenida en CCAA</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Esta_contenido_en_Provincia -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Esta_contenido_en_Provincia">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:label xml:lang="es">Está contenida en Provincia</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Está_contenido_en_Municipio -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Está_contenido_en_Municipio">
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Capital_municipal"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Ciudad"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Entidad_singular_de_población"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Localidad"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Núcleo_de_población"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Pedanía"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:label xml:lang="es">Entidad está contenida en Municipio</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/LugHistóricoCultura -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/LugHistóricoCultura">
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Lugar_Histórico"/>
+        <rdfs:comment xml:lang="es">Lugar histórico cultura</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/LugHistóricoÉpoca -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/LugHistóricoÉpoca">
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Lugar_Histórico"/>
+        <rdfs:comment xml:lang="es">Lugar histórico época</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Posee_entidades_menores -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Posee_entidades_menores">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comarca"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Comunidad_Autónoma"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Capital_municipal"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Ciudad"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Entidad_singular_de_población"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Localidad"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Núcleo_de_población"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Pedanía"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:label xml:lang="es">Posee entidades menores</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Se_refiere_a_lugar_actual -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Se_refiere_a_lugar_actual">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.monumentos.es/lugares/Tiene_nombre_histórico"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Lugar_Histórico"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:label xml:lang="es">Se refiere a lugar actual</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Tiene_nombre_histórico -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/Tiene_nombre_histórico">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Lugar_Histórico"/>
+        <rdfs:label xml:lang="es">Tiene nombre histórico</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/capitalMunicipalDe -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/capitalMunicipalDe">
+        <owl:inverseOf rdf:resource="http://www.monumentos.es/lugares/tieneCapitalMunicipal"/>
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Capital_municipal"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:comment xml:lang="es">Capital municipall de</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/tieneCapitalMunicipal -->
+
+    <owl:ObjectProperty rdf:about="http://www.monumentos.es/lugares/tieneCapitalMunicipal">
+        <rdfs:domain rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:range rdf:resource="http://www.monumentos.es/lugares/Capital_municipal"/>
+        <rdfs:comment xml:lang="es">Tiene Capital municipal</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ReflexiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#location -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#location">
+        <rdfs:range rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdfs:comment>The relation between something and the point, 
+ or other geometrical thing in space, where it is.  For example, the realtionship between
+ a radio tower and a Point with a given lat and long.
+ Or a relationship between a park and its outline as a closed arc of points, or a road and
+ its location as a arc (a sequence of points).
+ Clearly in practice there will be limit to the accuracy of any such statement, but one would expect
+ an accuracy appropriate for the size of the object and uses such as mapping .
+ </rdfs:comment>
+        <rdfs:label>location</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#lat -->
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#lat">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:comment>The WGS84 latitude of a SpatialThing (decimal degrees).</rdfs:comment>
+        <rdfs:label>latitude</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#long -->
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#long">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:comment>The WGS84 longitude of a SpatialThing (decimal degrees).</rdfs:comment>
+        <rdfs:label>longitude</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Aeropuerto -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Aeropuerto">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Aéreo"/>
+        <rdfs:label xml:lang="es">Aeropuerto</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Aeropuerto&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Aeródromo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Aeródromo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Aéreo"/>
+        <rdfs:label xml:lang="es">Aeródromo</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Aerodromo&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Alojamiento_Ocio -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Alojamiento_Ocio">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Alojamiento Ocio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Asentamiento_Humano -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Asentamiento_Humano">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:comment xml:lang="es">Lugar con población o asentamiento humano</rdfs:comment>
+        <rdfs:label xml:lang="es">Asentamiento humano</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Autovía -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Autovía">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Autovía</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Autovia&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Aéreo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Aéreo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Transporte Aéreo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Bahía -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Bahía">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Bahía&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Bahía</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Bahia&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Balsa -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Balsa">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Balsa</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Balsa&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Cabo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Cabo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Cabo_(geografía)&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Cabo</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Cabo&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Canal -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Canal">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Canal_(ingeniería)&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Canal</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#CanalMayor&gt;</rdfs:seeAlso>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#CanalMenor&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Cantera -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Cantera">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Explotación_minera"/>
+        <rdfs:label xml:lang="es">Cantera</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Cantera&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Capital_municipal -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Capital_municipal">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Capital municipal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Carretera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_Autonómica -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_Autonómica">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera"/>
+        <rdfs:label xml:lang="es">Carretera Autonómica</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#CarreteraAutonomica&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_autonómica_primer_nivel -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_autonómica_primer_nivel">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera_Autonómica"/>
+        <rdfs:label xml:lang="es">Carretera autonómica primer nivel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_autonómica_segundo_nivel -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_autonómica_segundo_nivel">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera_Autonómica"/>
+        <rdfs:label xml:lang="es">Carretera autonómica segundo nivel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_autonómica_tercer_nivel -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_autonómica_tercer_nivel">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera_Autonómica"/>
+        <rdfs:label xml:lang="es">Carretera autonómica tercer nivel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_comarcal -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_comarcal">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera"/>
+        <rdfs:label xml:lang="es">Carretera comarcal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_local -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_local">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera"/>
+        <rdfs:label xml:lang="es">Carretera local</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_nacional -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_nacional">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera"/>
+        <rdfs:label xml:lang="es">Carretera nacional</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#CarreteraNacional&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Carretera_provincial -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Carretera_provincial">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Carretera"/>
+        <rdfs:label xml:lang="es">Carretera provincial</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Ciudad -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Ciudad">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Ciudad</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Ciudad_Autónoma -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Ciudad_Autónoma">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <rdfs:label xml:lang="es">Ciudad Autónoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Comarca -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Comarca">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <rdfs:label xml:lang="es">Comarca</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ComarcaRegion&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Comunidad_Autónoma -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Comunidad_Autónoma">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <owl:disjointWith rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:label xml:lang="es">Comunidad Autonoma</rdfs:label>
+        <rdfs:seeAlso>&lt;http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#CiudadAutonoma&gt;</rdfs:seeAlso>
+        <rdfs:seeAlso>&lt;http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#ComunidadAutonoma&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Concejo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Concejo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Municipio"/>
+        <rdfs:comment xml:lang="es">Concejo es la denominación que reciben los municipios en la comunidad autónoma del Principado de Asturias,</rdfs:comment>
+        <rdfs:label xml:lang="es">Concejo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Cordillera -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Cordillera">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Montaña"/>
+        <rdfs:label xml:lang="es">Cordillera</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Cordillera&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Costa -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Costa">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Costa&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Costa</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Costa&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Curso_de_agua -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Curso_de_agua">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Curso de agua</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Embalse -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Embalse">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Embalse</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Embalse&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Ensenada -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Ensenada">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Ensenada&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Ensenada</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Ensenada&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Entidad_singular_de_población -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Entidad_singular_de_población">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Entidad singular de población</rdfs:label>
+        <rdfs:seeAlso>https://es.wikipedia.org/wiki/Entidad_singular_de_poblaci%C3%B3n</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Esclusa -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Esclusa">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Esclusa</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Esclusa&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Estación_esquí -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Estación_esquí">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Alojamiento_Ocio"/>
+        <rdfs:label xml:lang="es">Estación esquí</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#EstacionInvernal&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Estación_ferrocarril -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Estación_ferrocarril">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Estación ferrocarril</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#EstacionDeFerrocarril&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Estanque -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Estanque">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Estanque</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Estanque&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Estrecho -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Estrecho">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Estrecho&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Estrecho</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Estrecho&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Explotación_minera -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Explotación_minera">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zonas_Uso"/>
+        <rdfs:label xml:lang="es">Explotación minera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Golfo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Golfo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Golfo&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Golfo</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Golfo&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Gran_ciudad -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Gran_ciudad">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Ciudad"/>
+        <rdfs:label xml:lang="es">Gran ciudad</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Helipuerto -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Helipuerto">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Aéreo"/>
+        <rdfs:label xml:lang="es">Helipuerto</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Helipuerto&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Hospital -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Hospital">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugares_Interés"/>
+        <rdfs:label xml:lang="es">Hospital</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Instalación_deportiva -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Instalación_deportiva">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Alojamiento_Ocio"/>
+        <rdfs:label xml:lang="es">Instalación deportiva</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#InstalacionDeportiva&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Institución_educativa_pública -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Institución_educativa_pública">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugares_Interés"/>
+        <rdfs:label xml:lang="es">Institución educativa pública</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Isla -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Isla">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Isla</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#IslaMaritima&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lago -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lago">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy xml:lang="es">&lt;http://es.dbpedia.org/resource/Lago&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Lago</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Laguna_costera -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Laguna_costera">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy xml:lang="es">&lt;http://es.dbpedia.org/resource/Laguna_costera&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Laguna costera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Localidad -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Localidad">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Localidad</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugar -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugar">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdfs:comment xml:lang="es">Súper clase para búsquedas globales</rdfs:comment>
+        <rdfs:label xml:lang="es">Lugar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugar_Administrativo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugar_Administrativo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:label xml:lang="es">Lugar Administrativo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugar_Histórico -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugar_Histórico">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdfs:label xml:lang="es">Lugar Histórico</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:label xml:lang="es">Lugar Marítimo y Fluvial</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugar_Montaña -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugar_Montaña">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:seeAlso xml:lang="es">Lugar Montaña</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugar_Transporte -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugar_Transporte">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar"/>
+        <rdfs:label xml:lang="es">Lugar Transporte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Lugares_Interés -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Lugares_Interés">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Lugares Interés</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Línea_alta_velocidad -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Línea_alta_velocidad">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Línea alta velocidad</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#FerrocarrilAltaVelocidad&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Línea_férrea -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Línea_férrea">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Línea férrea</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#FerrocarrilConvencional&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Mar -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Mar">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Mar</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Mar&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Mina -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Mina">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Explotación_minera"/>
+        <rdfs:label xml:lang="es">Mina</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Mina&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Montaña -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Montaña">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Montaña"/>
+        <rdfs:label xml:lang="es">Montaña</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Montana&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Municipio -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Municipio">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <owl:disjointWith rdf:resource="http://www.monumentos.es/lugares/Provincia"/>
+        <rdfs:label xml:lang="es">Municipio</rdfs:label>
+        <rdfs:seeAlso>&lt;http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#Municipio&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Núcleo_de_población -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Núcleo_de_población">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Núcleo de población</rdfs:label>
+        <rdfs:seeAlso>https://es.wikipedia.org/wiki/N%C3%BAcleo_de_poblaci%C3%B3n</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Pantano -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Pantano">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Pantano</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Paraje_Natural -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Paraje_Natural">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:label xml:lang="es">Paraje Natural</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Parque -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Parque">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zonas_Uso"/>
+        <rdfs:label xml:lang="es">Parque</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Parque_Nacional_de_España -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Parque_Nacional_de_España">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Parques_nacionales_de_España&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Parque Nacional de España</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ParqueNacional&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Pedanía -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Pedanía">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <rdfs:label xml:lang="es">Pedanía</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Península -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Península">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Península&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Península</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Playa -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Playa">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Playa&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Playa</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Playa&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Playa_de_arenas_negras -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Playa_de_arenas_negras">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Playa"/>
+        <rdfs:label xml:lang="es">Playa de arenas negras</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Playa_de_guijarros -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Playa_de_guijarros">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Playa"/>
+        <rdfs:label xml:lang="es">Playa de guijarros</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Playa_urbana -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Playa_urbana">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Playa"/>
+        <rdfs:label xml:lang="es">Playa urbana</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Presa -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Presa">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Presa</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Presa&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Provincia -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Provincia">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <rdfs:label xml:lang="es">Provincia</rdfs:label>
+        <rdfs:seeAlso>&lt;http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#Provincia&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Pueblo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Pueblo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Pueblo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Puerto -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Puerto">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Puerto</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Puerto&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Puerto_de_Montaña -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Puerto_de_Montaña">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Montaña"/>
+        <rdfs:label xml:lang="es">Puerto de Montaña</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#PuertoDeMontana&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Rambla -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Rambla">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label>&lt;https://datos.ign.es/def/btn100#Rambla&gt;</rdfs:label>
+        <rdfs:label xml:lang="es">Rambla</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Reserva_natural -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Reserva_natural">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:label xml:lang="es">Reserva natural</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Ría -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Ría">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:label xml:lang="es">Ría</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Ria&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Río -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Río">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Marítimo_y_Fluvial"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Río&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Río</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#RioLineal&gt;</rdfs:seeAlso>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#RioSuperficial&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Sierra -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Sierra">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Montaña"/>
+        <rdfs:label xml:lang="es">Sierra</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Sierra&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Sitio_Ramsar -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Sitio_Ramsar">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:label xml:lang="es">Sitio Ramsar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Teleférico -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Teleférico">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Transporte_suspendido"/>
+        <rdfs:label xml:lang="es">Teleférico</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Teleferico&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Transporte_suspendido -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Transporte_suspendido">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Transporte"/>
+        <rdfs:label xml:lang="es">Transporte suspendido</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Universidad -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Universidad">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugares_Interés"/>
+        <rdfs:label xml:lang="es">Universidad</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#Universidad&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Universidad_pública -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Universidad_pública">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Universidad"/>
+        <rdfs:label xml:lang="es">Universidad pública</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Valle -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Valle">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Montaña"/>
+        <rdfs:label xml:lang="es">Valle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zona_de_especial_protección_para_las_aves -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zona_de_especial_protección_para_las_aves">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Zona_de_especial_protección_para_las_aves&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Zona de especial protección para las aves</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ZonaEspecialProteccionAves&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zona_de_recreo -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zona_de_recreo">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zonas_Uso"/>
+        <rdfs:label xml:lang="es">Zona de recreo</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ZonaRecreativa&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zona_especial_de_conservación -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zona_especial_de_conservación">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Zona_especial_de_conservación&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Zona especial de conservación</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zona_industrial -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zona_industrial">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zonas_Uso"/>
+        <rdfs:label xml:lang="es">Zona industrial</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ZonaIndustrial&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zona_protegida -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zona_protegida">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Lugar_Administrativo"/>
+        <rdfs:label xml:lang="es">Zoma protegida</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zona_verde -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zona_verde">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zonas_Uso"/>
+        <rdfs:label xml:lang="es">Zona verde</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ZonaVerde&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Zonas_Uso -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Zonas_Uso">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Asentamiento_Humano"/>
+        <rdfs:label xml:lang="es">Zonas Uso</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Área_de_servicio -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Área_de_servicio">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zonas_Uso"/>
+        <rdfs:label xml:lang="es">Área de servicio</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#AreaDeServicio&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.monumentos.es/lugares/Área_protegida -->
+
+    <owl:Class rdf:about="http://www.monumentos.es/lugares/Área_protegida">
+        <rdfs:subClassOf rdf:resource="http://www.monumentos.es/lugares/Zona_protegida"/>
+        <rdfs:isDefinedBy>&lt;http://es.dbpedia.org/resource/Área_protegida&gt;</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="es">Área protegida</rdfs:label>
+        <rdfs:seeAlso>&lt;https://datos.ign.es/def/btn100#ZonaProtegida&gt;</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.opengis.net/ont/geosparql#SpatialObject -->
+
+    <owl:Class rdf:about="http://www.opengis.net/ont/geosparql#SpatialObject"/>
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#Point -->
+
+    <owl:Class rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#Point">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdfs:comment> 
+Uniquely identified by lat/long/alt. i.e.
+
+spaciallyIntersects(P1, P2) :- lat(P1, LAT), long(P1, LONG), alt(P1, ALT),
+  lat(P2, LAT), long(P2, LONG), alt(P2, ALT).
+
+sameThing(P1, P2) :- type(P1, Point), type(P2, Point), spaciallyIntersects(P1, P2).
+  </rdfs:comment>
+        <rdfs:comment>A point, typically described using a coordinate system relative to Earth, such as WGS84.
+  </rdfs:comment>
+        <rdfs:label>point</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing -->
+
+    <owl:Class rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing">
+        <rdfs:comment>Anything with spatial extent, i.e. size, shape, or position.
+ e.g. people, places, bowling balls, as well as abstract areas like cubes.
+</rdfs:comment>
+        <rdfs:label>SpatialThing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#">
+        <dc:date>$Date: 2009/04/20 15:00:30 $</dc:date>
+        <dc:description>A vocabulary for representing latitude, longitude and 
+ altitude information in the WGS84 geodetic reference datum. 
+ Version $Id: wgs84_pos.rdf,v 1.22 2009/04/20 15:00:30 timbl Exp $. See http://www.w3.org/2003/01/geo/ for more details.</dc:description>
+        <dc:title>WGS84 Geo Positioning: an RDF vocabulary</dc:title>
+        <rdfs:comment>
+Recent changes to this namespace:
+$Log: wgs84_pos.rdf,v $
+Revision 1.22  2009/04/20 15:00:30  timbl
+Remove the time bits which have been deal with elsewhere eg in iCal.
+
+Revision 1.21  2009/04/20 12:52:47  timbl
+try again
+
+Revision 1.20  2009/04/20 12:42:11  timbl
+Add Event (edited ages ago and never checked in), and location (following discussion http://chatlogs.planetrdf.com/swig/2009-04-20#T12-36-09)
+
+Revision 1.19  2009/04/20 12:36:31  timbl
+Add Event (edited ages ago and never checked in), and location (following discussion http://chatlogs.planetrdf.com/swig/2009-04-20#T12-36-09)
+
+Revision 1.18  2006/02/01 22:01:04  danbri
+Clarified that lat and long are decimal degrees, and that alt is decimal metres about local reference ellipsoid
+
+Revision 1.17  2004/02/06 17:38:12  danbri
+Fixed a bad commit screwup
+
+Revision 1.15  2003/04/19 11:24:08  danbri
+Fixed the typo even more.
+
+Revision 1.14  2003/04/19 11:16:56  danbri
+fixed a typo
+
+Revision 1.13  2003/02/19 22:27:27  connolly
+relaxed domain constraints on lat/long/alt from Point to SpatialThing
+
+Revision 1.12  2003/01/12 01:41:41  danbri
+Trying local copy of XSLT doc.
+
+Revision 1.11  2003/01/12 01:20:18  danbri
+added a link to morten&apos;s xslt rdfs viewer.
+
+Revision 1.10  2003/01/11 18:56:49  danbri
+Removed datatype range from lat and long properties, since they would
+have required each occurance of the property to mention the datatype.
+
+Revision 1.9  2003/01/11 11:41:31  danbri
+Another typo; repaired rdfs:Property to rdf:Property x4
+
+Revision 1.8  2003/01/11 11:05:02  danbri
+Added an rdfs:range for each lat/long/alt property,
+http://www.w3.org/2001/XMLSchema#float
+
+Revision 1.7  2003/01/10 20:25:16  danbri
+Longer rdfs:comment for Point, trying to be Earth-centric and neutral about
+coordinate system(s) at the same time. Feedback welcomed.
+
+Revision 1.6  2003/01/10 20:18:30  danbri
+Added CVS log comments into the RDF/XML as an rdfs:comment property of the
+vocabulary. Note that this is not common practice (but seems both harmless
+and potentially useful).
+
+
+revision 1.5
+date: 2003/01/10 20:14:31;  author: danbri;  state: Exp;  lines: +16 -5
+Updated schema:
+Added a dc:date, added url for more info. Changed the rdfs:label of the
+namespace from gp to geo. Added a class Point, set as the rdfs:domain of
+each property. Added XML comment on the lat_long property suggesting that
+we might not need it (based on #rdfig commentary from implementors).
+
+revision 1.4
+date: 2003/01/10 20:01:07;  author: danbri;  state: Exp;  lines: +6 -5
+Fixed typo; several rdfs:about attributes are now rdf:about. Thanks to MortenF in
+#rdfig for catching this error.
+
+revision 1.3
+date: 2003/01/10 11:59:03;  author: danbri;  state: Exp;  lines: +4 -3
+fixed buglet in vocab, added more wgs links
+
+revision 1.2
+date: 2003/01/10 11:01:11;  author: danbri;  state: Exp;  lines: +4 -4
+Removed alt from the as-a-flat-string property, and switched from
+space separated to comma separated.
+
+revision 1.1
+date: 2003/01/10 10:53:23;  author: danbri;  state: Exp;
+basic geo vocab
+
+</rdfs:comment>
+        <rdfs:label>geo</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#alt">
+        <rdfs:comment>The WGS84 altitude of a SpatialThing (decimal meters 
+above the local reference ellipsoid).</rdfs:comment>
+        <rdfs:label>altitude</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#lat_long">
+        <rdfs:comment>A comma-separated representation of a latitude, longitude coordinate.</rdfs:comment>
+        <rdfs:label>lat/long</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
