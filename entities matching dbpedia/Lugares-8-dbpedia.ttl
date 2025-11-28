@@ -1,0 +1,2812 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q1117341>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_Subbética" .
+
+<http://www.wikidata.org/entity/Q1117040>
+        owl:sameAs  "http://es.dbpedia.org/resource/Costa_Noroeste_de_Cádiz" .
+
+<http://www.wikidata.org/entity/Q1116986>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campo_de_Gibraltar" .
+
+<http://www.wikidata.org/entity/Q1116210>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alpujarra_Almeriense" .
+
+<http://www.wikidata.org/entity/Q1117159>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Alto_Guadalquivir" .
+
+<http://www.wikidata.org/entity/Q1117207>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Pedroches" .
+
+<http://www.wikidata.org/entity/Q1117232>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_Sur_Cordobesa" .
+
+<http://www.wikidata.org/entity/Q1117219>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Guadiato" .
+
+<http://www.wikidata.org/entity/Q1117197>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_Medio_del_Guadalquivir" .
+
+<http://www.wikidata.org/entity/Q1117052>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Janda" .
+
+<http://www.wikidata.org/entity/Q1117245>
+        owl:sameAs  "http://es.dbpedia.org/resource/Mancomunidad_del_Guadajoz_Campiña_Este_de_Córdoba" .
+
+<http://www.wikidata.org/entity/Q1117064>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cádiz" .
+
+<http://www.wikidata.org/entity/Q1116600>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Montes" .
+
+<http://www.wikidata.org/entity/Q1116308>
+        owl:sameAs  "http://es.dbpedia.org/resource/Levante_Almeriense" .
+
+<http://www.wikidata.org/entity/Q1116285>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Almanzora" .
+
+<http://www.wikidata.org/entity/Q1116323>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Filabres-Tabernas" .
+
+<http://www.wikidata.org/entity/Q1116313>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Vélez" .
+
+<http://www.wikidata.org/entity/Q1116295>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_Metropolitana_de_Almería" .
+
+<http://www.wikidata.org/entity/Q1116330>
+        owl:sameAs  "http://es.dbpedia.org/resource/Poniente_Almeriense" .
+
+<http://www.wikidata.org/entity/Q2452306>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Morena_(Jaén)" .
+
+<http://www.wikidata.org/entity/Q791881>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Axarquía" .
+
+<http://www.wikidata.org/entity/Q535716>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Córdoba" .
+
+<http://www.wikidata.org/entity/Q930932>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Antequera" .
+
+<http://www.wikidata.org/entity/Q1031357>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_de_Jerez" .
+
+<http://www.wikidata.org/entity/Q1088577>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Sierra_de_Segura_(Jaén)" .
+
+<http://www.wikidata.org/entity/Q1088924>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Sierra_Mágina" .
+
+<http://www.wikidata.org/entity/Q628736>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Condado_(Jaén)" .
+
+<http://www.wikidata.org/entity/Q803684>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_la_Bahía_de_Cádiz" .
+
+<http://www.wikidata.org/entity/Q1143168>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cuenca_Minera_(Huelva)" .
+
+<http://www.wikidata.org/entity/Q1323868>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aljarafe" .
+
+<http://www.wikidata.org/entity/Q2452242>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_de_Jaén" .
+
+<http://www.wikidata.org/entity/Q2452253>
+        owl:sameAs  "http://es.dbpedia.org/resource/Las_Villas_(Jaén)" .
+
+<http://www.wikidata.org/entity/Q2452232>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Loma_(Jaén)" .
+
+<http://www.wikidata.org/entity/Q2198539>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Sierra_de_Cazorla" .
+
+<http://www.wikidata.org/entity/Q1324039>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Condado_(Huelva)" .
+
+<http://www.wikidata.org/entity/Q1529769>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serranía_de_Ronda" .
+
+<http://www.wikidata.org/entity/Q2651661>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Sur_de_Sevilla" .
+
+<http://www.wikidata.org/entity/Q2655584>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_Metropolitana_de_Sevilla" .
+
+<http://www.wikidata.org/entity/Q2651644>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vega_del_Guadalquivir" .
+
+<http://www.wikidata.org/entity/Q2651680>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Nieves_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2984687>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_Metropolitana_de_Huelva" .
+
+<http://www.wikidata.org/entity/Q2997038>
+        owl:sameAs  "http://es.dbpedia.org/resource/Costa_del_Sol_Occidental" .
+
+<http://www.wikidata.org/entity/Q2997044>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Guadalhorce" .
+
+<http://www.wikidata.org/entity/Q2996999>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Huelva" .
+
+<http://www.wikidata.org/entity/Q98836292>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Norte_de_Sevilla" .
+
+<http://www.wikidata.org/entity/Q2997007>
+        owl:sameAs  "http://es.dbpedia.org/resource/Costa_Occidental_de_Huelva" .
+
+<http://www.wikidata.org/entity/Q2642580>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_de_Carmona" .
+
+<http://www.wikidata.org/entity/Q2452346>
+        owl:sameAs  "http://es.dbpedia.org/resource/Málaga-Costa_del_Sol" .
+
+<http://www.wikidata.org/entity/Q2452356>
+        owl:sameAs  "http://es.dbpedia.org/resource/Nororma" .
+
+<http://www.wikidata.org/entity/Q2452313>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Sur_de_Jaén" .
+
+<http://www.wikidata.org/entity/Q2642637>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Guadalquivir_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2642620>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_de_Morón_y_Marchena" .
+
+<http://www.wikidata.org/entity/Q2642589>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Écija" .
+
+<http://www.wikidata.org/entity/Q2476643>
+        owl:sameAs  "http://es.dbpedia.org/resource/Andévalo" .
+
+<http://www.wikidata.org/entity/Q12723>
+        owl:sameAs  "http://es.dbpedia.org/resource/Pallars_Jussá" .
+
+<http://www.wikidata.org/entity/Q12600>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Maresme" .
+
+<http://www.wikidata.org/entity/Q12727>
+        owl:sameAs  "http://es.dbpedia.org/resource/Segriá" .
+
+<http://www.wikidata.org/entity/Q12728>
+        owl:sameAs  "http://es.dbpedia.org/resource/Plana_de_Urgel" .
+
+<http://www.wikidata.org/entity/Q12726>
+        owl:sameAs  "http://es.dbpedia.org/resource/Noguera" .
+
+<http://www.wikidata.org/entity/Q10932>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Garrocha" .
+
+<http://www.wikidata.org/entity/Q10930>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ripollés" .
+
+<http://www.wikidata.org/entity/Q6904>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Ampurdán" .
+
+<http://www.wikidata.org/entity/Q12704>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alta_Ribagorza" .
+
+<http://www.wikidata.org/entity/Q12720>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Urgel" .
+
+<http://www.wikidata.org/entity/Q12719>
+        owl:sameAs  "http://es.dbpedia.org/resource/Pallars_Sobirá" .
+
+<http://www.wikidata.org/entity/Q12734>
+        owl:sameAs  "http://es.dbpedia.org/resource/Solsonés" .
+
+<http://www.wikidata.org/entity/Q12752>
+        owl:sameAs  "http://es.dbpedia.org/resource/Gironés" .
+
+<http://www.wikidata.org/entity/Q12762>
+        owl:sameAs  "http://es.dbpedia.org/resource/Pla_de_l'Estany" .
+
+<http://www.wikidata.org/entity/Q12768>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Ampurdán" .
+
+<http://www.wikidata.org/entity/Q13948>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vallés_Occidental" .
+
+<http://www.wikidata.org/entity/Q15360>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tarragonés" .
+
+<http://www.wikidata.org/entity/Q15354>
+        owl:sameAs  "http://es.dbpedia.org/resource/Garraf" .
+
+<http://www.wikidata.org/entity/Q15355>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Panadés" .
+
+<http://www.wikidata.org/entity/Q4895313>
+        owl:sameAs  "http://es.dbpedia.org/resource/Llusanés" .
+
+<http://www.wikidata.org/entity/Q9035550>
+        owl:sameAs  "http://es.dbpedia.org/resource/Moyanés" .
+
+<http://www.wikidata.org/entity/Q15377>
+        owl:sameAs  "http://es.dbpedia.org/resource/Priorato_(Tarragona)" .
+
+<http://www.wikidata.org/entity/Q12778>
+        owl:sameAs  "http://es.dbpedia.org/resource/Selva_(comarca)" .
+
+<http://www.wikidata.org/entity/Q12787>
+        owl:sameAs  "http://es.dbpedia.org/resource/Baja_Cerdaña" .
+
+<http://www.wikidata.org/entity/Q12793>
+        owl:sameAs  "http://es.dbpedia.org/resource/Osona" .
+
+<http://www.wikidata.org/entity/Q12729>
+        owl:sameAs  "http://es.dbpedia.org/resource/Urgel_(Lérida)" .
+
+<http://www.wikidata.org/entity/Q12732>
+        owl:sameAs  "http://es.dbpedia.org/resource/Las_Garrigas" .
+
+<http://www.wikidata.org/entity/Q12733>
+        owl:sameAs  "http://es.dbpedia.org/resource/Segarra" .
+
+<http://www.wikidata.org/entity/Q15352>
+        owl:sameAs  "http://es.dbpedia.org/resource/Noya_(Barcelona)" .
+
+<http://www.wikidata.org/entity/Q15348>
+        owl:sameAs  "http://es.dbpedia.org/resource/Barcelonés" .
+
+<http://www.wikidata.org/entity/Q15351>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Llobregat" .
+
+<http://www.wikidata.org/entity/Q15361>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Campo" .
+
+<http://www.wikidata.org/entity/Q15374>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ribera_de_Ebro" .
+
+<http://www.wikidata.org/entity/Q15376>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_Alta" .
+
+<http://www.wikidata.org/entity/Q15368>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cuenca_de_Barberá" .
+
+<http://www.wikidata.org/entity/Q15367>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montsiá" .
+
+<http://www.wikidata.org/entity/Q15364>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Ebro" .
+
+<http://www.wikidata.org/entity/Q15362>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Panadés" .
+
+<http://www.wikidata.org/entity/Q15365>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Campo" .
+
+<http://www.wikidata.org/entity/Q15346>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bages" .
+
+<http://www.wikidata.org/entity/Q14303>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vallés_Oriental" .
+
+<http://www.wikidata.org/entity/Q15345>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bergadá" .
+
+<http://www.wikidata.org/entity/Q613212>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Morrazo" .
+
+<http://www.wikidata.org/entity/Q605850>
+        owl:sameAs  "http://es.dbpedia.org/resource/Benavente_y_Los_Valles" .
+
+<http://www.wikidata.org/entity/Q959356>
+        owl:sameAs  "http://es.dbpedia.org/resource/Área_metropolitana_de_Madrid" .
+
+<http://www.wikidata.org/entity/Q1069073>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Jallas" .
+
+<http://www.wikidata.org/entity/Q1074128>
+        owl:sameAs  "http://es.dbpedia.org/resource/Omaña" .
+
+<http://www.wikidata.org/entity/Q1074123>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Medina" .
+
+<http://www.wikidata.org/entity/Q1074113>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montaña_de_Luna_(comarca_agraria)" .
+
+<http://www.wikidata.org/entity/Q516547>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Condado" .
+
+<http://www.wikidata.org/entity/Q478498>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vega_Alta_del_Segura" .
+
+<http://www.wikidata.org/entity/Q542759>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_del_Henares" .
+
+<http://www.wikidata.org/entity/Q379170>
+        owl:sameAs  "http://es.dbpedia.org/resource/Baztán_(comarca)" .
+
+<http://www.wikidata.org/entity/Q534742>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Loja" .
+
+<http://www.wikidata.org/entity/Q384389>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Tierra_de_Soneira" .
+
+<http://www.wikidata.org/entity/Q430384>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Baza" .
+
+<http://www.wikidata.org/entity/Q591735>
+        owl:sameAs  "http://es.dbpedia.org/resource/Boedo-Ojeda" .
+
+<http://www.wikidata.org/entity/Q428468>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alfoz_de_Toro" .
+
+<http://www.wikidata.org/entity/Q959570>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Astorga" .
+
+<http://www.wikidata.org/entity/Q970782>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Tierra_de_Celanova" .
+
+<http://www.wikidata.org/entity/Q1031544>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campoo-Los_Valles" .
+
+<http://www.wikidata.org/entity/Q1048923>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_la_Barcala" .
+
+<http://www.wikidata.org/entity/Q962559>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Sagra" .
+
+<http://www.wikidata.org/entity/Q960487>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Sarria" .
+
+<http://www.wikidata.org/entity/Q2092889>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cabrera_(León)" .
+
+<http://www.wikidata.org/entity/Q742844>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Cervera" .
+
+<http://www.wikidata.org/entity/Q791012>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Avilés" .
+
+<http://www.wikidata.org/entity/Q745266>
+        owl:sameAs  "http://es.dbpedia.org/resource/Maestrazgo_(Teruel)" .
+
+<http://www.wikidata.org/entity/Q780060>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Bierzo" .
+
+<http://www.wikidata.org/entity/Q929208>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Ricote" .
+
+<http://www.wikidata.org/entity/Q639881>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Llerena" .
+
+<http://www.wikidata.org/entity/Q1069080>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Ortegal" .
+
+<http://www.wikidata.org/entity/Q1074058>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_del_Pisuerga" .
+
+<http://www.wikidata.org/entity/Q1074064>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campo_de_Peñafiel" .
+
+<http://www.wikidata.org/entity/Q1074087>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montaña_de_Riaño_(comarca_agraria)" .
+
+<http://www.wikidata.org/entity/Q1074042>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Peñaranda" .
+
+<http://www.wikidata.org/entity/Q1069111>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Tierra_Llana" .
+
+<http://www.wikidata.org/entity/Q1074081>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_El_Barco_de_Ávila-Piedrahíta" .
+
+<http://www.wikidata.org/entity/Q1079781>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Valdeorras" .
+
+<http://www.wikidata.org/entity/Q1074134>
+        owl:sameAs  "http://es.dbpedia.org/resource/Luna_(comarca)" .
+
+<http://www.wikidata.org/entity/Q1074451>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montaña_Palentina" .
+
+<http://www.wikidata.org/entity/Q1074442>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Guareña" .
+
+<http://www.wikidata.org/entity/Q1074471>
+        owl:sameAs  "http://es.dbpedia.org/resource/Páramos-Valles" .
+
+<http://www.wikidata.org/entity/Q1078855>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Tierra_de_Trives" .
+
+<http://www.wikidata.org/entity/Q1074460>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Arenas_de_San_Pedro" .
+
+<http://www.wikidata.org/entity/Q1078948>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Quiroga" .
+
+<http://www.wikidata.org/entity/Q1116418>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alpujarra_Granadina" .
+
+<http://www.wikidata.org/entity/Q1116448>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Alhama" .
+
+<http://www.wikidata.org/entity/Q2449881>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campo_Charro" .
+
+<http://www.wikidata.org/entity/Q2452224>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Alcalá" .
+
+<http://www.wikidata.org/entity/Q1143170>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cuenca_del_Medio_Jarama" .
+
+<http://www.wikidata.org/entity/Q1194958>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Verín" .
+
+<http://www.wikidata.org/entity/Q1116480>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Lecrín" .
+
+<http://www.wikidata.org/entity/Q1116633>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Huéscar" .
+
+<http://www.wikidata.org/entity/Q1116489>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vega_de_Granada" .
+
+<http://www.wikidata.org/entity/Q1116497>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Guadix" .
+
+<http://www.wikidata.org/entity/Q1143162>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cuenca_Alta_del_Manzanares" .
+
+<http://www.wikidata.org/entity/Q1116506>
+        owl:sameAs  "http://es.dbpedia.org/resource/Costa_Granadina" .
+
+<http://www.wikidata.org/entity/Q2651044>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Ebro" .
+
+<http://www.wikidata.org/entity/Q2476562>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Badajoz" .
+
+<http://www.wikidata.org/entity/Q2472448>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Serena_(Badajoz)" .
+
+<http://www.wikidata.org/entity/Q2476656>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Suroeste" .
+
+<http://www.wikidata.org/entity/Q2467022>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Alba_(Zamora)" .
+
+<http://www.wikidata.org/entity/Q2456497>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Armuña" .
+
+<http://www.wikidata.org/entity/Q2456508>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Sobarriba" .
+
+<http://www.wikidata.org/entity/Q2456708>
+        owl:sameAs  "http://es.dbpedia.org/resource/Páramo_Leonés" .
+
+<http://www.wikidata.org/entity/Q2466746>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Sahagún" .
+
+<http://www.wikidata.org/entity/Q2453722>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_Metropolitana_de_Jaén" .
+
+<http://www.wikidata.org/entity/Q2469800>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_de_Guadalajara" .
+
+<http://www.wikidata.org/entity/Q2472433>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valles_Pasiegos" .
+
+<http://www.wikidata.org/entity/Q2382863>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Cerrato" .
+
+<http://www.wikidata.org/entity/Q2449826>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tentudía" .
+
+<http://www.wikidata.org/entity/Q2300713>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Palancia" .
+
+<http://www.wikidata.org/entity/Q2352324>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierras_del_Burgo" .
+
+<http://www.wikidata.org/entity/Q2283933>
+        owl:sameAs  "http://es.dbpedia.org/resource/Babia" .
+
+<http://www.wikidata.org/entity/Q2394705>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Siberia" .
+
+<http://www.wikidata.org/entity/Q2642626>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Manchuela_(Albacete)" .
+
+<http://www.wikidata.org/entity/Q2642605>
+        owl:sameAs  "http://es.dbpedia.org/resource/Mancha_Júcar-Centro" .
+
+<http://www.wikidata.org/entity/Q2642648>
+        owl:sameAs  "http://es.dbpedia.org/resource/Manchuela_conquense" .
+
+<http://www.wikidata.org/entity/Q2642667>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campos_de_Hellín" .
+
+<http://www.wikidata.org/entity/Q2628393>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_Oriental" .
+
+<http://www.wikidata.org/entity/Q2642598>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Campana_de_Oropesa" .
+
+<http://www.wikidata.org/entity/Q2651030>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Las_Vegas" .
+
+<http://www.wikidata.org/entity/Q2642614>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Llanos_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2477431>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Argüellos" .
+
+<http://www.wikidata.org/entity/Q2602886>
+        owl:sameAs  "http://es.dbpedia.org/resource/Saja-Nansa" .
+
+<http://www.wikidata.org/entity/Q2486066>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_del_Vino" .
+
+<http://www.wikidata.org/entity/Q2598888>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Serena-Vegas_Altas" .
+
+<http://www.wikidata.org/entity/Q2602899>
+        owl:sameAs  "http://es.dbpedia.org/resource/Besaya_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2602905>
+        owl:sameAs  "http://es.dbpedia.org/resource/Costa_Occidental_(Cantabria)" .
+
+<http://www.wikidata.org/entity/Q2605814>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sanabria" .
+
+<http://www.wikidata.org/entity/Q2602918>
+        owl:sameAs  "http://es.dbpedia.org/resource/Trasmiera" .
+
+<http://www.wikidata.org/entity/Q2628334>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vega_Media_del_Segura" .
+
+<http://www.wikidata.org/entity/Q2606839>
+        owl:sameAs  "http://es.dbpedia.org/resource/Costa_Oriental_(Cantabria)" .
+
+<http://www.wikidata.org/entity/Q2606861>
+        owl:sameAs  "http://es.dbpedia.org/resource/Mesa_de_Ocaña" .
+
+<http://www.wikidata.org/entity/Q2628343>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bajo_Guadalentín" .
+
+<http://www.wikidata.org/entity/Q2606886>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Olivenza" .
+
+<http://www.wikidata.org/entity/Q2606931>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Mérida_-_Vegas_Bajas" .
+
+<http://www.wikidata.org/entity/Q2628385>
+        owl:sameAs  "http://es.dbpedia.org/resource/Huerta_de_Murcia" .
+
+<http://www.wikidata.org/entity/Q2628389>
+        owl:sameAs  "http://es.dbpedia.org/resource/Altiplano_murciano" .
+
+<http://www.wikidata.org/entity/Q2628379>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Río_Mula" .
+
+<http://www.wikidata.org/entity/Q2628373>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Noroeste" .
+
+<http://www.wikidata.org/entity/Q2722649>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campo_de_Cartagena" .
+
+<http://www.wikidata.org/entity/Q2655397>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierras_de_León_(comarca_agraria)" .
+
+<http://www.wikidata.org/entity/Q2655342>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Béjar_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2653930>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Trujillo" .
+
+<http://www.wikidata.org/entity/Q13050162>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serranía_Baja" .
+
+<http://www.wikidata.org/entity/Q48781804>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ribera_del_Órbigo" .
+
+<http://www.wikidata.org/entity/Q9087597>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Ledesma" .
+
+<http://www.wikidata.org/entity/Q18285574>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Oteros" .
+
+<http://www.wikidata.org/entity/Q12156704>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdeburón" .
+
+<http://www.wikidata.org/entity/Q9087587>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Alba_(Salamanca)" .
+
+<http://www.wikidata.org/entity/Q117268225>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Burgohondo_-_El_Tiemblo_-_Cebreros" .
+
+<http://www.wikidata.org/entity/Q2651670>
+        owl:sameAs  "http://es.dbpedia.org/resource/Monte_Ibérico-Corredor_de_Almansa" .
+
+<http://www.wikidata.org/entity/Q2651652>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Alagón" .
+
+<http://www.wikidata.org/entity/Q2651689>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vega-Valdavia" .
+
+<http://www.wikidata.org/entity/Q2651648>
+        owl:sameAs  "http://es.dbpedia.org/resource/Laciana" .
+
+<http://www.wikidata.org/entity/Q2651247>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Toledo_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2651637>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sayago_(España)" .
+
+<http://www.wikidata.org/entity/Q2651657>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alfoz_de_Burgos" .
+
+<http://www.wikidata.org/entity/Q2651675>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alcaraz_y_Campo_de_Montiel" .
+
+<http://www.wikidata.org/entity/Q2994921>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Moncayo" .
+
+<http://www.wikidata.org/entity/Q2984679>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarcas_de_Castilla-La_Mancha" .
+
+<http://www.wikidata.org/entity/Q2994930>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aliste" .
+
+<http://www.wikidata.org/entity/Q2984660>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Calahorra" .
+
+<http://www.wikidata.org/entity/Q2994926>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Carballeda" .
+
+<http://www.wikidata.org/entity/Q2996063>
+        owl:sameAs  "http://es.dbpedia.org/resource/Las_Villuercas" .
+
+<http://www.wikidata.org/entity/Q5964106>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Loma_y_las_Villas" .
+
+<http://www.wikidata.org/entity/Q5964564>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Ojeda" .
+
+<http://www.wikidata.org/entity/Q9020563>
+        owl:sameAs  "http://es.dbpedia.org/resource/Las_Villas_(Salamanca)" .
+
+<http://www.wikidata.org/entity/Q6107941>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ribera_del_Júcar_(Valencia)" .
+
+<http://www.wikidata.org/entity/Q5671016>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Carrión" .
+
+<http://www.wikidata.org/entity/Q5492404>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_de_Tábara" .
+
+<http://www.wikidata.org/entity/Q5965305>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Tercia_del_Camino" .
+
+<http://www.wikidata.org/entity/Q6159161>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Valdeón" .
+
+<http://www.wikidata.org/entity/Q2974289>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_del_Pan" .
+
+<http://www.wikidata.org/entity/Q2726433>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bureba" .
+
+<http://www.wikidata.org/entity/Q2722740>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Guadalentín" .
+
+<http://www.wikidata.org/entity/Q2726356>
+        owl:sameAs  "http://es.dbpedia.org/resource/Odra-Pisuerga" .
+
+<http://www.wikidata.org/entity/Q2917686>
+        owl:sameAs  "http://es.dbpedia.org/resource/Páramos_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2997017>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Jara_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2997021>
+        owl:sameAs  "http://es.dbpedia.org/resource/Zafra-Río_Bodión" .
+
+<http://www.wikidata.org/entity/Q4467247>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierra_del_Vino_(Valladolid)" .
+
+<http://www.wikidata.org/entity/Q2997050>
+        owl:sameAs  "http://es.dbpedia.org/resource/Guadalteba" .
+
+<http://www.wikidata.org/entity/Q3330011>
+        owl:sameAs  "http://es.dbpedia.org/resource/Asturias_de_Santillana" .
+
+<http://www.wikidata.org/entity/Q4893216>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Valduerna" .
+
+<http://www.wikidata.org/entity/Q3058896>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estella_Occidental" .
+
+<http://www.wikidata.org/entity/Q3780550>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_del_Arlanza" .
+
+<http://www.wikidata.org/entity/Q4891728>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdería_(León)" .
+
+<http://www.wikidata.org/entity/Q3571373>
+        owl:sameAs  "http://es.dbpedia.org/resource/Manchuela" .
+
+<http://www.wikidata.org/entity/Q4055893>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Ávila" .
+
+<http://www.wikidata.org/entity/Q5058336>
+        owl:sameAs  "http://es.dbpedia.org/resource/Los_Ancares" .
+
+<http://www.wikidata.org/entity/Q2469810>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tolosaldea" .
+
+<http://www.wikidata.org/entity/Q15385>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cerdaña" .
+
+<http://www.wikidata.org/entity/Q592112>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Tierra_de_Caldelas" .
+
+<http://www.wikidata.org/entity/Q661868>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Alpujarra" .
+
+<http://www.wikidata.org/entity/Q1807204>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Norte_(Madrid)" .
+
+<http://www.wikidata.org/entity/Q2019929>
+        owl:sameAs  "http://es.dbpedia.org/resource/Las_Hurdes" .
+
+<http://www.wikidata.org/entity/Q9085850>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tenencia_de_Miravet" .
+
+<http://www.wikidata.org/entity/Q8773495>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Valle_(Soria)" .
+
+<http://www.wikidata.org/entity/Q12396092>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_Miñor" .
+
+<http://www.wikidata.org/entity/Q9092416>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Biar" .
+
+<http://www.wikidata.org/entity/Q9076381>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serranía_Alta" .
+
+<http://www.wikidata.org/entity/Q10987039>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campo_Romanos" .
+
+<http://www.wikidata.org/entity/Q11162870>
+        owl:sameAs  "http://es.dbpedia.org/resource/Plana_de_Cuart" .
+
+<http://www.wikidata.org/entity/Q13049145>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Guarguera" .
+
+<http://www.wikidata.org/entity/Q19788575>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Navalmoral_de_la_Mata" .
+
+<http://www.wikidata.org/entity/Q110929516>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Cabrera_(comarca_agraria)" .
+
+<http://www.wikidata.org/entity/Q108860636>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tierras_de_Segovia" .
+
+<http://www.wikidata.org/entity/Q23987359>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Jable" .
+
+<http://www.wikidata.org/entity/Q30908831>
+        owl:sameAs  "http://es.dbpedia.org/resource/Las_7_Villas" .
+
+<http://www.wikidata.org/entity/Q105115434>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ribas_de_Sil_(comarca)" .
+
+<http://www.wikidata.org/entity/Q19788574>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Plasencia" .
+
+<http://www.wikidata.org/entity/Q106869533>
+        owl:sameAs  "http://es.dbpedia.org/resource/Gran_Panadés" .
+
+<http://www.wikidata.org/entity/Q110164246>
+        owl:sameAs  "http://es.dbpedia.org/resource/Astorga_(comarca_agraria)" .
+
+<http://www.wikidata.org/entity/Q28662772>
+        owl:sameAs  "http://es.dbpedia.org/resource/Barranco_de_las_Cinco_Villas" .
+
+<http://www.wikidata.org/entity/Q16482365>
+        owl:sameAs  "http://es.dbpedia.org/resource/Abadengo_de_Torío_(comarca)" .
+
+<http://www.wikidata.org/entity/Q118669393>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Vera_de_la_Sierra" .
+
+<http://www.wikidata.org/entity/Q15223606>
+        owl:sameAs  "http://es.dbpedia.org/resource/Uribe_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2479510>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Torrijos" .
+
+<http://www.wikidata.org/entity/Q5639224>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cuadrilla_del_Tozo" .
+
+<http://www.wikidata.org/entity/Q5965435>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Valdivia" .
+
+<http://www.wikidata.org/entity/Q6158796>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdoncina" .
+
+<http://www.wikidata.org/entity/Q6159062>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Aridane" .
+
+<http://www.wikidata.org/entity/Q3174942>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Asúa" .
+
+<http://www.wikidata.org/entity/Q3321708>
+        owl:sameAs  "http://es.dbpedia.org/resource/Enclave_de_Treviño" .
+
+<http://www.wikidata.org/entity/Q2837220>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Churrería" .
+
+<http://www.wikidata.org/entity/Q2984661>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cameros" .
+
+<http://www.wikidata.org/entity/Q4736718>
+        owl:sameAs  "http://es.dbpedia.org/resource/Altiplanicie_de_Almansa" .
+
+<http://www.wikidata.org/entity/Q6159214>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Ese-Entrecabos" .
+
+<http://www.wikidata.org/entity/Q8348189>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Abona" .
+
+<http://www.wikidata.org/entity/Q2652996>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valldigna" .
+
+<http://www.wikidata.org/entity/Q5851322>
+        owl:sameAs  "http://es.dbpedia.org/resource/Mancha_Baja" .
+
+<http://www.wikidata.org/entity/Q3211709>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Plana" .
+
+<http://www.wikidata.org/entity/Q5745675>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campiña_segoviana" .
+
+<http://www.wikidata.org/entity/Q5821248>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Carracillo" .
+
+<http://www.wikidata.org/entity/Q6125946>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serranía_Media-Campichuelo_y_Serranía_Baja" .
+
+<http://www.wikidata.org/entity/Q2842144>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serrablo" .
+
+<http://www.wikidata.org/entity/Q1297922>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_El_Gasco" .
+
+<http://www.wikidata.org/entity/Q1457717>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Almendra" .
+
+<http://www.wikidata.org/entity/Q5678588>
+        owl:sameAs  "http://es.dbpedia.org/resource/Pontón_de_la_Oliva" .
+
+<http://www.wikidata.org/entity/Q6085421>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_del_Bosquet" .
+
+<http://www.wikidata.org/entity/Q5715183>
+        owl:sameAs  "http://es.dbpedia.org/resource/Azud_de_Pareja" .
+
+<http://www.wikidata.org/entity/Q5785202>
+        owl:sameAs  "http://es.dbpedia.org/resource/Contraparada" .
+
+<http://www.wikidata.org/entity/Q6085409>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Valdeinfierno_(Cádiz)" .
+
+<http://www.wikidata.org/entity/Q5760792>
+        owl:sameAs  "http://es.dbpedia.org/resource/Central_hidroeléctrica_de_Iznájar" .
+
+<http://www.wikidata.org/entity/Q6085402>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Los_Toranes" .
+
+<http://www.wikidata.org/entity/Q20543845>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_del_Rey" .
+
+<http://www.wikidata.org/entity/Q20011060>
+        owl:sameAs  "http://es.dbpedia.org/resource/Azud_de_Riolobos" .
+
+<http://www.wikidata.org/entity/Q3375350>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Bemposta" .
+
+<http://www.wikidata.org/entity/Q3375894>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Miranda" .
+
+<http://www.wikidata.org/entity/Q2885019>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Aldeadávila" .
+
+<http://www.wikidata.org/entity/Q17057679>
+        owl:sameAs  "http://es.dbpedia.org/resource/Salto_del_Jándula" .
+
+<http://www.wikidata.org/entity/Q9062483>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Villalcampo" .
+
+<http://www.wikidata.org/entity/Q11700365>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Ricobayo" .
+
+<http://www.wikidata.org/entity/Q12387829>
+        owl:sameAs  "http://es.dbpedia.org/resource/Embalse_del_Eume" .
+
+<http://www.wikidata.org/entity/Q11963336>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Cedillo" .
+
+<http://www.wikidata.org/entity/Q97588047>
+        owl:sameAs  "http://es.dbpedia.org/resource/Embalse_de_Valdeobispo" .
+
+<http://www.wikidata.org/entity/Q97628372>
+        owl:sameAs  "http://es.dbpedia.org/resource/Embalse_de_Marismilla" .
+
+<http://www.wikidata.org/entity/Q98746996>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Mengíbar" .
+
+<http://www.wikidata.org/entity/Q97628277>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_de_Gossan" .
+
+<http://www.wikidata.org/entity/Q97652012>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presa_El_Salto" .
+
+<http://www.wikidata.org/entity/Q1290583>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_La_Orotava" .
+
+<http://www.wikidata.org/entity/Q6159257>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Silencio" .
+
+<http://www.wikidata.org/entity/Q9005206>
+        owl:sameAs  "http://es.dbpedia.org/resource/Huerta_de_Gandía" .
+
+<http://www.wikidata.org/entity/Q9092502>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valles_de_Pego" .
+
+<http://www.wikidata.org/entity/Q6127918>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Carrodilla" .
+
+<http://www.wikidata.org/entity/Q6127936>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Morcuera" .
+
+<http://www.wikidata.org/entity/Q6127900>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tentudía" .
+
+<http://www.wikidata.org/entity/Q6127938>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Muela,_Cabo_Tiñoso_y_Roldán" .
+
+<http://www.wikidata.org/entity/Q6127916>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Calderina" .
+
+<http://www.wikidata.org/entity/Q6127926>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Fausilla" .
+
+<http://www.wikidata.org/entity/Q6127883>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Vicente_(Sistema_Central)" .
+
+<http://www.wikidata.org/entity/Q6127905>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Utrera" .
+
+<http://www.wikidata.org/entity/Q6127923>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Culebrina" .
+
+<http://www.wikidata.org/entity/Q6127933>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Lavia" .
+
+<http://www.wikidata.org/entity/Q6127876>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Bernabé" .
+
+<http://www.wikidata.org/entity/Q6127927>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Hache" .
+
+<http://www.wikidata.org/entity/Q6127929>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Horcajada" .
+
+<http://www.wikidata.org/entity/Q6127898>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Solorio" .
+
+<http://www.wikidata.org/entity/Q5646003>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Triano" .
+
+<http://www.wikidata.org/entity/Q5679050>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Viján" .
+
+<http://www.wikidata.org/entity/Q5549852>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Líjar" .
+
+<http://www.wikidata.org/entity/Q5551802>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Virgen_(Sistema_Ibérico)" .
+
+<http://www.wikidata.org/entity/Q5656803>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Lobosillo" .
+
+<http://www.wikidata.org/entity/Q5477243>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Agullent" .
+
+<http://www.wikidata.org/entity/Q5550710>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Albureca" .
+
+<http://www.wikidata.org/entity/Q5649852>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Lagunilla" .
+
+<http://www.wikidata.org/entity/Q5676781>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Silla" .
+
+<http://www.wikidata.org/entity/Q3818022>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Mágina" .
+
+<http://www.wikidata.org/entity/Q3752138>
+        owl:sameAs  "http://es.dbpedia.org/resource/Picos_de_Urbión" .
+
+<http://www.wikidata.org/entity/Q3751950>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ayllón" .
+
+<http://www.wikidata.org/entity/Q3572504>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Algairén" .
+
+<http://www.wikidata.org/entity/Q3573042>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Just" .
+
+<http://www.wikidata.org/entity/Q5474489>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Liencres" .
+
+<http://www.wikidata.org/entity/Q4891824>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Toro" .
+
+<http://www.wikidata.org/entity/Q5196829>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cuera" .
+
+<http://www.wikidata.org/entity/Q3848138>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Guadalupe_(España)" .
+
+<http://www.wikidata.org/entity/Q5196316>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Sueve" .
+
+<http://www.wikidata.org/entity/Q6127818>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Neila" .
+
+<http://www.wikidata.org/entity/Q6127821>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ojos-Albos" .
+
+<http://www.wikidata.org/entity/Q6127841>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pela_(espacio_natural)" .
+
+<http://www.wikidata.org/entity/Q6127809>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mira" .
+
+<http://www.wikidata.org/entity/Q6127848>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Peñalmonte" .
+
+<http://www.wikidata.org/entity/Q6127861>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ponce" .
+
+<http://www.wikidata.org/entity/Q6127846>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Peña_Sagra" .
+
+<http://www.wikidata.org/entity/Q6127836>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pela" .
+
+<http://www.wikidata.org/entity/Q6127814>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mojantes" .
+
+<http://www.wikidata.org/entity/Q6127858>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Piedra_Aguda" .
+
+<http://www.wikidata.org/entity/Q6127627>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Real" .
+
+<http://www.wikidata.org/entity/Q6127609>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Ministra" .
+
+<http://www.wikidata.org/entity/Q6127632>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aguas" .
+
+<http://www.wikidata.org/entity/Q6127648>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alto_Rey" .
+
+<http://www.wikidata.org/entity/Q6127637>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alcarama" .
+
+<http://www.wikidata.org/entity/Q6127644>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Almagro" .
+
+<http://www.wikidata.org/entity/Q6127614>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Palmitera" .
+
+<http://www.wikidata.org/entity/Q6127635>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alcaparaín" .
+
+<http://www.wikidata.org/entity/Q6127662>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Bujalcayado" .
+
+<http://www.wikidata.org/entity/Q6127699>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Carrascoy" .
+
+<http://www.wikidata.org/entity/Q6127703>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Castellar" .
+
+<http://www.wikidata.org/entity/Q6127758>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gibalbín" .
+
+<http://www.wikidata.org/entity/Q6127713>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Codés" .
+
+<http://www.wikidata.org/entity/Q6127715>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cogollos" .
+
+<http://www.wikidata.org/entity/Q6127781>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Híjar" .
+
+<http://www.wikidata.org/entity/Q6127790>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Les_Albardes" .
+
+<http://www.wikidata.org/entity/Q6127664>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Burete" .
+
+<http://www.wikidata.org/entity/Q6127666>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cabra" .
+
+<http://www.wikidata.org/entity/Q6127771>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Hoyocasero" .
+
+<http://www.wikidata.org/entity/Q6127668>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cabrera_(Almería)" .
+
+<http://www.wikidata.org/entity/Q6127805>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mencilla" .
+
+<http://www.wikidata.org/entity/Q6127659>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aznar" .
+
+<http://www.wikidata.org/entity/Q6127731>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cártama" .
+
+<http://www.wikidata.org/entity/Q6127682>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Caldereros" .
+
+<http://www.wikidata.org/entity/Q6127739>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Enmedio_(Murcia)" .
+
+<http://www.wikidata.org/entity/Q6127775>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Hurchillo" .
+
+<http://www.wikidata.org/entity/Q6127658>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ayllón_(espacio_natural)" .
+
+<http://www.wikidata.org/entity/Q6127711>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cerredo" .
+
+<http://www.wikidata.org/entity/Q6127750>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Fates" .
+
+<http://www.wikidata.org/entity/Q6127649>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Altomira" .
+
+<http://www.wikidata.org/entity/Q6127773>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Humilladero" .
+
+<http://www.wikidata.org/entity/Q6127737>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Enmedio_(Cádiz)" .
+
+<http://www.wikidata.org/entity/Q6127744>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Enmedio_(Málaga)" .
+
+<http://www.wikidata.org/entity/Q6127557>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Aforada" .
+
+<http://www.wikidata.org/entity/Q5695913>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Cid" .
+
+<http://www.wikidata.org/entity/Q5965237>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Serrezuela_(Camero_Viejo)" .
+
+<http://www.wikidata.org/entity/Q6127590>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Cruzada" .
+
+<http://www.wikidata.org/entity/Q6127596>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Gamoneda" .
+
+<http://www.wikidata.org/entity/Q5861922>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Arro" .
+
+<http://www.wikidata.org/entity/Q5847997>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_los_Pinos_(Sierra_Almagrera)" .
+
+<http://www.wikidata.org/entity/Q6022731>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Picaza" .
+
+<http://www.wikidata.org/entity/Q6100982>
+        owl:sameAs  "http://es.dbpedia.org/resource/Rañadoiro" .
+
+<http://www.wikidata.org/entity/Q5685282>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Elvira" .
+
+<http://www.wikidata.org/entity/Q5790190>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cotiella" .
+
+<http://www.wikidata.org/entity/Q5818428>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Grossa" .
+
+<http://www.wikidata.org/entity/Q5857247>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Villafranca" .
+
+<http://www.wikidata.org/entity/Q5965238>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Serrota" .
+
+<http://www.wikidata.org/entity/Q6022743>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_del_Duranguesado" .
+
+<http://www.wikidata.org/entity/Q6127581>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Carbonera" .
+
+<http://www.wikidata.org/entity/Q6127559>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Almagrera" .
+
+<http://www.wikidata.org/entity/Q6128044>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Rincón_(Madrid)" .
+
+<http://www.wikidata.org/entity/Q6980922>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Escudo_de_Cabuérniga" .
+
+<http://www.wikidata.org/entity/Q6128060>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Albas" .
+
+<http://www.wikidata.org/entity/Q6128025>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Jobo" .
+
+<http://www.wikidata.org/entity/Q6128038>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Pinar_(Cádiz)" .
+
+<http://www.wikidata.org/entity/Q6128015>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Endrinal" .
+
+<http://www.wikidata.org/entity/Q6128031>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Ocejón" .
+
+<http://www.wikidata.org/entity/Q6128006>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Caíllo" .
+
+<http://www.wikidata.org/entity/Q6128040>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Pozo" .
+
+<http://www.wikidata.org/entity/Q6128014>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Cordel" .
+
+<http://www.wikidata.org/entity/Q6128018>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Escudo" .
+
+<http://www.wikidata.org/entity/Q6128010>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Co" .
+
+<http://www.wikidata.org/entity/Q6128023>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Gigante" .
+
+<http://www.wikidata.org/entity/Q6127972>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Villuercas" .
+
+<http://www.wikidata.org/entity/Q6127942>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Pandera" .
+
+<http://www.wikidata.org/entity/Q6127967>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Moreras" .
+
+<http://www.wikidata.org/entity/Q6127944>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Paramera" .
+
+<http://www.wikidata.org/entity/Q6127954>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Sal" .
+
+<http://www.wikidata.org/entity/Q6127985>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Acebo" .
+
+<http://www.wikidata.org/entity/Q6127990>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Almuerzo" .
+
+<http://www.wikidata.org/entity/Q6127997>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Brezo" .
+
+<http://www.wikidata.org/entity/Q6128004>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Castellar" .
+
+<http://www.wikidata.org/entity/Q6127975>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_los_Porrones" .
+
+<http://www.wikidata.org/entity/Q6127979>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_los_Tajos_del_Sabar" .
+
+<http://www.wikidata.org/entity/Q6127949>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Plata_(España)" .
+
+<http://www.wikidata.org/entity/Q6127989>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Aljibe" .
+
+<http://www.wikidata.org/entity/Q6127946>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Pila_(Región_de_Murcia)" .
+
+<http://www.wikidata.org/entity/Q6127952>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Robla" .
+
+<http://www.wikidata.org/entity/Q6127959>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Tesla" .
+
+<http://www.wikidata.org/entity/Q6128000>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Cambrón" .
+
+<http://www.wikidata.org/entity/Q6127962>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Apretaderas" .
+
+<http://www.wikidata.org/entity/Q6127965>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Estancias" .
+
+<http://www.wikidata.org/entity/Q9077084>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ador" .
+
+<http://www.wikidata.org/entity/Q9077078>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Sasiburu" .
+
+<http://www.wikidata.org/entity/Q7511642>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Toloño" .
+
+<http://www.wikidata.org/entity/Q9077164>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Villa" .
+
+<http://www.wikidata.org/entity/Q9077171>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Corredor" .
+
+<http://www.wikidata.org/entity/Q9077169>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Aramo" .
+
+<http://www.wikidata.org/entity/Q9077179>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Gistral" .
+
+<http://www.wikidata.org/entity/Q9077181>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Obac" .
+
+<http://www.wikidata.org/entity/Q9077166>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Águilas" .
+
+<http://www.wikidata.org/entity/Q9077090>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Arcos" .
+
+<http://www.wikidata.org/entity/Q9077098>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Campanué" .
+
+<http://www.wikidata.org/entity/Q9077118>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Orce" .
+
+<http://www.wikidata.org/entity/Q9077148>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tormantos" .
+
+<http://www.wikidata.org/entity/Q9077122>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pardos" .
+
+<http://www.wikidata.org/entity/Q9077139>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Salinas" .
+
+<http://www.wikidata.org/entity/Q9077108>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Malacara" .
+
+<http://www.wikidata.org/entity/Q9077128>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Peñamayor" .
+
+<http://www.wikidata.org/entity/Q9077091>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Altamira" .
+
+<http://www.wikidata.org/entity/Q9077106>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Majalinos" .
+
+<http://www.wikidata.org/entity/Q9077126>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Peranera" .
+
+<http://www.wikidata.org/entity/Q9077147>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Son_Torrella" .
+
+<http://www.wikidata.org/entity/Q9077096>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Bernia" .
+
+<http://www.wikidata.org/entity/Q9077111>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Moncalvillo" .
+
+<http://www.wikidata.org/entity/Q7511639>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cazorla_(sierra)" .
+
+<http://www.wikidata.org/entity/Q7455222>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Llabería" .
+
+<http://www.wikidata.org/entity/Q7511637>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Brava_de_Badaya" .
+
+<http://www.wikidata.org/entity/Q7511316>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Alpujata" .
+
+<http://www.wikidata.org/entity/Q7511633>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Albarracín" .
+
+<http://www.wikidata.org/entity/Q7511503>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Menera" .
+
+<http://www.wikidata.org/entity/Q7511673>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Negrete" .
+
+<http://www.wikidata.org/entity/Q9077068>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Ferrera" .
+
+<http://www.wikidata.org/entity/Q7511686>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cabrera_(León_y_Zamora)" .
+
+<http://www.wikidata.org/entity/Q9077077>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Salvada" .
+
+<http://www.wikidata.org/entity/Q7511701>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ávila" .
+
+<http://www.wikidata.org/entity/Q7511659>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Orihuela" .
+
+<http://www.wikidata.org/entity/Q7511670>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Santa_Cruz_(Aragón)" .
+
+<http://www.wikidata.org/entity/Q9076363>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serrado_de_las_Costas_de_Montiberri" .
+
+<http://www.wikidata.org/entity/Q9076361>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serrado_Roi" .
+
+<http://www.wikidata.org/entity/Q8538308>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_La_Sagra" .
+
+<http://www.wikidata.org/entity/Q8535114>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pàndols" .
+
+<http://www.wikidata.org/entity/Q8538974>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Grossa_(Alicante)" .
+
+<http://www.wikidata.org/entity/Q1132904>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gredos" .
+
+<http://www.wikidata.org/entity/Q576888>
+        owl:sameAs  "http://es.dbpedia.org/resource/Jaizquíbel" .
+
+<http://www.wikidata.org/entity/Q596576>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serrado_Estreto" .
+
+<http://www.wikidata.org/entity/Q53711>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Guadarrama" .
+
+<http://www.wikidata.org/entity/Q379025>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tramontana" .
+
+<http://www.wikidata.org/entity/Q2391974>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Abodi" .
+
+<http://www.wikidata.org/entity/Q602169>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_los_Filabres" .
+
+<http://www.wikidata.org/entity/Q925153>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alcubierre" .
+
+<http://www.wikidata.org/entity/Q602339>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Carrasqueta" .
+
+<http://www.wikidata.org/entity/Q941982>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Blanca" .
+
+<http://www.wikidata.org/entity/Q655622>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Somosierra" .
+
+<http://www.wikidata.org/entity/Q1088937>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gata" .
+
+<http://www.wikidata.org/entity/Q935177>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gratal" .
+
+<http://www.wikidata.org/entity/Q623534>
+        owl:sameAs  "http://es.dbpedia.org/resource/San_Lorenzo_del_Munt" .
+
+<http://www.wikidata.org/entity/Q2717665>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_del_Besiberri" .
+
+<http://www.wikidata.org/entity/Q2908796>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Almijara" .
+
+<http://www.wikidata.org/entity/Q2784096>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tejeda" .
+
+<http://www.wikidata.org/entity/Q2838492>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Ordunte" .
+
+<http://www.wikidata.org/entity/Q3307550>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Andía" .
+
+<http://www.wikidata.org/entity/Q3111010>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aralar" .
+
+<http://www.wikidata.org/entity/Q3297617>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aramotz" .
+
+<http://www.wikidata.org/entity/Q1799086>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Espuña" .
+
+<http://www.wikidata.org/entity/Q1142793>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Montsant" .
+
+<http://www.wikidata.org/entity/Q1543751>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Demanda" .
+
+<http://www.wikidata.org/entity/Q2281516>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mijas" .
+
+<http://www.wikidata.org/entity/Q1551372>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Na_Burguesa" .
+
+<http://www.wikidata.org/entity/Q1685429>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Guara" .
+
+<http://www.wikidata.org/entity/Q1747940>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Baza" .
+
+<http://www.wikidata.org/entity/Q1750750>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cuerda_Larga" .
+
+<http://www.wikidata.org/entity/Q3307610>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Culebra" .
+
+<http://www.wikidata.org/entity/Q3571501>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gúdar" .
+
+<http://www.wikidata.org/entity/Q3483459>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gádor" .
+
+<http://www.wikidata.org/entity/Q3483464>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Contraviesa" .
+
+<http://www.wikidata.org/entity/Q3572476>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Vicort" .
+
+<http://www.wikidata.org/entity/Q3483462>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Leyre" .
+
+<http://www.wikidata.org/entity/Q3572386>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cucalón" .
+
+<http://www.wikidata.org/entity/Q3483441>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Bermeja" .
+
+<http://www.wikidata.org/entity/Q3483442>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Alhamilla" .
+
+<http://www.wikidata.org/entity/Q2602926>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Madrona" .
+
+<http://www.wikidata.org/entity/Q2466766>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_Torozos" .
+
+<http://www.wikidata.org/entity/Q2530666>
+        owl:sameAs  "http://es.dbpedia.org/resource/Peñas_de_Aya" .
+
+<http://www.wikidata.org/entity/Q2605436>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serranía_de_Cuenca" .
+
+<http://www.wikidata.org/entity/Q2651251>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Vicente_(comarca)" .
+
+<http://www.wikidata.org/entity/Q2651720>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Segura" .
+
+<http://www.wikidata.org/entity/Q2472707>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Carche" .
+
+<http://www.wikidata.org/entity/Q2919507>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Segundera" .
+
+<http://www.wikidata.org/entity/Q3019737>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Alfaguara" .
+
+<http://www.wikidata.org/entity/Q2945638>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Arana" .
+
+<http://www.wikidata.org/entity/Q3054063>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_Universales" .
+
+<http://www.wikidata.org/entity/Q2945669>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alhama" .
+
+<http://www.wikidata.org/entity/Q3025531>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Urbasa" .
+
+<http://www.wikidata.org/entity/Q3065481>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Perdón" .
+
+<http://www.wikidata.org/entity/Q2983085>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ancares" .
+
+<http://www.wikidata.org/entity/Q11703832>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Muro_de_Roda" .
+
+<http://www.wikidata.org/entity/Q10993876>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierras_de_Carondio_y_Valledor" .
+
+<http://www.wikidata.org/entity/Q11703833>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Queralt" .
+
+<http://www.wikidata.org/entity/Q10898426>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Santo_Domingo_y_Lucientes" .
+
+<http://www.wikidata.org/entity/Q10370481>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Laroco" .
+
+<http://www.wikidata.org/entity/Q11937917>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montañas_de_Rocacorba" .
+
+<http://www.wikidata.org/entity/Q18007778>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Collcardús" .
+
+<http://www.wikidata.org/entity/Q15277734>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Pedro_(Extremadura)" .
+
+<http://www.wikidata.org/entity/Q12400368>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Fial_de_las_Corzas" .
+
+<http://www.wikidata.org/entity/Q13468852>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Martés" .
+
+<http://www.wikidata.org/entity/Q17442163>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Rubió" .
+
+<http://www.wikidata.org/entity/Q16631535>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pozo_Amargo" .
+
+<http://www.wikidata.org/entity/Q12400384>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierras_septentrionales_de_Galicia" .
+
+<http://www.wikidata.org/entity/Q16630593>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serranía_de_Vallejera" .
+
+<http://www.wikidata.org/entity/Q16631582>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Barbas_de_Oro" .
+
+<http://www.wikidata.org/entity/Q12253054>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alaiz" .
+
+<http://www.wikidata.org/entity/Q12400363>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Candán" .
+
+<http://www.wikidata.org/entity/Q12400353>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Laboreiro" .
+
+<http://www.wikidata.org/entity/Q12400328>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Calva" .
+
+<http://www.wikidata.org/entity/Q12253995>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Arcamo" .
+
+<http://www.wikidata.org/entity/Q12256704>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Elguea" .
+
+<http://www.wikidata.org/entity/Q12268670>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Urkilla" .
+
+<http://www.wikidata.org/entity/Q12400331>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Aciñeira" .
+
+<http://www.wikidata.org/entity/Q12400348>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Peñas_Libres" .
+
+<http://www.wikidata.org/entity/Q12400362>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Cando" .
+
+<http://www.wikidata.org/entity/Q12262565>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Lóquiz" .
+
+<http://www.wikidata.org/entity/Q12400335>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Cova_de_la_Serpe" .
+
+<http://www.wikidata.org/entity/Q12259971>
+        owl:sameAs  "http://es.dbpedia.org/resource/Izarraitz" .
+
+<http://www.wikidata.org/entity/Q12382852>
+        owl:sameAs  "http://es.dbpedia.org/resource/Altos_del_Samión" .
+
+<http://www.wikidata.org/entity/Q12253225>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aloña" .
+
+<http://www.wikidata.org/entity/Q12253258>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Altzania" .
+
+<http://www.wikidata.org/entity/Q12387209>
+        owl:sameAs  "http://es.dbpedia.org/resource/Dorsal_gallega" .
+
+<http://www.wikidata.org/entity/Q12400336>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Esculqueira" .
+
+<http://www.wikidata.org/entity/Q11948299>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Cavallera" .
+
+<http://www.wikidata.org/entity/Q11948366>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aubenç_y_Roc_de_Cogul" .
+
+<http://www.wikidata.org/entity/Q11948510>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Montgrony" .
+
+<http://www.wikidata.org/entity/Q108518266>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Carbas" .
+
+<http://www.wikidata.org/entity/Q93701214>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Estepa" .
+
+<http://www.wikidata.org/entity/Q93495757>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Cabrilla" .
+
+<http://www.wikidata.org/entity/Q104311875>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Enix" .
+
+<http://www.wikidata.org/entity/Q61387926>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gaztiburu" .
+
+<http://www.wikidata.org/entity/Q11948560>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Sant_Mateu" .
+
+<http://www.wikidata.org/entity/Q11948557>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Gervás" .
+
+<http://www.wikidata.org/entity/Q11948584>
+        owl:sameAs  "http://es.dbpedia.org/resource/Serra_de_Turp" .
+
+<http://www.wikidata.org/entity/Q19512912>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Lújar" .
+
+<http://www.wikidata.org/entity/Q19862615>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Vitoria" .
+
+<http://www.wikidata.org/entity/Q11948673>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Vaca" .
+
+<http://www.wikidata.org/entity/Q11948716>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Benicadell" .
+
+<http://www.wikidata.org/entity/Q117036887>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Adrián" .
+
+<http://www.wikidata.org/entity/Q119585289>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Santa_Bárbara_(Sistema_Central)" .
+
+<http://www.wikidata.org/entity/Q11948845>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tossals" .
+
+<http://www.wikidata.org/entity/Q17625768>
+        owl:sameAs  "http://es.dbpedia.org/resource/Columbares" .
+
+<http://www.wikidata.org/entity/Q17630205>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Retín" .
+
+<http://www.wikidata.org/entity/Q12253001>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aizkorri" .
+
+<http://www.wikidata.org/entity/Q24004092>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Quílez" .
+
+<http://www.wikidata.org/entity/Q24003188>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Bascuñana" .
+
+<http://www.wikidata.org/entity/Q24001981>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cebollera" .
+
+<http://www.wikidata.org/entity/Q24002717>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Borriol" .
+
+<http://www.wikidata.org/entity/Q22970096>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Procomunal" .
+
+<http://www.wikidata.org/entity/Q23987913>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Blanquilla" .
+
+<http://www.wikidata.org/entity/Q23984631>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Líbar" .
+
+<http://www.wikidata.org/entity/Q23988062>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Cabras_(Cádiz)" .
+
+<http://www.wikidata.org/entity/Q23980268>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Cristóbal" .
+
+<http://www.wikidata.org/entity/Q23995471>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Malagón" .
+
+<http://www.wikidata.org/entity/Q23994760>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Modorra" .
+
+<http://www.wikidata.org/entity/Q23994164>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Orpiñas" .
+
+<http://www.wikidata.org/entity/Q23982378>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Parapanda" .
+
+<http://www.wikidata.org/entity/Q23988170>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Camarolos" .
+
+<http://www.wikidata.org/entity/Q23994805>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Moncayo" .
+
+<http://www.wikidata.org/entity/Q23984278>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mollina" .
+
+<http://www.wikidata.org/entity/Q24001099>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gistredo" .
+
+<http://www.wikidata.org/entity/Q23978994>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Trigo" .
+
+<http://www.wikidata.org/entity/Q20549629>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Azoreira" .
+
+<http://www.wikidata.org/entity/Q20549670>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Faro_de_Avión" .
+
+<http://www.wikidata.org/entity/Q20618303>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Peco" .
+
+<http://www.wikidata.org/entity/Q20618322>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Pelarda" .
+
+<http://www.wikidata.org/entity/Q20549633>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Faladoira" .
+
+<http://www.wikidata.org/entity/Q21558253>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pela_(Badajoz)" .
+
+<http://www.wikidata.org/entity/Q20549676>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Oribio" .
+
+<http://www.wikidata.org/entity/Q20546869>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Pando_y_Maseiras" .
+
+<http://www.wikidata.org/entity/Q20541881>
+        owl:sameAs  "http://es.dbpedia.org/resource/Pena_Corneira" .
+
+<http://www.wikidata.org/entity/Q20618423>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tendeñera" .
+
+<http://www.wikidata.org/entity/Q20549637>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Tojiza" .
+
+<http://www.wikidata.org/entity/Q20831012>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Béjar_(sierra)" .
+
+<http://www.wikidata.org/entity/Q56650213>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ganguren" .
+
+<http://www.wikidata.org/entity/Q30207562>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Fontanella" .
+
+<http://www.wikidata.org/entity/Q25619966>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Cabrera_(Buñol)" .
+
+<http://www.wikidata.org/entity/Q27914731>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Castellanos" .
+
+<http://www.wikidata.org/entity/Q48782131>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Atapuerca" .
+
+<http://www.wikidata.org/entity/Q38136005>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_los_Hombres" .
+
+<http://www.wikidata.org/entity/Q27908085>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Herrera" .
+
+<http://www.wikidata.org/entity/Q30740818>
+        owl:sameAs  "http://es.dbpedia.org/resource/Mazelaegi" .
+
+<http://www.wikidata.org/entity/Q27916552>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Águila_(Sistema_Ibérico)" .
+
+<http://www.wikidata.org/entity/Q27909539>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Pajaranca" .
+
+<http://www.wikidata.org/entity/Q27898856>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Virgen_(Montes_de_Toledo)" .
+
+<http://www.wikidata.org/entity/Q30184606>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Frare" .
+
+<http://www.wikidata.org/entity/Q38921834>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Armantes" .
+
+<http://www.wikidata.org/entity/Q30184895>
+        owl:sameAs  "http://es.dbpedia.org/resource/Picachos_de_Cabrera" .
+
+<http://www.wikidata.org/entity/Q520924>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Prelitoral_Catalana" .
+
+<http://www.wikidata.org/entity/Q431898>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Litoral" .
+
+<http://www.wikidata.org/entity/Q379025>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tramontana" .
+
+<http://www.wikidata.org/entity/Q483905>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Anaga" .
+
+<http://www.wikidata.org/entity/Q201496>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sistema_Ibérico" .
+
+<http://www.wikidata.org/entity/Q208076>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Cantábrica" .
+
+<http://www.wikidata.org/entity/Q53715>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sistema_Central" .
+
+<http://www.wikidata.org/entity/Q55489>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Pedriza" .
+
+<http://www.wikidata.org/entity/Q12431>
+        owl:sameAs  "http://es.dbpedia.org/resource/Pirineos" .
+
+<http://www.wikidata.org/entity/Q53711>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Guadarrama" .
+
+<http://www.wikidata.org/entity/Q26955>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Nevada_(España)" .
+
+<http://www.wikidata.org/entity/Q4721848>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alfabia" .
+
+<http://www.wikidata.org/entity/Q4889521>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Transversal" .
+
+<http://www.wikidata.org/entity/Q5049644>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Castejón" .
+
+<http://www.wikidata.org/entity/Q4891824>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Toro" .
+
+<http://www.wikidata.org/entity/Q5049700>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Castelltallat" .
+
+<http://www.wikidata.org/entity/Q3751950>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Ayllón" .
+
+<http://www.wikidata.org/entity/Q3823889>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Sis" .
+
+<http://www.wikidata.org/entity/Q3816326>
+        owl:sameAs  "http://es.dbpedia.org/resource/Umbral_de_Camarinal" .
+
+<http://www.wikidata.org/entity/Q3848138>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Guadalupe_(España)" .
+
+<http://www.wikidata.org/entity/Q3751102>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_Obarenes" .
+
+<http://www.wikidata.org/entity/Q4232764>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Prebética" .
+
+<http://www.wikidata.org/entity/Q1543751>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Demanda" .
+
+<http://www.wikidata.org/entity/Q1510599>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_del_Montgrí" .
+
+<http://www.wikidata.org/entity/Q657357>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alcaraz" .
+
+<http://www.wikidata.org/entity/Q686362>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Morena" .
+
+<http://www.wikidata.org/entity/Q628456>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Toledo" .
+
+<http://www.wikidata.org/entity/Q732115>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Montserrat" .
+
+<http://www.wikidata.org/entity/Q1141172>
+        owl:sameAs  "http://es.dbpedia.org/resource/Picos_de_Europa" .
+
+<http://www.wikidata.org/entity/Q1132904>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gredos" .
+
+<http://www.wikidata.org/entity/Q1394137>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Cadí" .
+
+<http://www.wikidata.org/entity/Q1129102>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_del_Garraf" .
+
+<http://www.wikidata.org/entity/Q1024813>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cabezón_de_Oro" .
+
+<http://www.wikidata.org/entity/Q941982>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Blanca" .
+
+<http://www.wikidata.org/entity/Q747584>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Teno" .
+
+<http://www.wikidata.org/entity/Q937042>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_del_Montseny" .
+
+<http://www.wikidata.org/entity/Q831469>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordilleras_Béticas" .
+
+<http://www.wikidata.org/entity/Q1088937>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Gata" .
+
+<http://www.wikidata.org/entity/Q2284509>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierras_Subbéticas" .
+
+<http://www.wikidata.org/entity/Q2284501>
+        owl:sameAs  "http://es.dbpedia.org/resource/Parque_natural_de_la_Sierra_de_Castril" .
+
+<http://www.wikidata.org/entity/Q2889979>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Dorsal" .
+
+<http://www.wikidata.org/entity/Q2919647>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Adeje" .
+
+<http://www.wikidata.org/entity/Q3048955>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Guillerías" .
+
+<http://www.wikidata.org/entity/Q3054063>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_Universales" .
+
+<http://www.wikidata.org/entity/Q1624531>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Albera" .
+
+<http://www.wikidata.org/entity/Q1793773>
+        owl:sameAs  "http://es.dbpedia.org/resource/Parque_natural_Sierra_de_Hornachuelos" .
+
+<http://www.wikidata.org/entity/Q1755523>
+        owl:sameAs  "http://es.dbpedia.org/resource/Parque_natural_de_las_Sierras_de_Cazorla,_Segura_y_Las_Villas" .
+
+<http://www.wikidata.org/entity/Q1799086>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Espuña" .
+
+<http://www.wikidata.org/entity/Q1946145>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Valsaín" .
+
+<http://www.wikidata.org/entity/Q1628507>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Montsec" .
+
+<http://www.wikidata.org/entity/Q2080753>
+        owl:sameAs  "http://es.dbpedia.org/resource/Prepirineo" .
+
+<http://www.wikidata.org/entity/Q1754073>
+        owl:sameAs  "http://es.dbpedia.org/resource/Parque_natural_de_Sierra_de_Aracena_y_Picos_de_Aroche" .
+
+<http://www.wikidata.org/entity/Q1685429>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Guara" .
+
+<http://www.wikidata.org/entity/Q3322331>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_León" .
+
+<http://www.wikidata.org/entity/Q3394437>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Caurel" .
+
+<http://www.wikidata.org/entity/Q3571138>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Aitana" .
+
+<http://www.wikidata.org/entity/Q3327031>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_Galaico-Leonés" .
+
+<http://www.wikidata.org/entity/Q2648558>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_vascos" .
+
+<http://www.wikidata.org/entity/Q2879118>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_la_Maladeta" .
+
+<http://www.wikidata.org/entity/Q2344395>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Crevillente" .
+
+<http://www.wikidata.org/entity/Q2379316>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordilleras_Costero-Catalanas" .
+
+<http://www.wikidata.org/entity/Q2784096>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tejeda" .
+
+<http://www.wikidata.org/entity/Q2508364>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Subbética" .
+
+<http://www.wikidata.org/entity/Q6980922>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Escudo_de_Cabuérniga" .
+
+<http://www.wikidata.org/entity/Q5561345>
+        owl:sameAs  "http://es.dbpedia.org/resource/Les_Rodanes" .
+
+<http://www.wikidata.org/entity/Q5988863>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Ubiña" .
+
+<http://www.wikidata.org/entity/Q5683958>
+        owl:sameAs  "http://es.dbpedia.org/resource/Arco_Calizo_Central" .
+
+<http://www.wikidata.org/entity/Q5788465>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordón_montañoso_Litoral" .
+
+<http://www.wikidata.org/entity/Q5988848>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_Asturiano" .
+
+<http://www.wikidata.org/entity/Q5788392>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cordillera_Sur" .
+
+<http://www.wikidata.org/entity/Q6022258>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montaña_de_la_Tercia_del_Camino" .
+
+<http://www.wikidata.org/entity/Q5507202>
+        owl:sameAs  "http://es.dbpedia.org/resource/Fuentes_Carrionas" .
+
+<http://www.wikidata.org/entity/Q5674394>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Campoo-Valderredible" .
+
+<http://www.wikidata.org/entity/Q5848483>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Perenchiza" .
+
+<http://www.wikidata.org/entity/Q5988861>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Cabra" .
+
+<http://www.wikidata.org/entity/Q5196316>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Sueve" .
+
+<http://www.wikidata.org/entity/Q5485997>
+        owl:sameAs  "http://es.dbpedia.org/resource/Parque_natural_de_la_Sierra_de_Mariola" .
+
+<http://www.wikidata.org/entity/Q5477243>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Agullent" .
+
+<http://www.wikidata.org/entity/Q5550710>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Albureca" .
+
+<http://www.wikidata.org/entity/Q5646156>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Hoyo_de_Manzanares" .
+
+<http://www.wikidata.org/entity/Q5818428>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Grossa" .
+
+<http://www.wikidata.org/entity/Q6127900>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Tentudía" .
+
+<http://www.wikidata.org/entity/Q6127995>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Barbanza" .
+
+<http://www.wikidata.org/entity/Q6896098>
+        owl:sameAs  "http://es.dbpedia.org/resource/Muelas_de_Chert" .
+
+<http://www.wikidata.org/entity/Q6127721>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Corbera" .
+
+<http://www.wikidata.org/entity/Q6464031>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Mujer_Muerta" .
+
+<http://www.wikidata.org/entity/Q6127809>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mira" .
+
+<http://www.wikidata.org/entity/Q6905410>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_Aquilianos" .
+
+<http://www.wikidata.org/entity/Q6085617>
+        owl:sameAs  "http://es.dbpedia.org/resource/Presierra_de_Guadarrama" .
+
+<http://www.wikidata.org/entity/Q6128018>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Escudo" .
+
+<http://www.wikidata.org/entity/Q6128054>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_minera_de_Cartagena-La_Unión" .
+
+<http://www.wikidata.org/entity/Q6745874>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montañas_de_Prades" .
+
+<http://www.wikidata.org/entity/Q6022710>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_Carpetanos" .
+
+<http://www.wikidata.org/entity/Q6063135>
+        owl:sameAs  "http://es.dbpedia.org/resource/Parque_natural_de_la_Sierra_de_Cebollera" .
+
+<http://www.wikidata.org/entity/Q6158823>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Mamede" .
+
+<http://www.wikidata.org/entity/Q12393122>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Peña_Trevinca" .
+
+<http://www.wikidata.org/entity/Q11948716>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Benicadell" .
+
+<http://www.wikidata.org/entity/Q11948726>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Carrascal_de_Parcent" .
+
+<http://www.wikidata.org/entity/Q12400378>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Rañadoiro" .
+
+<http://www.wikidata.org/entity/Q12263797>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_del_Montnegre" .
+
+<http://www.wikidata.org/entity/Q12400369>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Galiñeiro" .
+
+<http://www.wikidata.org/entity/Q12400376>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Portelo" .
+
+<http://www.wikidata.org/entity/Q11942405>
+        owl:sameAs  "http://es.dbpedia.org/resource/Puerto_del_Conde" .
+
+<http://www.wikidata.org/entity/Q11940162>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Gelada" .
+
+<http://www.wikidata.org/entity/Q9026514>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_Central_Orensano" .
+
+<http://www.wikidata.org/entity/Q9077164>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Villa" .
+
+<http://www.wikidata.org/entity/Q9077182>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Suído" .
+
+<http://www.wikidata.org/entity/Q9077139>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Salinas" .
+
+<http://www.wikidata.org/entity/Q9088101>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tolocha" .
+
+<http://www.wikidata.org/entity/Q9034835>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montes_de_Málaga" .
+
+<http://www.wikidata.org/entity/Q9077161>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Marina" .
+
+<http://www.wikidata.org/entity/Q11913285>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Catllarás" .
+
+<http://www.wikidata.org/entity/Q9075575>
+        owl:sameAs  "http://es.dbpedia.org/resource/Seguili" .
+
+<http://www.wikidata.org/entity/Q8538974>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Grossa_(Alicante)" .
+
+<http://www.wikidata.org/entity/Q9077096>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Bernia" .
+
+<http://www.wikidata.org/entity/Q9077166>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_las_Águilas" .
+
+<http://www.wikidata.org/entity/Q7511673>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_del_Negrete" .
+
+<http://www.wikidata.org/entity/Q7511686>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Cabrera_(León_y_Zamora)" .
+
+<http://www.wikidata.org/entity/Q8186644>
+        owl:sameAs  "http://es.dbpedia.org/resource/Acantilados_de_Vixía_de_Herbeira" .
+
+<http://www.wikidata.org/entity/Q8347861>
+        owl:sameAs  "http://es.dbpedia.org/resource/Collsacabra" .
+
+<http://www.wikidata.org/entity/Q7511659>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Orihuela" .
+
+<http://www.wikidata.org/entity/Q7511688>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_La_Cabrera_(Madrid)" .
+
+<http://www.wikidata.org/entity/Q8535114>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Pàndols" .
+
+<http://www.wikidata.org/entity/Q15277734>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_San_Pedro_(Extremadura)" .
+
+<http://www.wikidata.org/entity/Q17386829>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Boumort" .
+
+<http://www.wikidata.org/entity/Q13468852>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_Martés" .
+
+<http://www.wikidata.org/entity/Q16900162>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Montánchez" .
+
+<http://www.wikidata.org/entity/Q17300918>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mongay" .
+
+<http://www.wikidata.org/entity/Q15281644>
+        owl:sameAs  "http://es.dbpedia.org/resource/Roques_de_García" .
+
+<http://www.wikidata.org/entity/Q19716342>
+        owl:sameAs  "http://es.dbpedia.org/resource/Prepirineo_catalán" .
+
+<http://www.wikidata.org/entity/Q20106029>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_las_Salinas" .
+
+<http://www.wikidata.org/entity/Q18419583>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Bateig" .
+
+<http://www.wikidata.org/entity/Q20108895>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Mayabona" .
+
+<http://www.wikidata.org/entity/Q20724847>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Espadán" .
+
+<http://www.wikidata.org/entity/Q20102960>
+        owl:sameAs  "http://es.dbpedia.org/resource/El_Montmell-Marmellar" .
+
+<http://www.wikidata.org/entity/Q20831012>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Béjar_(sierra)" .
+
+<http://www.wikidata.org/entity/Q21081377>
+        owl:sameAs  "http://es.dbpedia.org/resource/Famara" .
+
+<http://www.wikidata.org/entity/Q18005229>
+        owl:sameAs  "http://es.dbpedia.org/resource/Montañas_de_Ordal" .
+
+<http://www.wikidata.org/entity/Q22116588>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_del_Mampodre" .
+
+<http://www.wikidata.org/entity/Q23993478>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_la_Queixa" .
+
+<http://www.wikidata.org/entity/Q28662535>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sierra_de_Alborán" .
+
+<http://www.wikidata.org/entity/Q41579173>
+        owl:sameAs  "http://es.dbpedia.org/resource/Macizo_de_Balaitús" .
+
+<http://www.wikidata.org/entity/Q61158315>
+        owl:sameAs  "http://es.dbpedia.org/resource/Rasos_de_Peguera" .
+
+<http://www.wikidata.org/entity/Q1502252>
+        owl:sameAs  "http://es.dbpedia.org/resource/Baqueira_Beret" .
+
+<http://www.wikidata.org/entity/Q613056>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_Invernal_Fuentes_de_Invierno" .
+
+<http://www.wikidata.org/entity/Q534256>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_Sierra_Nevada" .
+
+<http://www.wikidata.org/entity/Q625867>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aramón_Cerler" .
+
+<http://www.wikidata.org/entity/Q546015>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ordino-Arcalís" .
+
+<http://www.wikidata.org/entity/Q588136>
+        owl:sameAs  "http://es.dbpedia.org/resource/Candanchú" .
+
+<http://www.wikidata.org/entity/Q752368>
+        owl:sameAs  "http://es.dbpedia.org/resource/Astún_(estación_de_esquí)" .
+
+<http://www.wikidata.org/entity/Q3472549>
+        owl:sameAs  "http://es.dbpedia.org/resource/Sant_Joan_de_l'Erm" .
+
+<http://www.wikidata.org/entity/Q3572141>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aramón_Valdelinares" .
+
+<http://www.wikidata.org/entity/Q3572035>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aramón_Javalambre" .
+
+<http://www.wikidata.org/entity/Q3398641>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_Port_del_Comte" .
+
+<http://www.wikidata.org/entity/Q4736779>
+        owl:sameAs  "http://es.dbpedia.org/resource/Alto_Campoo" .
+
+<http://www.wikidata.org/entity/Q3750961>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdesquí" .
+
+<http://www.wikidata.org/entity/Q4566905>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_La_Covatilla" .
+
+<http://www.wikidata.org/entity/Q3516284>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_Esquí_Tavascán" .
+
+<http://www.wikidata.org/entity/Q3553510>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdezcaray" .
+
+<http://www.wikidata.org/entity/Q2717381>
+        owl:sameAs  "http://es.dbpedia.org/resource/Espot_Esquí" .
+
+<http://www.wikidata.org/entity/Q2859512>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aramón_Panticosa" .
+
+<http://www.wikidata.org/entity/Q2747063>
+        owl:sameAs  "http://es.dbpedia.org/resource/Boí_Taüll_Resort" .
+
+<http://www.wikidata.org/entity/Q2616429>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_La_Pinilla" .
+
+<http://www.wikidata.org/entity/Q2717352>
+        owl:sameAs  "http://es.dbpedia.org/resource/Port_Ainé" .
+
+<http://www.wikidata.org/entity/Q2717359>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vallter_2000" .
+
+<http://www.wikidata.org/entity/Q2717343>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vall_de_Núria" .
+
+<http://www.wikidata.org/entity/Q3107623>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aramón_Formigal" .
+
+<http://www.wikidata.org/entity/Q3120587>
+        owl:sameAs  "http://es.dbpedia.org/resource/Guils_Fontanera" .
+
+<http://www.wikidata.org/entity/Q3179913>
+        owl:sameAs  "http://es.dbpedia.org/resource/Masella" .
+
+<http://www.wikidata.org/entity/Q3227291>
+        owl:sameAs  "http://es.dbpedia.org/resource/Le_Somport" .
+
+<http://www.wikidata.org/entity/Q5847605>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_Lunada" .
+
+<http://www.wikidata.org/entity/Q18180984>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Molina_(estación_de_esquí)" .
+
+<http://www.wikidata.org/entity/Q5486448>
+        owl:sameAs  "http://es.dbpedia.org/resource/Centro_de_esquí_nórdico_Navafría" .
+
+<http://www.wikidata.org/entity/Q6159000>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_Invernal_y_de_Montaña_Valgrande-Pajares" .
+
+<http://www.wikidata.org/entity/Q8842728>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_San_Isidro" .
+
+<http://www.wikidata.org/entity/Q16564556>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_San_Glorio" .
+
+<http://www.wikidata.org/entity/Q5847603>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_El_Morredero" .
+
+<http://www.wikidata.org/entity/Q7400581>
+        owl:sameAs  "http://es.dbpedia.org/resource/Manzaneda_(estación_de_esquí)" .
+
+<http://www.wikidata.org/entity/Q5847607>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_de_Leitariegos" .
+
+<http://www.wikidata.org/entity/Q5847609>
+        owl:sameAs  "http://es.dbpedia.org/resource/Estación_de_esquí_del_Valle_del_Sol" .
+
+<http://www.wikidata.org/entity/Q12384864>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cabeza_de_Manzaneda_(Puebla_de_Trives)" .
+
+<http://www.wikidata.org/entity/Q879222>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bisquert" .
+
+<http://www.wikidata.org/entity/Q523854>
+        owl:sameAs  "http://es.dbpedia.org/resource/Depresión_del_Guadalquivir" .
+
+<http://www.wikidata.org/entity/Q641755>
+        owl:sameAs  "http://es.dbpedia.org/resource/Baztán" .
+
+<http://www.wikidata.org/entity/Q337410>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Ebro" .
+
+<http://www.wikidata.org/entity/Q1290583>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_La_Orotava" .
+
+<http://www.wikidata.org/entity/Q962258>
+        owl:sameAs  "http://es.dbpedia.org/resource/Unciti" .
+
+<http://www.wikidata.org/entity/Q944861>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Vió" .
+
+<http://www.wikidata.org/entity/Q1133148>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Yerri" .
+
+<http://www.wikidata.org/entity/Q1074460>
+        owl:sameAs  "http://es.dbpedia.org/resource/Comarca_de_Arenas_de_San_Pedro" .
+
+<http://www.wikidata.org/entity/Q5260913>
+        owl:sameAs  "http://es.dbpedia.org/resource/Depresión_de_Ronda" .
+
+<http://www.wikidata.org/entity/Q5320227>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cañón_de_Délica" .
+
+<http://www.wikidata.org/entity/Q5393809>
+        owl:sameAs  "http://es.dbpedia.org/resource/Hoya_de_Baza" .
+
+<http://www.wikidata.org/entity/Q5745790>
+        owl:sameAs  "http://es.dbpedia.org/resource/Campo_de_Cámara" .
+
+<http://www.wikidata.org/entity/Q5719968>
+        owl:sameAs  "http://es.dbpedia.org/resource/Barranco_de_Igueste_de_San_Andrés" .
+
+<http://www.wikidata.org/entity/Q5407827>
+        owl:sameAs  "http://es.dbpedia.org/resource/Hoya_de_Guadix" .
+
+<http://www.wikidata.org/entity/Q5396350>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Echauri" .
+
+<http://www.wikidata.org/entity/Q1636204>
+        owl:sameAs  "http://es.dbpedia.org/resource/Anué" .
+
+<http://www.wikidata.org/entity/Q1636195>
+        owl:sameAs  "http://es.dbpedia.org/resource/Aranguren_(Navarra)" .
+
+<http://www.wikidata.org/entity/Q1627534>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Egüés" .
+
+<http://www.wikidata.org/entity/Q1648094>
+        owl:sameAs  "http://es.dbpedia.org/resource/Urraúl_Bajo" .
+
+<http://www.wikidata.org/entity/Q1676138>
+        owl:sameAs  "http://es.dbpedia.org/resource/Izagaondoa" .
+
+<http://www.wikidata.org/entity/Q1647988>
+        owl:sameAs  "http://es.dbpedia.org/resource/Urraúl_Alto" .
+
+<http://www.wikidata.org/entity/Q2154607>
+        owl:sameAs  "http://es.dbpedia.org/resource/Depresión_de_Granada" .
+
+<http://www.wikidata.org/entity/Q2165565>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Roncal" .
+
+<http://www.wikidata.org/entity/Q3054031>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Tena" .
+
+<http://www.wikidata.org/entity/Q3054587>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Salazar" .
+
+<http://www.wikidata.org/entity/Q3102588>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Gistau" .
+
+<http://www.wikidata.org/entity/Q3572305>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Aneu" .
+
+<http://www.wikidata.org/entity/Q3554032>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_la_Burunda" .
+
+<http://www.wikidata.org/entity/Q3823398>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_la_Solana" .
+
+<http://www.wikidata.org/entity/Q3553977>
+        owl:sameAs  "http://es.dbpedia.org/resource/Bujaruelo" .
+
+<http://www.wikidata.org/entity/Q3553968>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Estós" .
+
+<http://www.wikidata.org/entity/Q3572351>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Belagua" .
+
+<http://www.wikidata.org/entity/Q3573461>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Broto" .
+
+<http://www.wikidata.org/entity/Q3554025>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Otal" .
+
+<http://www.wikidata.org/entity/Q3553999>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Lasieso" .
+
+<http://www.wikidata.org/entity/Q3553972>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Ordiso" .
+
+<http://www.wikidata.org/entity/Q3553449>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Pop" .
+
+<http://www.wikidata.org/entity/Q3180890>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Benasque" .
+
+<http://www.wikidata.org/entity/Q1780360>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ibargoiti" .
+
+<http://www.wikidata.org/entity/Q2116153>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_los_Alhorines" .
+
+<http://www.wikidata.org/entity/Q2148535>
+        owl:sameAs  "http://es.dbpedia.org/resource/Ribera_Arga-Aragón" .
+
+<http://www.wikidata.org/entity/Q1751423>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Lozoya" .
+
+<http://www.wikidata.org/entity/Q1773019>
+        owl:sameAs  "http://es.dbpedia.org/resource/Goñi" .
+
+<http://www.wikidata.org/entity/Q3054022>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Aézcoa" .
+
+<http://www.wikidata.org/entity/Q3053989>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Segó" .
+
+<http://www.wikidata.org/entity/Q2746878>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Ordesa" .
+
+<http://www.wikidata.org/entity/Q2719273>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Pineta" .
+
+<http://www.wikidata.org/entity/Q2728146>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Ara" .
+
+<http://www.wikidata.org/entity/Q3026747>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdorba" .
+
+<http://www.wikidata.org/entity/Q2652996>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valldigna" .
+
+<http://www.wikidata.org/entity/Q2935979>
+        owl:sameAs  "http://es.dbpedia.org/resource/Canal_de_Berdún_(geografía)" .
+
+<http://www.wikidata.org/entity/Q2166915>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Nuria" .
+
+<http://www.wikidata.org/entity/Q2936923>
+        owl:sameAs  "http://es.dbpedia.org/resource/Cañón_de_Añisclo" .
+
+<http://www.wikidata.org/entity/Q3025757>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Somorrostro" .
+
+<http://www.wikidata.org/entity/Q2449812>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Alcudia" .
+
+<http://www.wikidata.org/entity/Q6159101>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Güímar" .
+
+<http://www.wikidata.org/entity/Q5904055>
+        owl:sameAs  "http://es.dbpedia.org/resource/Hueco_de_San_Blas" .
+
+<http://www.wikidata.org/entity/Q6159028>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_Brosque" .
+
+<http://www.wikidata.org/entity/Q6159056>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Amblés" .
+
+<http://www.wikidata.org/entity/Q6159126>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Navalmedio" .
+
+<http://www.wikidata.org/entity/Q6159118>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Luena" .
+
+<http://www.wikidata.org/entity/Q6159165>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Vallibierna" .
+
+<http://www.wikidata.org/entity/Q6159248>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Oza" .
+
+<http://www.wikidata.org/entity/Q5922813>
+        owl:sameAs  "http://es.dbpedia.org/resource/Depresión_de_Antequera" .
+
+<http://www.wikidata.org/entity/Q6159099>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Guerra" .
+
+<http://www.wikidata.org/entity/Q6159145>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Soba" .
+
+<http://www.wikidata.org/entity/Q6159154>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Toranzo" .
+
+<http://www.wikidata.org/entity/Q6159083>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Cuelgamuros" .
+
+<http://www.wikidata.org/entity/Q6159057>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Ansó" .
+
+<http://www.wikidata.org/entity/Q6159071>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Cabuérniga" .
+
+<http://www.wikidata.org/entity/Q6159170>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_la_Fuenfría" .
+
+<http://www.wikidata.org/entity/Q6159217>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Genal" .
+
+<http://www.wikidata.org/entity/Q6159228>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Huerna" .
+
+<http://www.wikidata.org/entity/Q6159246>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Nalón" .
+
+<http://www.wikidata.org/entity/Q5964004>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Larri" .
+
+<http://www.wikidata.org/entity/Q6138025>
+        owl:sameAs  "http://es.dbpedia.org/resource/Tahodio" .
+
+<http://www.wikidata.org/entity/Q6158677>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdebaró" .
+
+<http://www.wikidata.org/entity/Q6159168>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_la_Barranca" .
+
+<http://www.wikidata.org/entity/Q5977735>
+        owl:sameAs  "http://es.dbpedia.org/resource/Llanos_del_Republicano" .
+
+<http://www.wikidata.org/entity/Q6159206>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Corneja" .
+
+<http://www.wikidata.org/entity/Q6398887>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Boeza" .
+
+<http://www.wikidata.org/entity/Q9092394>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vall_dels_Alcalans" .
+
+<http://www.wikidata.org/entity/Q9092451>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Valsaín" .
+
+<http://www.wikidata.org/entity/Q11062513>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Iguña" .
+
+<http://www.wikidata.org/entity/Q11704966>
+        owl:sameAs  "http://es.dbpedia.org/resource/Vall_de_Montesa" .
+
+<http://www.wikidata.org/entity/Q6159250>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Pas" .
+
+<http://www.wikidata.org/entity/Q7645521>
+        owl:sameAs  "http://es.dbpedia.org/resource/Surco_Intrabético" .
+
+<http://www.wikidata.org/entity/Q8963497>
+        owl:sameAs  "http://es.dbpedia.org/resource/Gargantas_de_Escuaín" .
+
+<http://www.wikidata.org/entity/Q11704973>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Seta" .
+
+<http://www.wikidata.org/entity/Q9092443>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Sant_Martí" .
+
+<http://www.wikidata.org/entity/Q9092485>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Saja" .
+
+<http://www.wikidata.org/entity/Q9092492>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Vinalopó" .
+
+<http://www.wikidata.org/entity/Q6159322>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_Ferrera" .
+
+<http://www.wikidata.org/entity/Q11705505>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Zuriza" .
+
+<http://www.wikidata.org/entity/Q11113639>
+        owl:sameAs  "http://es.dbpedia.org/resource/La_Berrueza" .
+
+<http://www.wikidata.org/entity/Q12401632>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Fragoso" .
+
+<http://www.wikidata.org/entity/Q17400464>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Andarax" .
+
+<http://www.wikidata.org/entity/Q16645412>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Nansa" .
+
+<http://www.wikidata.org/entity/Q16645337>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Polop" .
+
+<http://www.wikidata.org/entity/Q16515178>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valdizarbe" .
+
+<http://www.wikidata.org/entity/Q16645409>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Miera" .
+
+<http://www.wikidata.org/entity/Q12258783>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Gulina" .
+
+<http://www.wikidata.org/entity/Q18286647>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_Salado_(Añana)" .
+
+<http://www.wikidata.org/entity/Q12255323>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_la_Vizcaya" .
+
+<http://www.wikidata.org/entity/Q12401631>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Lemos" .
+
+<http://www.wikidata.org/entity/Q18008762>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Perputxent" .
+
+<http://www.wikidata.org/entity/Q12252860>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Aguilar" .
+
+<http://www.wikidata.org/entity/Q12259735>
+        owl:sameAs  "http://es.dbpedia.org/resource/Iraurgui" .
+
+<http://www.wikidata.org/entity/Q12254123>
+        owl:sameAs  "http://es.dbpedia.org/resource/Arriasgoiti" .
+
+<http://www.wikidata.org/entity/Q21402459>
+        owl:sameAs  "http://es.dbpedia.org/resource/Coma_de_Set��ria" .
+
+<http://www.wikidata.org/entity/Q24350025>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Besaya" .
+
+<http://www.wikidata.org/entity/Q123758196>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Ceberio" .
+
+<http://www.wikidata.org/entity/Q124651848>
+        owl:sameAs  "http://es.dbpedia.org/resource/Basaburúa_Menor" .
+
+<http://www.wikidata.org/entity/Q104640619>
+        owl:sameAs  "http://es.dbpedia.org/resource/Val_de_Aibar" .
+
+<http://www.wikidata.org/entity/Q103564941>
+        owl:sameAs  "http://es.dbpedia.org/resource/Améscoa_Alta" .
+
+<http://www.wikidata.org/entity/Q60852736>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_de_Campoo" .
+
+<http://www.wikidata.org/entity/Q85879138>
+        owl:sameAs  "http://es.dbpedia.org/resource/Valle_del_Ulla" .

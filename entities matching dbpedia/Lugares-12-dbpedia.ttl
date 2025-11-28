@@ -1,0 +1,2624 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q14317>
+        owl:sameAs  <http://es.dbpedia.org/resource/Oviedo> .
+
+<http://www.wikidata.org/entity/Q12273>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gijón> .
+
+<http://www.wikidata.org/entity/Q386280>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pesoz> .
+
+<http://www.wikidata.org/entity/Q240729>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villanueva_de_Oscos> .
+
+<http://www.wikidata.org/entity/Q56177>
+        owl:sameAs  <http://es.dbpedia.org/resource/Caso_(Asturias)> .
+
+<http://www.wikidata.org/entity/Q14649>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avilés> .
+
+<http://www.wikidata.org/entity/Q58343>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabrales> .
+
+<http://www.wikidata.org/entity/Q225515>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cangas_de_Onís> .
+
+<http://www.wikidata.org/entity/Q820469>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pravia> .
+
+<http://www.wikidata.org/entity/Q826603>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tapia_de_Casariego> .
+
+<http://www.wikidata.org/entity/Q470989>
+        owl:sameAs  <http://es.dbpedia.org/resource/Amieva> .
+
+<http://www.wikidata.org/entity/Q493806>
+        owl:sameAs  <http://es.dbpedia.org/resource/Langreo> .
+
+<http://www.wikidata.org/entity/Q591580>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribadesella> .
+
+<http://www.wikidata.org/entity/Q617580>
+        owl:sameAs  <http://es.dbpedia.org/resource/Grado_(Asturias)> .
+
+<http://www.wikidata.org/entity/Q842638>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribadedeva> .
+
+<http://www.wikidata.org/entity/Q842632>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tineo> .
+
+<http://www.wikidata.org/entity/Q911112>
+        owl:sameAs  <http://es.dbpedia.org/resource/Yernes_y_Tameza> .
+
+<http://www.wikidata.org/entity/Q911122>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sariego> .
+
+<http://www.wikidata.org/entity/Q692118>
+        owl:sameAs  <http://es.dbpedia.org/resource/Teverga> .
+
+<http://www.wikidata.org/entity/Q695449>
+        owl:sameAs  <http://es.dbpedia.org/resource/Coaña> .
+
+<http://www.wikidata.org/entity/Q695519>
+        owl:sameAs  <http://es.dbpedia.org/resource/Degaña> .
+
+<http://www.wikidata.org/entity/Q695499>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valdés> .
+
+<http://www.wikidata.org/entity/Q537483>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aller> .
+
+<http://www.wikidata.org/entity/Q578502>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colunga> .
+
+<http://www.wikidata.org/entity/Q826613>
+        owl:sameAs  <http://es.dbpedia.org/resource/Illas> .
+
+<http://www.wikidata.org/entity/Q826607>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castropol> .
+
+<http://www.wikidata.org/entity/Q842644>
+        owl:sameAs  <http://es.dbpedia.org/resource/Las_Regueras> .
+
+<http://www.wikidata.org/entity/Q842648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villaviciosa> .
+
+<http://www.wikidata.org/entity/Q818363>
+        owl:sameAs  <http://es.dbpedia.org/resource/Piloña> .
+
+<http://www.wikidata.org/entity/Q818366>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gozón> .
+
+<http://www.wikidata.org/entity/Q842671>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Martín_de_Oscos> .
+
+<http://www.wikidata.org/entity/Q842685>
+        owl:sameAs  <http://es.dbpedia.org/resource/Taramundi> .
+
+<http://www.wikidata.org/entity/Q842668>
+        owl:sameAs  <http://es.dbpedia.org/resource/Somiedo> .
+
+<http://www.wikidata.org/entity/Q503094>
+        owl:sameAs  <http://es.dbpedia.org/resource/Llanes> .
+
+<http://www.wikidata.org/entity/Q529744>
+        owl:sameAs  <http://es.dbpedia.org/resource/Soto_del_Barco> .
+
+<http://www.wikidata.org/entity/Q818372>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cudillero> .
+
+<http://www.wikidata.org/entity/Q818368>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Martín_del_Rey_Aurelio> .
+
+<http://www.wikidata.org/entity/Q744114>
+        owl:sameAs  <http://es.dbpedia.org/resource/Llanera> .
+
+<http://www.wikidata.org/entity/Q744130>
+        owl:sameAs  <http://es.dbpedia.org/resource/Siero> .
+
+<http://www.wikidata.org/entity/Q816255>
+        owl:sameAs  <http://es.dbpedia.org/resource/Noreña> .
+
+<http://www.wikidata.org/entity/Q816249>
+        owl:sameAs  <http://es.dbpedia.org/resource/Salas> .
+
+<http://www.wikidata.org/entity/Q818319>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vegadeo> .
+
+<http://www.wikidata.org/entity/Q932835>
+        owl:sameAs  <http://es.dbpedia.org/resource/Riosa> .
+
+<http://www.wikidata.org/entity/Q919022>
+        owl:sameAs  <http://es.dbpedia.org/resource/Illano> .
+
+<http://www.wikidata.org/entity/Q932781>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santo_Adriano> .
+
+<http://www.wikidata.org/entity/Q820453>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villayón> .
+
+<http://www.wikidata.org/entity/Q820461>
+        owl:sameAs  <http://es.dbpedia.org/resource/Laviana> .
+
+<http://www.wikidata.org/entity/Q818383>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabranes> .
+
+<http://www.wikidata.org/entity/Q652734>
+        owl:sameAs  <http://es.dbpedia.org/resource/Morcín> .
+
+<http://www.wikidata.org/entity/Q653861>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castrillón> .
+
+<http://www.wikidata.org/entity/Q640974>
+        owl:sameAs  <http://es.dbpedia.org/resource/Boal> .
+
+<http://www.wikidata.org/entity/Q818321>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bimenes> .
+
+<http://www.wikidata.org/entity/Q818327>
+        owl:sameAs  <http://es.dbpedia.org/resource/Parres> .
+
+<http://www.wikidata.org/entity/Q668795>
+        owl:sameAs  <http://es.dbpedia.org/resource/Navia_(Asturias)> .
+
+<http://www.wikidata.org/entity/Q653895>
+        owl:sameAs  <http://es.dbpedia.org/resource/Corvera_de_Asturias> .
+
+<http://www.wikidata.org/entity/Q842661>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribera_de_Arriba> .
+
+<http://www.wikidata.org/entity/Q842655>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Tirso_de_Abres> .
+
+<http://www.wikidata.org/entity/Q842692>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Eulalia_de_Oscos> .
+
+<http://www.wikidata.org/entity/Q842688>
+        owl:sameAs  <http://es.dbpedia.org/resource/Quirós> .
+
+<http://www.wikidata.org/entity/Q737421>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cangas_del_Narcea> .
+
+<http://www.wikidata.org/entity/Q740381>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peñamellera_Alta> .
+
+<http://www.wikidata.org/entity/Q911078>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sobrescobio> .
+
+<http://www.wikidata.org/entity/Q904816>
+        owl:sameAs  <http://es.dbpedia.org/resource/Proaza> .
+
+<http://www.wikidata.org/entity/Q847313>
+        owl:sameAs  <http://es.dbpedia.org/resource/Caravia> .
+
+<http://www.wikidata.org/entity/Q818379>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ibias> .
+
+<http://www.wikidata.org/entity/Q818376>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mieres> .
+
+<http://www.wikidata.org/entity/Q737380>
+        owl:sameAs  <http://es.dbpedia.org/resource/Allande> .
+
+<http://www.wikidata.org/entity/Q737389>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carreño> .
+
+<http://www.wikidata.org/entity/Q842716>
+        owl:sameAs  <http://es.dbpedia.org/resource/Muros_de_Nalón> .
+
+<http://www.wikidata.org/entity/Q842694>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peñamellera_Baja> .
+
+<http://www.wikidata.org/entity/Q695452>
+        owl:sameAs  <http://es.dbpedia.org/resource/Grandas_de_Salime> .
+
+<http://www.wikidata.org/entity/Q695463>
+        owl:sameAs  <http://es.dbpedia.org/resource/Belmonte_de_Miranda> .
+
+<http://www.wikidata.org/entity/Q946280>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nava_(Asturias)> .
+
+<http://www.wikidata.org/entity/Q946233>
+        owl:sameAs  <http://es.dbpedia.org/resource/Onís> .
+
+<http://www.wikidata.org/entity/Q1031286>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lena_(Asturias)> .
+
+<http://www.wikidata.org/entity/Q695529>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ponga> .
+
+<http://www.wikidata.org/entity/Q737356>
+        owl:sameAs  <http://es.dbpedia.org/resource/Candamo> .
+
+<http://www.wikidata.org/entity/Q736022>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Franco> .
+
+<http://www.wikidata.org/entity/Q1645895>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santurdejo> .
+
+<http://www.wikidata.org/entity/Q1645887>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ocón> .
+
+<http://www.wikidata.org/entity/Q1645880>
+        owl:sameAs  <http://es.dbpedia.org/resource/Préjano> .
+
+<http://www.wikidata.org/entity/Q1646023>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sorzano> .
+
+<http://www.wikidata.org/entity/Q1645441>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cenicero_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1645869>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ochánduri> .
+
+<http://www.wikidata.org/entity/Q1645875>
+        owl:sameAs  <http://es.dbpedia.org/resource/Soto_en_Cameros> .
+
+<http://www.wikidata.org/entity/Q1646011>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villarta-Quintana> .
+
+<http://www.wikidata.org/entity/Q1646017>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Eulalia_Bajera> .
+
+<http://www.wikidata.org/entity/Q1646003>
+        owl:sameAs  <http://es.dbpedia.org/resource/Manjarrés> .
+
+<http://www.wikidata.org/entity/Q1645994>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tormantos> .
+
+<http://www.wikidata.org/entity/Q1646043>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tricio> .
+
+<http://www.wikidata.org/entity/Q1646031>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nestares_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1646039>
+        owl:sameAs  <http://es.dbpedia.org/resource/Viguera> .
+
+<http://www.wikidata.org/entity/Q1645956>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villarroya_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1645908>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Román_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1645942>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rodezno> .
+
+<http://www.wikidata.org/entity/Q1646999>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hervías> .
+
+<http://www.wikidata.org/entity/Q1647009>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Redal> .
+
+<http://www.wikidata.org/entity/Q1647024>
+        owl:sameAs  <http://es.dbpedia.org/resource/Igea> .
+
+<http://www.wikidata.org/entity/Q1647017>
+        owl:sameAs  <http://es.dbpedia.org/resource/Leiva_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1646860>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pinillos_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1647250>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuzcurrita_de_Río_Tirón> .
+
+<http://www.wikidata.org/entity/Q1647242>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cidamón> .
+
+<http://www.wikidata.org/entity/Q1646050>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ortigosa_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1646764>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Millán_de_Yécora> .
+
+<http://www.wikidata.org/entity/Q1647583>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villoslada_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1647625>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Rasillo_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1647620>
+        owl:sameAs  <http://es.dbpedia.org/resource/Berceo> .
+
+<http://www.wikidata.org/entity/Q1647616>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alesanco> .
+
+<http://www.wikidata.org/entity/Q1647257>
+        owl:sameAs  <http://es.dbpedia.org/resource/Briñas> .
+
+<http://www.wikidata.org/entity/Q1647575>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bañares> .
+
+<http://www.wikidata.org/entity/Q1647639>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bergasa> .
+
+<http://www.wikidata.org/entity/Q1647634>
+        owl:sameAs  <http://es.dbpedia.org/resource/Canales_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q1646908>
+        owl:sameAs  <http://es.dbpedia.org/resource/Matute> .
+
+<http://www.wikidata.org/entity/Q1646911>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villanueva_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1647666>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arenzana_de_Abajo> .
+
+<http://www.wikidata.org/entity/Q1647643>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arrúbal> .
+
+<http://www.wikidata.org/entity/Q1647642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Corera> .
+
+<http://www.wikidata.org/entity/Q1646930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Manzanares_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1647688>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camprovín> .
+
+<http://www.wikidata.org/entity/Q1646926>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hormilla> .
+
+<http://www.wikidata.org/entity/Q1646921>
+        owl:sameAs  <http://es.dbpedia.org/resource/Grávalos> .
+
+<http://www.wikidata.org/entity/Q1647672>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castroviejo> .
+
+<http://www.wikidata.org/entity/Q1647682>
+        owl:sameAs  <http://es.dbpedia.org/resource/Badarán> .
+
+<http://www.wikidata.org/entity/Q1646935>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tudelilla> .
+
+<http://www.wikidata.org/entity/Q1646938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Estollo> .
+
+<http://www.wikidata.org/entity/Q1646942>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gimileo> .
+
+<http://www.wikidata.org/entity/Q1646958>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ollauri> .
+
+<http://www.wikidata.org/entity/Q1646952>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hornos_de_Moncalvillo> .
+
+<http://www.wikidata.org/entity/Q1646947>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Villar_de_Arnedo> .
+
+<http://www.wikidata.org/entity/Q1646973>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lagunilla_del_Jubera> .
+
+<http://www.wikidata.org/entity/Q1766212>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Coloma_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1647698>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cihuri> .
+
+<http://www.wikidata.org/entity/Q1648461>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castañares_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1646969>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lumbreras_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1646962>
+        owl:sameAs  <http://es.dbpedia.org/resource/Medrano_(España)> .
+
+<http://www.wikidata.org/entity/Q1646991>
+        owl:sameAs  <http://es.dbpedia.org/resource/Viniegra_de_Abajo> .
+
+<http://www.wikidata.org/entity/Q1646985>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villalba_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1768201>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pedroso_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1768216>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cordovín> .
+
+<http://www.wikidata.org/entity/Q1769914>
+        owl:sameAs  <http://es.dbpedia.org/resource/Herce> .
+
+<http://www.wikidata.org/entity/Q1769826>
+        owl:sameAs  <http://es.dbpedia.org/resource/Galilea_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1768222>
+        owl:sameAs  <http://es.dbpedia.org/resource/Treviana> .
+
+<http://www.wikidata.org/entity/Q1769947>
+        owl:sameAs  <http://es.dbpedia.org/resource/Herramélluri> .
+
+<http://www.wikidata.org/entity/Q1769940>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ojacastro> .
+
+<http://www.wikidata.org/entity/Q1769934>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Engracia_del_Jubera> .
+
+<http://www.wikidata.org/entity/Q1771913>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bobadilla_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1769989>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hormilleja> .
+
+<http://www.wikidata.org/entity/Q1770483>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcanadre> .
+
+<http://www.wikidata.org/entity/Q1772306>
+        owl:sameAs  <http://es.dbpedia.org/resource/Baños_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1916210>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárdenas_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1905613>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ventosa_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q23535>
+        owl:sameAs  <http://es.dbpedia.org/resource/Entrena> .
+
+<http://www.wikidata.org/entity/Q14325>
+        owl:sameAs  <http://es.dbpedia.org/resource/Logroño> .
+
+<http://www.wikidata.org/entity/Q507404>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valgañón> .
+
+<http://www.wikidata.org/entity/Q513637>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arenzana_de_Arriba> .
+
+<http://www.wikidata.org/entity/Q536152>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ajamil_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q405292>
+        owl:sameAs  <http://es.dbpedia.org/resource/Haro> .
+
+<http://www.wikidata.org/entity/Q386755>
+        owl:sameAs  <http://es.dbpedia.org/resource/Almarza_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q386306>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lardero> .
+
+<http://www.wikidata.org/entity/Q177714>
+        owl:sameAs  <http://es.dbpedia.org/resource/Grañón> .
+
+<http://www.wikidata.org/entity/Q253617>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villar_de_Torre> .
+
+<http://www.wikidata.org/entity/Q1641228>
+        owl:sameAs  <http://es.dbpedia.org/resource/Anguciana> .
+
+<http://www.wikidata.org/entity/Q1641127>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sojuela> .
+
+<http://www.wikidata.org/entity/Q1626938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Baños_de_Río_Tobía> .
+
+<http://www.wikidata.org/entity/Q1623553>
+        owl:sameAs  <http://es.dbpedia.org/resource/Albelda_de_Iregua> .
+
+<http://www.wikidata.org/entity/Q928218>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alesón> .
+
+<http://www.wikidata.org/entity/Q929997>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villarejo_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q929835>
+        owl:sameAs  <http://es.dbpedia.org/resource/Canillas_de_Río_Tuerto> .
+
+<http://www.wikidata.org/entity/Q575953>
+        owl:sameAs  <http://es.dbpedia.org/resource/Quel> .
+
+<http://www.wikidata.org/entity/Q581814>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arnedillo> .
+
+<http://www.wikidata.org/entity/Q577585>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sajazarra> .
+
+<http://www.wikidata.org/entity/Q1637372>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fonzaleche> .
+
+<http://www.wikidata.org/entity/Q1637161>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pradillo> .
+
+<http://www.wikidata.org/entity/Q1637309>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ezcaray> .
+
+<http://www.wikidata.org/entity/Q1637330>
+        owl:sameAs  <http://es.dbpedia.org/resource/Anguiano> .
+
+<http://www.wikidata.org/entity/Q1637356>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrecilla_en_Cameros> .
+
+<http://www.wikidata.org/entity/Q1636970>
+        owl:sameAs  <http://es.dbpedia.org/resource/Muro_de_Aguas> .
+
+<http://www.wikidata.org/entity/Q1636960>
+        owl:sameAs  <http://es.dbpedia.org/resource/Terroba> .
+
+<http://www.wikidata.org/entity/Q1636954>
+        owl:sameAs  <http://es.dbpedia.org/resource/Leza_de_Río_Leza> .
+
+<http://www.wikidata.org/entity/Q582970>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ábalos> .
+
+<http://www.wikidata.org/entity/Q584251>
+        owl:sameAs  <http://es.dbpedia.org/resource/Briones> .
+
+<http://www.wikidata.org/entity/Q1636146>
+        owl:sameAs  <http://es.dbpedia.org/resource/Zarzosa> .
+
+<http://www.wikidata.org/entity/Q1636106>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villavelayo> .
+
+<http://www.wikidata.org/entity/Q1626960>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cervera_del_Río_Alhama> .
+
+<http://www.wikidata.org/entity/Q935939>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ledesma_de_la_Cogolla> .
+
+<http://www.wikidata.org/entity/Q941048>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cornago> .
+
+<http://www.wikidata.org/entity/Q1636171>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ventrosa> .
+
+<http://www.wikidata.org/entity/Q1637487>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrecilla_sobre_Alesanco> .
+
+<http://www.wikidata.org/entity/Q1636160>
+        owl:sameAs  <http://es.dbpedia.org/resource/Viniegra_de_Arriba> .
+
+<http://www.wikidata.org/entity/Q1636151>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villaverde_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1637476>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mansilla_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q1637462>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cellorigo> .
+
+<http://www.wikidata.org/entity/Q600764>
+        owl:sameAs  <http://es.dbpedia.org/resource/Brieva_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q608044>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sotés> .
+
+<http://www.wikidata.org/entity/Q600501>
+        owl:sameAs  <http://es.dbpedia.org/resource/Zorraquín> .
+
+<http://www.wikidata.org/entity/Q1636990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casalarreina> .
+
+<http://www.wikidata.org/entity/Q1636980>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hornillos_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q616613>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santurde_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q642046>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calahorra> .
+
+<http://www.wikidata.org/entity/Q1637495>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aguilar_del_Río_Alhama> .
+
+<http://www.wikidata.org/entity/Q1637502>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villalobar_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1637665>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pazuengos> .
+
+<http://www.wikidata.org/entity/Q1637656>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribafrecha> .
+
+<http://www.wikidata.org/entity/Q1637628>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gallinero_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1636221>
+        owl:sameAs  <http://es.dbpedia.org/resource/Murillo_de_Río_Leza> .
+
+<http://www.wikidata.org/entity/Q1636209>
+        owl:sameAs  <http://es.dbpedia.org/resource/Uruñuela> .
+
+<http://www.wikidata.org/entity/Q952627>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pradejón> .
+
+<http://www.wikidata.org/entity/Q954587>
+        owl:sameAs  <http://es.dbpedia.org/resource/Navajún> .
+
+<http://www.wikidata.org/entity/Q945801>
+        owl:sameAs  <http://es.dbpedia.org/resource/Zarratón> .
+
+<http://www.wikidata.org/entity/Q1637007>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ausejo> .
+
+<http://www.wikidata.org/entity/Q652162>
+        owl:sameAs  <http://es.dbpedia.org/resource/Foncea> .
+
+<http://www.wikidata.org/entity/Q1637004>
+        owl:sameAs  <http://es.dbpedia.org/resource/Corporales_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1636997>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jalón_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q642083>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arnedo> .
+
+<http://www.wikidata.org/entity/Q646564>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santo_Domingo_de_la_Calzada> .
+
+<http://www.wikidata.org/entity/Q954951>
+        owl:sameAs  <http://es.dbpedia.org/resource/Enciso_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q960301>
+        owl:sameAs  <http://es.dbpedia.org/resource/Huércanos> .
+
+<http://www.wikidata.org/entity/Q970306>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cañas> .
+
+<http://www.wikidata.org/entity/Q1636253>
+        owl:sameAs  <http://es.dbpedia.org/resource/Muro_en_Cameros> .
+
+<http://www.wikidata.org/entity/Q1636238>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Asensio> .
+
+<http://www.wikidata.org/entity/Q1636228>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torre_en_Cameros> .
+
+<http://www.wikidata.org/entity/Q1636283>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tobía> .
+
+<http://www.wikidata.org/entity/Q1636274>
+        owl:sameAs  <http://es.dbpedia.org/resource/Robres_del_Castillo> .
+
+<http://www.wikidata.org/entity/Q1636263>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torremontalbo> .
+
+<http://www.wikidata.org/entity/Q975139>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valdemadera> .
+
+<http://www.wikidata.org/entity/Q975296>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rabanera> .
+
+<http://www.wikidata.org/entity/Q681489>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tirgo> .
+
+<http://www.wikidata.org/entity/Q661720>
+        owl:sameAs  <http://es.dbpedia.org/resource/Azofra_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1637059>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabezón_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q755695>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuenmayor> .
+
+<http://www.wikidata.org/entity/Q1606588>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villamediana_de_Iregua> .
+
+<http://www.wikidata.org/entity/Q695889>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alfaro> .
+
+<http://www.wikidata.org/entity/Q736515>
+        owl:sameAs  <http://es.dbpedia.org/resource/Munilla> .
+
+<http://www.wikidata.org/entity/Q986104>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cirueña> .
+
+<http://www.wikidata.org/entity/Q1124643>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nieva_de_Cameros> .
+
+<http://www.wikidata.org/entity/Q1637049>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bergasillas_Bajera> .
+
+<http://www.wikidata.org/entity/Q1637023>
+        owl:sameAs  <http://es.dbpedia.org/resource/Daroca_de_Rioja> .
+
+<http://www.wikidata.org/entity/Q1636303>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bezares_(La_Rioja)> .
+
+<http://www.wikidata.org/entity/Q1636298>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nalda> .
+
+<http://www.wikidata.org/entity/Q1636292>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Torcuato> .
+
+<http://www.wikidata.org/entity/Q761879>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Vicente_de_la_Sonsierra> .
+
+<http://www.wikidata.org/entity/Q767222>
+        owl:sameAs  <http://es.dbpedia.org/resource/Clavijo> .
+
+<http://www.wikidata.org/entity/Q771336>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rincón_de_Soto> .
+
+<http://www.wikidata.org/entity/Q1615978>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alberite> .
+
+<http://www.wikidata.org/entity/Q1606725>
+        owl:sameAs  <http://es.dbpedia.org/resource/Agoncillo> .
+
+<http://www.wikidata.org/entity/Q1615902>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aldeanueva_de_Ebro> .
+
+<http://www.wikidata.org/entity/Q776113>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nájera> .
+
+<http://www.wikidata.org/entity/Q787022>
+        owl:sameAs  <http://es.dbpedia.org/resource/Autol> .
+
+<http://www.wikidata.org/entity/Q928037>
+        owl:sameAs  <http://es.dbpedia.org/resource/Galbárruli> .
+
+<http://www.wikidata.org/entity/Q916230>
+        owl:sameAs  <http://es.dbpedia.org/resource/Navarrete> .
+
+<http://www.wikidata.org/entity/Q842220>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Millán_de_la_Cogolla> .
+
+<http://www.wikidata.org/entity/Q1984002>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tudanca_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1904365>
+        owl:sameAs  <http://es.dbpedia.org/resource/Saro_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q501090>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castro-Urdiales> .
+
+<http://www.wikidata.org/entity/Q12233>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santander_(España)> .
+
+<http://www.wikidata.org/entity/Q493817>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santillana_del_Mar> .
+
+<http://www.wikidata.org/entity/Q494693>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrelavega> .
+
+<http://www.wikidata.org/entity/Q377115>
+        owl:sameAs  <http://es.dbpedia.org/resource/Liérganes> .
+
+<http://www.wikidata.org/entity/Q384817>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Vicente_de_la_Barquera> .
+
+<http://www.wikidata.org/entity/Q527241>
+        owl:sameAs  <http://es.dbpedia.org/resource/Udías> .
+
+<http://www.wikidata.org/entity/Q593831>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabezón_de_la_Sal> .
+
+<http://www.wikidata.org/entity/Q671326>
+        owl:sameAs  <http://es.dbpedia.org/resource/Reinosa> .
+
+<http://www.wikidata.org/entity/Q674916>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ramales_de_la_Victoria> .
+
+<http://www.wikidata.org/entity/Q1442470>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santoña> .
+
+<http://www.wikidata.org/entity/Q1391463>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ampuero> .
+
+<http://www.wikidata.org/entity/Q944551>
+        owl:sameAs  <http://es.dbpedia.org/resource/Solórzano> .
+
+<http://www.wikidata.org/entity/Q924915>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peñarrubia> .
+
+<http://www.wikidata.org/entity/Q1444320>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hazas_de_Cesto> .
+
+<http://www.wikidata.org/entity/Q1443992>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bareyo> .
+
+<http://www.wikidata.org/entity/Q1595886>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mazcuerras> .
+
+<http://www.wikidata.org/entity/Q1447802>
+        owl:sameAs  <http://es.dbpedia.org/resource/Noja> .
+
+<http://www.wikidata.org/entity/Q1443853>
+        owl:sameAs  <http://es.dbpedia.org/resource/Argoños> .
+
+<http://www.wikidata.org/entity/Q1443842>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bárcena_de_Cicero> .
+
+<http://www.wikidata.org/entity/Q1443879>
+        owl:sameAs  <http://es.dbpedia.org/resource/Anievas> .
+
+<http://www.wikidata.org/entity/Q1443867>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Corrales_de_Buelna> .
+
+<http://www.wikidata.org/entity/Q595358>
+        owl:sameAs  <http://es.dbpedia.org/resource/Polanco_(España)> .
+
+<http://www.wikidata.org/entity/Q608641>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castañeda_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q606178>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Pedro_del_Romeral> .
+
+<http://www.wikidata.org/entity/Q1603040>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_María_de_Cayón> .
+
+<http://www.wikidata.org/entity/Q1603035>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valle_de_Villaverde> .
+
+<http://www.wikidata.org/entity/Q641071>
+        owl:sameAs  <http://es.dbpedia.org/resource/Escalante_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q644891>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ruente> .
+
+<http://www.wikidata.org/entity/Q1603048>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valdeolea> .
+
+<http://www.wikidata.org/entity/Q1606038>
+        owl:sameAs  <http://es.dbpedia.org/resource/Corvera_de_Toranzo> .
+
+<http://www.wikidata.org/entity/Q1602418>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribamontán_al_Monte> .
+
+<http://www.wikidata.org/entity/Q1602429>
+        owl:sameAs  <http://es.dbpedia.org/resource/Medio_Cudeyo> .
+
+<http://www.wikidata.org/entity/Q1602441>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vega_de_Pas> .
+
+<http://www.wikidata.org/entity/Q1602990>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Felices_de_Buelna> .
+
+<http://www.wikidata.org/entity/Q919035>
+        owl:sameAs  <http://es.dbpedia.org/resource/Potes> .
+
+<http://www.wikidata.org/entity/Q847329>
+        owl:sameAs  <http://es.dbpedia.org/resource/Comillas_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1374038>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cartes> .
+
+<http://www.wikidata.org/entity/Q950156>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Cruz_de_Bezana> .
+
+<http://www.wikidata.org/entity/Q949206>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arredondo> .
+
+<http://www.wikidata.org/entity/Q1606550>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bárcena_de_Pie_de_Concha> .
+
+<http://www.wikidata.org/entity/Q1606620>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campoo_de_Yuso> .
+
+<http://www.wikidata.org/entity/Q782638>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arenas_de_Iguña> .
+
+<http://www.wikidata.org/entity/Q743849>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valdáliga> .
+
+<http://www.wikidata.org/entity/Q782938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Meruelo> .
+
+<http://www.wikidata.org/entity/Q1623000>
+        owl:sameAs  <http://es.dbpedia.org/resource/Piélagos> .
+
+<http://www.wikidata.org/entity/Q1391437>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alfoz_de_Lloredo> .
+
+<http://www.wikidata.org/entity/Q1623013>
+        owl:sameAs  <http://es.dbpedia.org/resource/Reocín> .
+
+<http://www.wikidata.org/entity/Q1623024>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villacarriedo> .
+
+<http://www.wikidata.org/entity/Q1606045>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabezón_de_Liébana> .
+
+<http://www.wikidata.org/entity/Q1606273>
+        owl:sameAs  <http://es.dbpedia.org/resource/Marina_de_Cudeyo> .
+
+<http://www.wikidata.org/entity/Q1614810>
+        owl:sameAs  <http://es.dbpedia.org/resource/Selaya> .
+
+<http://www.wikidata.org/entity/Q1615223>
+        owl:sameAs  <http://es.dbpedia.org/resource/Suances> .
+
+<http://www.wikidata.org/entity/Q1614822>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vega_de_Liébana> .
+
+<http://www.wikidata.org/entity/Q609827>
+        owl:sameAs  <http://es.dbpedia.org/resource/Limpias> .
+
+<http://www.wikidata.org/entity/Q616847>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribamontán_al_Mar> .
+
+<http://www.wikidata.org/entity/Q828955>
+        owl:sameAs  <http://es.dbpedia.org/resource/Laredo_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1443892>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colindres> .
+
+<http://www.wikidata.org/entity/Q1443906>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arnuero> .
+
+<http://www.wikidata.org/entity/Q1751818>
+        owl:sameAs  <http://es.dbpedia.org/resource/Luena> .
+
+<http://www.wikidata.org/entity/Q1752987>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villaescusa_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1645555>
+        owl:sameAs  <http://es.dbpedia.org/resource/Liendo> .
+
+<http://www.wikidata.org/entity/Q1648774>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Miguel_de_Aguayo> .
+
+<http://www.wikidata.org/entity/Q1606639>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campoo_de_Enmedio> .
+
+<http://www.wikidata.org/entity/Q1607321>
+        owl:sameAs  <http://es.dbpedia.org/resource/Puente_Viesgo> .
+
+<http://www.wikidata.org/entity/Q1770055>
+        owl:sameAs  <http://es.dbpedia.org/resource/Miera_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1641160>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Tojos> .
+
+<http://www.wikidata.org/entity/Q1637447>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rionansa> .
+
+<http://www.wikidata.org/entity/Q1641165>
+        owl:sameAs  <http://es.dbpedia.org/resource/Las_Rozas_de_Valdearroyo> .
+
+<http://www.wikidata.org/entity/Q1623031>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tresviso> .
+
+<http://www.wikidata.org/entity/Q1623038>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valderredible> .
+
+<http://www.wikidata.org/entity/Q1637416>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ruesga_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1637406>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ruiloba> .
+
+<http://www.wikidata.org/entity/Q1641180>
+        owl:sameAs  <http://es.dbpedia.org/resource/Penagos> .
+
+<http://www.wikidata.org/entity/Q1641172>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valdeprado_del_Río> .
+
+<http://www.wikidata.org/entity/Q1443934>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camaleño> .
+
+<http://www.wikidata.org/entity/Q1443915>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Astillero> .
+
+<http://www.wikidata.org/entity/Q1904286>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rasines> .
+
+<http://www.wikidata.org/entity/Q1904340>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pesquera_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1607337>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santiurde_de_Toranzo> .
+
+<http://www.wikidata.org/entity/Q1614800>
+        owl:sameAs  <http://es.dbpedia.org/resource/Val_de_San_Vicente> .
+
+<http://www.wikidata.org/entity/Q1649407>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pesaguero> .
+
+<http://www.wikidata.org/entity/Q1649404>
+        owl:sameAs  <http://es.dbpedia.org/resource/Polaciones> .
+
+<http://www.wikidata.org/entity/Q1751777>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santiurde_de_Reinosa> .
+
+<http://www.wikidata.org/entity/Q1635156>
+        owl:sameAs  <http://es.dbpedia.org/resource/Guriezo> .
+
+<http://www.wikidata.org/entity/Q1635164>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hermandad_de_Campoo_de_Suso> .
+
+<http://www.wikidata.org/entity/Q1635146>
+        owl:sameAs  <http://es.dbpedia.org/resource/Entrambasaguas_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1623134>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villafufre> .
+
+<http://www.wikidata.org/entity/Q1443976>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cillorigo_de_Liébana> .
+
+<http://www.wikidata.org/entity/Q1443946>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabuérniga> .
+
+<http://www.wikidata.org/entity/Q1641193>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Roque_de_Riomiera> .
+
+<http://www.wikidata.org/entity/Q1641505>
+        owl:sameAs  <http://es.dbpedia.org/resource/Voto_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1635185>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camargo_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1635195>
+        owl:sameAs  <http://es.dbpedia.org/resource/Herrerías> .
+
+<http://www.wikidata.org/entity/Q1637424>
+        owl:sameAs  <http://es.dbpedia.org/resource/Miengo> .
+
+<http://www.wikidata.org/entity/Q1637435>
+        owl:sameAs  <http://es.dbpedia.org/resource/Molledo> .
+
+<http://www.wikidata.org/entity/Q1645531>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lamasón> .
+
+<http://www.wikidata.org/entity/Q1643624>
+        owl:sameAs  <http://es.dbpedia.org/resource/Riotuerto_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1635750>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cieza_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q1637400>
+        owl:sameAs  <http://es.dbpedia.org/resource/Soba_(Cantabria)> .
+
+<http://www.wikidata.org/entity/Q5123>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monzón_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q49581>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jaca> .
+
+<http://www.wikidata.org/entity/Q339323>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nogueras> .
+
+<http://www.wikidata.org/entity/Q369450>
+        owl:sameAs  <http://es.dbpedia.org/resource/Guadalaviar_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q337857>
+        owl:sameAs  <http://es.dbpedia.org/resource/Burbáguena> .
+
+<http://www.wikidata.org/entity/Q266342>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pomer> .
+
+<http://www.wikidata.org/entity/Q281208>
+        owl:sameAs  <http://es.dbpedia.org/resource/Letux> .
+
+<http://www.wikidata.org/entity/Q303257>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mediana_de_Aragón> .
+
+<http://www.wikidata.org/entity/Q281257>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vicién> .
+
+<http://www.wikidata.org/entity/Q302820>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villahermosa_del_Campo> .
+
+<http://www.wikidata.org/entity/Q206166>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villanova_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q201865>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lalueza> .
+
+<http://www.wikidata.org/entity/Q537345>
+        owl:sameAs  <http://es.dbpedia.org/resource/Grisel> .
+
+<http://www.wikidata.org/entity/Q541606>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuendejalón> .
+
+<http://www.wikidata.org/entity/Q541612>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torralba_de_Aragón> .
+
+<http://www.wikidata.org/entity/Q525455>
+        owl:sameAs  <http://es.dbpedia.org/resource/Beceite> .
+
+<http://www.wikidata.org/entity/Q524413>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ibdes> .
+
+<http://www.wikidata.org/entity/Q574869>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pedrola> .
+
+<http://www.wikidata.org/entity/Q572755>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tauste> .
+
+<http://www.wikidata.org/entity/Q378331>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cañada_de_Benatanduz> .
+
+<http://www.wikidata.org/entity/Q371846>
+        owl:sameAs  <http://es.dbpedia.org/resource/Laspaúles> .
+
+<http://www.wikidata.org/entity/Q568511>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alpeñés> .
+
+<http://www.wikidata.org/entity/Q570484>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ansó> .
+
+<http://www.wikidata.org/entity/Q574951>
+        owl:sameAs  <http://es.dbpedia.org/resource/Orihuela_del_Tremedal> .
+
+<http://www.wikidata.org/entity/Q580752>
+        owl:sameAs  <http://es.dbpedia.org/resource/Obón> .
+
+<http://www.wikidata.org/entity/Q587041>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hoz_y_Costean> .
+
+<http://www.wikidata.org/entity/Q583280>
+        owl:sameAs  <http://es.dbpedia.org/resource/Uncastillo> .
+
+<http://www.wikidata.org/entity/Q805306>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ballobar> .
+
+<http://www.wikidata.org/entity/Q794238>
+        owl:sameAs  <http://es.dbpedia.org/resource/Azuara> .
+
+<http://www.wikidata.org/entity/Q815339>
+        owl:sameAs  <http://es.dbpedia.org/resource/Belchite> .
+
+<http://www.wikidata.org/entity/Q543479>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pancrudo> .
+
+<http://www.wikidata.org/entity/Q541657>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castejón_de_Alarba> .
+
+<http://www.wikidata.org/entity/Q541865>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sopeira> .
+
+<http://www.wikidata.org/entity/Q379234>
+        owl:sameAs  <http://es.dbpedia.org/resource/Blesa> .
+
+<http://www.wikidata.org/entity/Q399683>
+        owl:sameAs  <http://es.dbpedia.org/resource/Agüero_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q389110>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Esteban_de_Litera> .
+
+<http://www.wikidata.org/entity/Q589146>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bronchales> .
+
+<http://www.wikidata.org/entity/Q591645>
+        owl:sameAs  <http://es.dbpedia.org/resource/Loporzano> .
+
+<http://www.wikidata.org/entity/Q650805>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aísa> .
+
+<http://www.wikidata.org/entity/Q646914>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hoz_de_Jaca> .
+
+<http://www.wikidata.org/entity/Q816666>
+        owl:sameAs  <http://es.dbpedia.org/resource/Benabarre> .
+
+<http://www.wikidata.org/entity/Q836523>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_María_de_Huerta> .
+
+<http://www.wikidata.org/entity/Q426376>
+        owl:sameAs  <http://es.dbpedia.org/resource/Estopiñán_del_Castillo> .
+
+<http://www.wikidata.org/entity/Q477007>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sahún> .
+
+<http://www.wikidata.org/entity/Q927458>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aragüés_del_Puerto> .
+
+<http://www.wikidata.org/entity/Q904212>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fraga_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q594888>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ababuj> .
+
+<http://www.wikidata.org/entity/Q591930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peralejos> .
+
+<http://www.wikidata.org/entity/Q594134>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vierlas> .
+
+<http://www.wikidata.org/entity/Q669114>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tramacastiel> .
+
+<http://www.wikidata.org/entity/Q663442>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrehermosa> .
+
+<http://www.wikidata.org/entity/Q677995>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arcos_de_las_Salinas> .
+
+<http://www.wikidata.org/entity/Q680583>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lupiñén-Ortilla> .
+
+<http://www.wikidata.org/entity/Q692805>
+        owl:sameAs  <http://es.dbpedia.org/resource/Abejuela> .
+
+<http://www.wikidata.org/entity/Q762400>
+        owl:sameAs  <http://es.dbpedia.org/resource/Moros_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q509039>
+        owl:sameAs  <http://es.dbpedia.org/resource/Chiprana> .
+
+<http://www.wikidata.org/entity/Q484628>
+        owl:sameAs  <http://es.dbpedia.org/resource/Medinaceli> .
+
+<http://www.wikidata.org/entity/Q930157>
+        owl:sameAs  <http://es.dbpedia.org/resource/Farlete> .
+
+<http://www.wikidata.org/entity/Q931369>
+        owl:sameAs  <http://es.dbpedia.org/resource/Agón> .
+
+<http://www.wikidata.org/entity/Q931379>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rueda_de_Jalón> .
+
+<http://www.wikidata.org/entity/Q837051>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mequinenza> .
+
+<http://www.wikidata.org/entity/Q599787>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cosuenda> .
+
+<http://www.wikidata.org/entity/Q598350>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casbas_de_Huesca> .
+
+<http://www.wikidata.org/entity/Q599393>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alberuela_de_Tubo> .
+
+<http://www.wikidata.org/entity/Q763945>
+        owl:sameAs  <http://es.dbpedia.org/resource/Josa> .
+
+<http://www.wikidata.org/entity/Q764206>
+        owl:sameAs  <http://es.dbpedia.org/resource/Velilla_de_Jiloca> .
+
+<http://www.wikidata.org/entity/Q768770>
+        owl:sameAs  <http://es.dbpedia.org/resource/Montanuy> .
+
+<http://www.wikidata.org/entity/Q774593>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Zoma> .
+
+<http://www.wikidata.org/entity/Q776889>
+        owl:sameAs  <http://es.dbpedia.org/resource/Luceni> .
+
+<http://www.wikidata.org/entity/Q932738>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castelserás> .
+
+<http://www.wikidata.org/entity/Q935575>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Almunia_de_Doña_Godina> .
+
+<http://www.wikidata.org/entity/Q602657>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuentes_de_Rubielos> .
+
+<http://www.wikidata.org/entity/Q604187>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aranda_de_Moncayo> .
+
+<http://www.wikidata.org/entity/Q783418>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aguarón> .
+
+<http://www.wikidata.org/entity/Q784010>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bañón> .
+
+<http://www.wikidata.org/entity/Q524219>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fanlo> .
+
+<http://www.wikidata.org/entity/Q512992>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ejulve> .
+
+<http://www.wikidata.org/entity/Q509788>
+        owl:sameAs  <http://es.dbpedia.org/resource/Manzanera> .
+
+<http://www.wikidata.org/entity/Q939574>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villar_de_los_Navarros> .
+
+<http://www.wikidata.org/entity/Q936125>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cinco_Olivas> .
+
+<http://www.wikidata.org/entity/Q937253>
+        owl:sameAs  <http://es.dbpedia.org/resource/Orcajo> .
+
+<http://www.wikidata.org/entity/Q942259>
+        owl:sameAs  <http://es.dbpedia.org/resource/Albalatillo> .
+
+<http://www.wikidata.org/entity/Q941134>
+        owl:sameAs  <http://es.dbpedia.org/resource/Isuerre> .
+
+<http://www.wikidata.org/entity/Q793581>
+        owl:sameAs  <http://es.dbpedia.org/resource/Azanuy-Alins> .
+
+<http://www.wikidata.org/entity/Q787403>
+        owl:sameAs  <http://es.dbpedia.org/resource/Galve> .
+
+<http://www.wikidata.org/entity/Q788796>
+        owl:sameAs  <http://es.dbpedia.org/resource/Candasnos> .
+
+<http://www.wikidata.org/entity/Q857308>
+        owl:sameAs  <http://es.dbpedia.org/resource/Biel_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q866052>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bisaurri> .
+
+<http://www.wikidata.org/entity/Q875871>
+        owl:sameAs  <http://es.dbpedia.org/resource/Maicas> .
+
+<http://www.wikidata.org/entity/Q605877>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villanueva_del_Rebollar_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q609585>
+        owl:sameAs  <http://es.dbpedia.org/resource/Albero_Bajo> .
+
+<http://www.wikidata.org/entity/Q605009>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nogueruelas> .
+
+<http://www.wikidata.org/entity/Q615755>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alberite_de_San_Juan> .
+
+<http://www.wikidata.org/entity/Q612716>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rubielos_de_la_Cérida> .
+
+<http://www.wikidata.org/entity/Q617125>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cubel> .
+
+<http://www.wikidata.org/entity/Q632938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cucalón> .
+
+<http://www.wikidata.org/entity/Q617326>
+        owl:sameAs  <http://es.dbpedia.org/resource/Undués_de_Lerda> .
+
+<http://www.wikidata.org/entity/Q642147>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arens_de_Lledó> .
+
+<http://www.wikidata.org/entity/Q633953>
+        owl:sameAs  <http://es.dbpedia.org/resource/Albeta> .
+
+<http://www.wikidata.org/entity/Q644246>
+        owl:sameAs  <http://es.dbpedia.org/resource/Longás> .
+
+<http://www.wikidata.org/entity/Q960585>
+        owl:sameAs  <http://es.dbpedia.org/resource/Leciñena> .
+
+<http://www.wikidata.org/entity/Q956558>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sádaba> .
+
+<http://www.wikidata.org/entity/Q956524>
+        owl:sameAs  <http://es.dbpedia.org/resource/Maella> .
+
+<http://www.wikidata.org/entity/Q959334>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cetina_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q960386>
+        owl:sameAs  <http://es.dbpedia.org/resource/Palomar_de_Arroyos> .
+
+<http://www.wikidata.org/entity/Q963212>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plou> .
+
+<http://www.wikidata.org/entity/Q963830>
+        owl:sameAs  <http://es.dbpedia.org/resource/Puente_de_Montañana> .
+
+<http://www.wikidata.org/entity/Q949866>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mara_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q951119>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santed> .
+
+<http://www.wikidata.org/entity/Q943293>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plan_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q976972>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lécera> .
+
+<http://www.wikidata.org/entity/Q976798>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Vilueña> .
+
+<http://www.wikidata.org/entity/Q975254>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alarba> .
+
+<http://www.wikidata.org/entity/Q955799>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mora_de_Rubielos> .
+
+<http://www.wikidata.org/entity/Q956485>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sástago> .
+
+<http://www.wikidata.org/entity/Q956462>
+        owl:sameAs  <http://es.dbpedia.org/resource/Albelda> .
+
+<http://www.wikidata.org/entity/Q986729>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campo_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q987403>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sangarrén> .
+
+<http://www.wikidata.org/entity/Q987417>
+        owl:sameAs  <http://es.dbpedia.org/resource/Seira_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q1020532>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tolva_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q1020508>
+        owl:sameAs  <http://es.dbpedia.org/resource/Capella_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q987448>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sesa> .
+
+<http://www.wikidata.org/entity/Q987437>
+        owl:sameAs  <http://es.dbpedia.org/resource/Luna_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q987432>
+        owl:sameAs  <http://es.dbpedia.org/resource/Chía_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q978004>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Mata_de_los_Olmos> .
+
+<http://www.wikidata.org/entity/Q979314>
+        owl:sameAs  <http://es.dbpedia.org/resource/Terrer> .
+
+<http://www.wikidata.org/entity/Q983546>
+        owl:sameAs  <http://es.dbpedia.org/resource/Luesia> .
+
+<http://www.wikidata.org/entity/Q1637299>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mozota> .
+
+<http://www.wikidata.org/entity/Q1637315>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alagón_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q984642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Canfranc> .
+
+<http://www.wikidata.org/entity/Q984664>
+        owl:sameAs  <http://es.dbpedia.org/resource/Secastilla> .
+
+<http://www.wikidata.org/entity/Q984482>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Cilia> .
+
+<http://www.wikidata.org/entity/Q983675>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camarena_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q984400>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcampell> .
+
+<http://www.wikidata.org/entity/Q983644>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ontiñena> .
+
+<http://www.wikidata.org/entity/Q983554>
+        owl:sameAs  <http://es.dbpedia.org/resource/Murillo_de_Gállego> .
+
+<http://www.wikidata.org/entity/Q984666>
+        owl:sameAs  <http://es.dbpedia.org/resource/Perarrúa> .
+
+<http://www.wikidata.org/entity/Q984501>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Cruz_de_la_Serós> .
+
+<http://www.wikidata.org/entity/Q984503>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sesué> .
+
+<http://www.wikidata.org/entity/Q1638821>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valmadrid> .
+
+<http://www.wikidata.org/entity/Q1638830>
+        owl:sameAs  <http://es.dbpedia.org/resource/Urriés> .
+
+<http://www.wikidata.org/entity/Q1228427>
+        owl:sameAs  <http://es.dbpedia.org/resource/Híjar> .
+
+<http://www.wikidata.org/entity/Q1020564>
+        owl:sameAs  <http://es.dbpedia.org/resource/Beranuy> .
+
+<http://www.wikidata.org/entity/Q1638854>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torralbilla> .
+
+<http://www.wikidata.org/entity/Q984671>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castejón_de_Sos> .
+
+<http://www.wikidata.org/entity/Q984673>
+        owl:sameAs  <http://es.dbpedia.org/resource/Viacamp_y_Litera> .
+
+<http://www.wikidata.org/entity/Q1639321>
+        owl:sameAs  <http://es.dbpedia.org/resource/Talamantes> .
+
+<http://www.wikidata.org/entity/Q1639301>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tierga> .
+
+<http://www.wikidata.org/entity/Q984615>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vencillón> .
+
+<http://www.wikidata.org/entity/Q984591>
+        owl:sameAs  <http://es.dbpedia.org/resource/Novales_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q984593>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monesma_y_Cajigar> .
+
+<http://www.wikidata.org/entity/Q985141>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camporrélls> .
+
+<http://www.wikidata.org/entity/Q1553847>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcorisa> .
+
+<http://www.wikidata.org/entity/Q1553092>
+        owl:sameAs  <http://es.dbpedia.org/resource/Épila> .
+
+<http://www.wikidata.org/entity/Q1638862>
+        owl:sameAs  <http://es.dbpedia.org/resource/Godojos> .
+
+<http://www.wikidata.org/entity/Q1639113>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sisamón> .
+
+<http://www.wikidata.org/entity/Q1639119>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcalá_de_Moncayo> .
+
+<http://www.wikidata.org/entity/Q1639129>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sestrica> .
+
+<http://www.wikidata.org/entity/Q1639140>
+        owl:sameAs  <http://es.dbpedia.org/resource/Trasobares> .
+
+<http://www.wikidata.org/entity/Q1553963>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Cañada_de_Verich> .
+
+<http://www.wikidata.org/entity/Q1553894>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrevelilla> .
+
+<http://www.wikidata.org/entity/Q984617>
+        owl:sameAs  <http://es.dbpedia.org/resource/Foradada_del_Toscar> .
+
+<http://www.wikidata.org/entity/Q984623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Isábena> .
+
+<http://www.wikidata.org/entity/Q984585>
+        owl:sameAs  <http://es.dbpedia.org/resource/Poleñino> .
+
+<http://www.wikidata.org/entity/Q984505>
+        owl:sameAs  <http://es.dbpedia.org/resource/Puente_la_Reina_de_Jaca> .
+
+<http://www.wikidata.org/entity/Q984589>
+        owl:sameAs  <http://es.dbpedia.org/resource/Piracés> .
+
+<http://www.wikidata.org/entity/Q1639169>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alfajarín> .
+
+<http://www.wikidata.org/entity/Q1639161>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tosos> .
+
+<http://www.wikidata.org/entity/Q984625>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torre_la_Ribera> .
+
+<http://www.wikidata.org/entity/Q984633>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gurrea_de_Gállego> .
+
+<http://www.wikidata.org/entity/Q984629>
+        owl:sameAs  <http://es.dbpedia.org/resource/Almuniente> .
+
+<http://www.wikidata.org/entity/Q1628164>
+        owl:sameAs  <http://es.dbpedia.org/resource/Langa_del_Castillo> .
+
+<http://www.wikidata.org/entity/Q1628472>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torres_de_Berrellén> .
+
+<http://www.wikidata.org/entity/Q1628407>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ambel_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q1628169>
+        owl:sameAs  <http://es.dbpedia.org/resource/Trasmoz> .
+
+<http://www.wikidata.org/entity/Q984638>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santaliestra_y_San_Quílez> .
+
+<http://www.wikidata.org/entity/Q984636>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valle_de_Bardají> .
+
+<http://www.wikidata.org/entity/Q1552403>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pozondón> .
+
+<http://www.wikidata.org/entity/Q1631917>
+        owl:sameAs  <http://es.dbpedia.org/resource/Almochuel> .
+
+<http://www.wikidata.org/entity/Q1629957>
+        owl:sameAs  <http://es.dbpedia.org/resource/Botorrita> .
+
+<http://www.wikidata.org/entity/Q1629943>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bisimbre> .
+
+<http://www.wikidata.org/entity/Q1629930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuarte_de_Huerva> .
+
+<http://www.wikidata.org/entity/Q1639202>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cadrete> .
+
+<http://www.wikidata.org/entity/Q1639206>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrelapaja> .
+
+<http://www.wikidata.org/entity/Q1632357>
+        owl:sameAs  <http://es.dbpedia.org/resource/Azaila> .
+
+<http://www.wikidata.org/entity/Q1628460>
+        owl:sameAs  <http://es.dbpedia.org/resource/Litago> .
+
+<http://www.wikidata.org/entity/Q1628439>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ateca> .
+
+<http://www.wikidata.org/entity/Q1639179>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Fayos> .
+
+<http://www.wikidata.org/entity/Q1639335>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monegrillo> .
+
+<http://www.wikidata.org/entity/Q1632887>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jatiel> .
+
+<http://www.wikidata.org/entity/Q1632405>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lituénigo> .
+
+<http://www.wikidata.org/entity/Q1639259>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villanueva_de_Gállego> .
+
+<http://www.wikidata.org/entity/Q1639226>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villanueva_de_Jiloca> .
+
+<http://www.wikidata.org/entity/Q1639213>
+        owl:sameAs  <http://es.dbpedia.org/resource/Val_de_San_Martín> .
+
+<http://www.wikidata.org/entity/Q1639221>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fréscano> .
+
+<http://www.wikidata.org/entity/Q1635952>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gallocanta> .
+
+<http://www.wikidata.org/entity/Q1639234>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villarroya_del_Campo> .
+
+<http://www.wikidata.org/entity/Q1639242>
+        owl:sameAs  <http://es.dbpedia.org/resource/Urrea_de_Jalón> .
+
+<http://www.wikidata.org/entity/Q1635407>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bailo> .
+
+<http://www.wikidata.org/entity/Q1635927>
+        owl:sameAs  <http://es.dbpedia.org/resource/Novallas> .
+
+<http://www.wikidata.org/entity/Q1639376>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lucena_de_Jalón> .
+
+<http://www.wikidata.org/entity/Q1639425>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torralba_de_los_Frailes> .
+
+<http://www.wikidata.org/entity/Q1639358>
+        owl:sameAs  <http://es.dbpedia.org/resource/Remolinos> .
+
+<http://www.wikidata.org/entity/Q1639365>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Muela> .
+
+<http://www.wikidata.org/entity/Q1639417>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ainzón> .
+
+<http://www.wikidata.org/entity/Q1639405>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mainar> .
+
+<http://www.wikidata.org/entity/Q1639490>
+        owl:sameAs  <http://es.dbpedia.org/resource/Chodes> .
+
+<http://www.wikidata.org/entity/Q1639441>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Mateo_de_Gállego> .
+
+<http://www.wikidata.org/entity/Q1639451>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Pintanos> .
+
+<http://www.wikidata.org/entity/Q1639465>
+        owl:sameAs  <http://es.dbpedia.org/resource/Oseja> .
+
+<http://www.wikidata.org/entity/Q1639480>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mezalocha> .
+
+<http://www.wikidata.org/entity/Q1639389>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plenas> .
+
+<http://www.wikidata.org/entity/Q1639394>
+        owl:sameAs  <http://es.dbpedia.org/resource/Brea_de_Aragón> .
+
+<http://www.wikidata.org/entity/Q1639625>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Cruz_de_Moncayo> .
+
+<http://www.wikidata.org/entity/Q1639615>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aguilón> .
+
+<http://www.wikidata.org/entity/Q1639539>
+        owl:sameAs  <http://es.dbpedia.org/resource/Acered> .
+
+<http://www.wikidata.org/entity/Q1639528>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retascón> .
+
+<http://www.wikidata.org/entity/Q1640141>
+        owl:sameAs  <http://es.dbpedia.org/resource/Novillas> .
+
+<http://www.wikidata.org/entity/Q1640136>
+        owl:sameAs  <http://es.dbpedia.org/resource/Magallón> .
+
+<http://www.wikidata.org/entity/Q1640066>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nombrevilla> .
+
+<http://www.wikidata.org/entity/Q1639646>
+        owl:sameAs  <http://es.dbpedia.org/resource/Badules> .
+
+<http://www.wikidata.org/entity/Q1640147>
+        owl:sameAs  <http://es.dbpedia.org/resource/Samper_del_Salz> .
+
+<http://www.wikidata.org/entity/Q1640155>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Puebla_de_Alfindén> .
+
+<http://www.wikidata.org/entity/Q1639514>
+        owl:sameAs  <http://es.dbpedia.org/resource/Moneva> .
+
+<http://www.wikidata.org/entity/Q1639503>
+        owl:sameAs  <http://es.dbpedia.org/resource/Perdiguera> .
+
+<http://www.wikidata.org/entity/Q1639553>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cerveruela> .
+
+<http://www.wikidata.org/entity/Q1640038>
+        owl:sameAs  <http://es.dbpedia.org/resource/Purujosa> .
+
+<http://www.wikidata.org/entity/Q1639660>
+        owl:sameAs  <http://es.dbpedia.org/resource/Añón_de_Moncayo> .
+
+<http://www.wikidata.org/entity/Q1640382>
+        owl:sameAs  <http://es.dbpedia.org/resource/Maluenda> .
+
+<http://www.wikidata.org/entity/Q1640175>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ardisa> .
+
+<http://www.wikidata.org/entity/Q1640935>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bardallur> .
+
+<http://www.wikidata.org/entity/Q1640449>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paniza> .
+
+<http://www.wikidata.org/entity/Q1639577>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Martín_de_la_Virgen_de_Moncayo> .
+
+<http://www.wikidata.org/entity/Q1639566>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pozuel_de_Ariza> .
+
+<http://www.wikidata.org/entity/Q1640997>
+        owl:sameAs  <http://es.dbpedia.org/resource/Salillas_de_Jalón> .
+
+<http://www.wikidata.org/entity/Q1641002>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lumpiaque> .
+
+<http://www.wikidata.org/entity/Q1639592>
+        owl:sameAs  <http://es.dbpedia.org/resource/Balconchán> .
+
+<http://www.wikidata.org/entity/Q1640394>
+        owl:sameAs  <http://es.dbpedia.org/resource/Illueca> .
+
+<http://www.wikidata.org/entity/Q1641053>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pastriz> .
+
+<http://www.wikidata.org/entity/Q1641046>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lagata> .
+
+<http://www.wikidata.org/entity/Q1639598>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lobera_de_Onsella> .
+
+<http://www.wikidata.org/entity/Q1639608>
+        owl:sameAs  <http://es.dbpedia.org/resource/Anento> .
+
+<http://www.wikidata.org/entity/Q1641070>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jaraba> .
+
+<http://www.wikidata.org/entity/Q1641057>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aladrén> .
+
+<http://www.wikidata.org/entity/Q1641087>
+        owl:sameAs  <http://es.dbpedia.org/resource/Contamina> .
+
+<http://www.wikidata.org/entity/Q1641108>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bordalba> .
+
+<http://www.wikidata.org/entity/Q1640400>
+        owl:sameAs  <http://es.dbpedia.org/resource/Grisén> .
+
+<http://www.wikidata.org/entity/Q1640425>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jaulín> .
+
+<http://www.wikidata.org/entity/Q1640959>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ruesca> .
+
+<http://www.wikidata.org/entity/Q1640980>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nigüella> .
+
+<http://www.wikidata.org/entity/Q1640971>
+        owl:sameAs  <http://es.dbpedia.org/resource/Berdejo> .
+
+<http://www.wikidata.org/entity/Q1641078>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pleitas> .
+
+<http://www.wikidata.org/entity/Q1641433>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alpartir> .
+
+<http://www.wikidata.org/entity/Q1641285>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valderrobres> .
+
+<http://www.wikidata.org/entity/Q1641115>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Burgo_de_Ebro> .
+
+<http://www.wikidata.org/entity/Q1641124>
+        owl:sameAs  <http://es.dbpedia.org/resource/Herrera_de_los_Navarros> .
+
+<http://www.wikidata.org/entity/Q1641739>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bubierca> .
+
+<http://www.wikidata.org/entity/Q1641534>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tormón> .
+
+<http://www.wikidata.org/entity/Q1641134>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bagüés> .
+
+<http://www.wikidata.org/entity/Q1641444>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castelnou> .
+
+<http://www.wikidata.org/entity/Q1641014>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jarque_de_Moncayo> .
+
+<http://www.wikidata.org/entity/Q1641025>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pozuelo_de_Aragón> .
+
+<http://www.wikidata.org/entity/Q1640990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pinseque> .
+
+<http://www.wikidata.org/entity/Q1644054>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cubla> .
+
+<http://www.wikidata.org/entity/Q1644091>
+        owl:sameAs  <http://es.dbpedia.org/resource/Olvena> .
+
+<http://www.wikidata.org/entity/Q1641454>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calatorao> .
+
+<http://www.wikidata.org/entity/Q1641476>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bulbuente> .
+
+<http://www.wikidata.org/entity/Q1641036>
+        owl:sameAs  <http://es.dbpedia.org/resource/Puendeluna> .
+
+<http://www.wikidata.org/entity/Q1644835>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lledó> .
+
+<http://www.wikidata.org/entity/Q1644415>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Grado> .
+
+<http://www.wikidata.org/entity/Q1644852>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Puebla_de_Híjar> .
+
+<http://www.wikidata.org/entity/Q1641492>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vinaceite> .
+
+<http://www.wikidata.org/entity/Q1644868>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alfamén> .
+
+<http://www.wikidata.org/entity/Q1644856>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alforque> .
+
+<http://www.wikidata.org/entity/Q1641779>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabolafuente> .
+
+<http://www.wikidata.org/entity/Q1642000>
+        owl:sameAs  <http://es.dbpedia.org/resource/Almohaja> .
+
+<http://www.wikidata.org/entity/Q1641245>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torre_del_Compte> .
+
+<http://www.wikidata.org/entity/Q1641145>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Vallecillo> .
+
+<http://www.wikidata.org/entity/Q1643833>
+        owl:sameAs  <http://es.dbpedia.org/resource/Abiego> .
+
+<http://www.wikidata.org/entity/Q1646197>
+        owl:sameAs  <http://es.dbpedia.org/resource/Belmonte_de_Gracián> .
+
+<http://www.wikidata.org/entity/Q1646193>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lechón_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q1646178>
+        owl:sameAs  <http://es.dbpedia.org/resource/Maleján> .
+
+<http://www.wikidata.org/entity/Q1645937>
+        owl:sameAs  <http://es.dbpedia.org/resource/Allueva> .
+
+<http://www.wikidata.org/entity/Q1646180>
+        owl:sameAs  <http://es.dbpedia.org/resource/Morata_de_Jalón> .
+
+<http://www.wikidata.org/entity/Q1649569>
+        owl:sameAs  <http://es.dbpedia.org/resource/Laspuña> .
+
+<http://www.wikidata.org/entity/Q1649596>
+        owl:sameAs  <http://es.dbpedia.org/resource/Caldearenas> .
+
+<http://www.wikidata.org/entity/Q1649582>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nueno> .
+
+<http://www.wikidata.org/entity/Q1648705>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Pueyo_de_Araguás> .
+
+<http://www.wikidata.org/entity/Q1648692>
+        owl:sameAs  <http://es.dbpedia.org/resource/Yebra_de_Basa> .
+
+<http://www.wikidata.org/entity/Q1646886>
+        owl:sameAs  <http://es.dbpedia.org/resource/Berrueco_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q1647034>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alba_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1650353>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alborge> .
+
+<http://www.wikidata.org/entity/Q1650349>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villalengua> .
+
+<http://www.wikidata.org/entity/Q1647174>
+        owl:sameAs  <http://es.dbpedia.org/resource/Asín> .
+
+<http://www.wikidata.org/entity/Q1645927>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calomarde> .
+
+<http://www.wikidata.org/entity/Q1645446>
+        owl:sameAs  <http://es.dbpedia.org/resource/Anadón> .
+
+<http://www.wikidata.org/entity/Q1645485>
+        owl:sameAs  <http://es.dbpedia.org/resource/Abanto_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q1650316>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villafeliche> .
+
+<http://www.wikidata.org/entity/Q1650339>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuentes_de_Jiloca> .
+
+<http://www.wikidata.org/entity/Q1650345>
+        owl:sameAs  <http://es.dbpedia.org/resource/Murero> .
+
+<http://www.wikidata.org/entity/Q1650371>
+        owl:sameAs  <http://es.dbpedia.org/resource/Encinacorba> .
+
+<http://www.wikidata.org/entity/Q1650358>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valtorres> .
+
+<http://www.wikidata.org/entity/Q1650363>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Frago> .
+
+<http://www.wikidata.org/entity/Q1650485>
+        owl:sameAs  <http://es.dbpedia.org/resource/Munébrega> .
+
+<http://www.wikidata.org/entity/Q1650416>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrijo_de_la_Cañada> .
+
+<http://www.wikidata.org/entity/Q1650480>
+        owl:sameAs  <http://es.dbpedia.org/resource/Layana> .
+
+<http://www.wikidata.org/entity/Q1650635>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monreal_de_Ariza> .
+
+<http://www.wikidata.org/entity/Q1650651>
+        owl:sameAs  <http://es.dbpedia.org/resource/Miedes_de_Aragón> .
+
+<http://www.wikidata.org/entity/Q1650377>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Zaida> .
+
+<http://www.wikidata.org/entity/Q1650389>
+        owl:sameAs  <http://es.dbpedia.org/resource/Velilla_de_Ebro> .
+
+<http://www.wikidata.org/entity/Q1650619>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torralba_de_Ribota> .
+
+<http://www.wikidata.org/entity/Q1650623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mesones_de_Isuela> .
+
+<http://www.wikidata.org/entity/Q1650394>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcalá_de_Ebro> .
+
+<http://www.wikidata.org/entity/Q1650402>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valpalmas> .
+
+<http://www.wikidata.org/entity/Q1650409>
+        owl:sameAs  <http://es.dbpedia.org/resource/Montón> .
+
+<http://www.wikidata.org/entity/Q1650575>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bárboles> .
+
+<http://www.wikidata.org/entity/Q1650569>
+        owl:sameAs  <http://es.dbpedia.org/resource/Malanquilla> .
+
+<http://www.wikidata.org/entity/Q1650549>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cervera_de_la_Cañada> .
+
+<http://www.wikidata.org/entity/Q1650541>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aniñón> .
+
+<http://www.wikidata.org/entity/Q1650702>
+        owl:sameAs  <http://es.dbpedia.org/resource/Longares> .
+
+<http://www.wikidata.org/entity/Q1650603>
+        owl:sameAs  <http://es.dbpedia.org/resource/Figueruelas> .
+
+<http://www.wikidata.org/entity/Q1650599>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrellas_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q1650630>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sabiñán> .
+
+<http://www.wikidata.org/entity/Q1650660>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tobed> .
+
+<http://www.wikidata.org/entity/Q1650664>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Cruz_de_Grío> .
+
+<http://www.wikidata.org/entity/Q1650591>
+        owl:sameAs  <http://es.dbpedia.org/resource/Almonacid_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q1650584>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castejón_de_Valdejasa> .
+
+<http://www.wikidata.org/entity/Q1650833>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calcena> .
+
+<http://www.wikidata.org/entity/Q1650828>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrijo_del_Campo> .
+
+<http://www.wikidata.org/entity/Q1650765>
+        owl:sameAs  <http://es.dbpedia.org/resource/Orera> .
+
+<http://www.wikidata.org/entity/Q1650795>
+        owl:sameAs  <http://es.dbpedia.org/resource/Royuela> .
+
+<http://www.wikidata.org/entity/Q1650749>
+        owl:sameAs  <http://es.dbpedia.org/resource/Morata_de_Jiloca> .
+
+<http://www.wikidata.org/entity/Q1650744>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castejón_de_las_Armas> .
+
+<http://www.wikidata.org/entity/Q1650810>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mezquita_de_Jarque> .
+
+<http://www.wikidata.org/entity/Q1650815>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrelacárcel> .
+
+<http://www.wikidata.org/entity/Q1650579>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paracuellos_de_Jiloca> .
+
+<http://www.wikidata.org/entity/Q1650612>
+        owl:sameAs  <http://es.dbpedia.org/resource/Luesma> .
+
+<http://www.wikidata.org/entity/Q1650672>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cimballa> .
+
+<http://www.wikidata.org/entity/Q1651016>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tornos> .
+
+<http://www.wikidata.org/entity/Q1651011>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monteagudo_del_Castillo> .
+
+<http://www.wikidata.org/entity/Q1650854>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabañas_de_Ebro> .
+
+<http://www.wikidata.org/entity/Q1650872>
+        owl:sameAs  <http://es.dbpedia.org/resource/Boquiñeni> .
+
+<http://www.wikidata.org/entity/Q1650923>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monforte_de_Moyuela> .
+
+<http://www.wikidata.org/entity/Q1650911>
+        owl:sameAs  <http://es.dbpedia.org/resource/Veguillas_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q1650917>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torre_de_Arcas> .
+
+<http://www.wikidata.org/entity/Q1650823>
+        owl:sameAs  <http://es.dbpedia.org/resource/Terriente> .
+
+<http://www.wikidata.org/entity/Q1650681>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monterde> .
+
+<http://www.wikidata.org/entity/Q1650679>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paracuellos_de_la_Ribera> .
+
+<http://www.wikidata.org/entity/Q1650943>
+        owl:sameAs  <http://es.dbpedia.org/resource/Riodeva> .
+
+<http://www.wikidata.org/entity/Q1650948>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villel> .
+
+<http://www.wikidata.org/entity/Q1651159>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mazaleón> .
+
+<http://www.wikidata.org/entity/Q1651133>
+        owl:sameAs  <http://es.dbpedia.org/resource/Noguera_de_Albarracín> .
+
+<http://www.wikidata.org/entity/Q1650905>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sarrión> .
+
+<http://www.wikidata.org/entity/Q1650900>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torralba_de_los_Sisones> .
+
+<http://www.wikidata.org/entity/Q1650883>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monterde_de_Albarracín> .
+
+<http://www.wikidata.org/entity/Q1650805>
+        owl:sameAs  <http://es.dbpedia.org/resource/Segura_de_los_Baños> .
+
+<http://www.wikidata.org/entity/Q1651214>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Martín_del_Río> .
+
+<http://www.wikidata.org/entity/Q1651204>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villar_del_Cobo> .
+
+<http://www.wikidata.org/entity/Q1651208>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrijas> .
+
+<http://www.wikidata.org/entity/Q1651168>
+        owl:sameAs  <http://es.dbpedia.org/resource/Moscardón> .
+
+<http://www.wikidata.org/entity/Q1651164>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campillo_de_Aragón> .
+
+<http://www.wikidata.org/entity/Q1651308>
+        owl:sameAs  <http://es.dbpedia.org/resource/Laluenga> .
+
+<http://www.wikidata.org/entity/Q1651304>
+        owl:sameAs  <http://es.dbpedia.org/resource/Azlor> .
+
+<http://www.wikidata.org/entity/Q1651300>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castillazuelo> .
+
+<http://www.wikidata.org/entity/Q1650715>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castiliscar> .
+
+<http://www.wikidata.org/entity/Q1650724>
+        owl:sameAs  <http://es.dbpedia.org/resource/Piedratajada> .
+
+<http://www.wikidata.org/entity/Q1651029>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torrecilla_del_Rebollar> .
+
+<http://www.wikidata.org/entity/Q1650939>
+        owl:sameAs  <http://es.dbpedia.org/resource/Martín_del_Río> .
+
+<http://www.wikidata.org/entity/Q1650927>
+        owl:sameAs  <http://es.dbpedia.org/resource/Montalbán> .
+
+<http://www.wikidata.org/entity/Q1650933>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valdelinares> .
+
+<http://www.wikidata.org/entity/Q1651444>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ródenas> .
+
+<http://www.wikidata.org/entity/Q1651446>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villar_del_Salz> .
+
+<http://www.wikidata.org/entity/Q1651360>
+        owl:sameAs  <http://es.dbpedia.org/resource/Estada> .
+
+<http://www.wikidata.org/entity/Q1651346>
+        owl:sameAs  <http://es.dbpedia.org/resource/Adahuesca> .
+
+<http://www.wikidata.org/entity/Q1651451>
+        owl:sameAs  <http://es.dbpedia.org/resource/Loscos> .
+
+<http://www.wikidata.org/entity/Q1651047>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calmarza> .
+
+<http://www.wikidata.org/entity/Q1651037>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mosqueruela> .
+
+<http://www.wikidata.org/entity/Q1650685>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arándiga> .
+
+<http://www.wikidata.org/entity/Q1650697>
+        owl:sameAs  <http://es.dbpedia.org/resource/Olvés> .
+
+<http://www.wikidata.org/entity/Q1650760>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sobradiel> .
+
+<http://www.wikidata.org/entity/Q1651459>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gúdar> .
+
+<http://www.wikidata.org/entity/Q1651455>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Ginebrosa> .
+
+<http://www.wikidata.org/entity/Q1651226>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carenas> .
+
+<http://www.wikidata.org/entity/Q1651220>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mas_de_las_Matas> .
+
+<http://www.wikidata.org/entity/Q1651315>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_María_de_Dulcis> .
+
+<http://www.wikidata.org/entity/Q1651339>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peralta_de_Alcofea> .
+
+<http://www.wikidata.org/entity/Q1651344>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lascellas-Ponzano> .
+
+<http://www.wikidata.org/entity/Q1651178>
+        owl:sameAs  <http://es.dbpedia.org/resource/Tramacastilla> .
+
+<http://www.wikidata.org/entity/Q1651050>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villarroya_de_los_Pinares> .
+
+<http://www.wikidata.org/entity/Q1651428>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villarluengo> .
+
+<http://www.wikidata.org/entity/Q1651365>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castejón_del_Puente> .
+
+<http://www.wikidata.org/entity/Q1651431>
+        owl:sameAs  <http://es.dbpedia.org/resource/Visiedo> .
+
+<http://www.wikidata.org/entity/Q1651247>
+        owl:sameAs  <http://es.dbpedia.org/resource/Toril_y_Masegoso> .
+
+<http://www.wikidata.org/entity/Q1651239>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monroyo> .
+
+<http://www.wikidata.org/entity/Q1651254>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pozuel_del_Campo> .
+
+<http://www.wikidata.org/entity/Q1651261>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ráfales> .
+
+<http://www.wikidata.org/entity/Q1651270>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rillo> .
+
+<http://www.wikidata.org/entity/Q1651293>
+        owl:sameAs  <http://es.dbpedia.org/resource/Berbegal> .
+
+<http://www.wikidata.org/entity/Q1651278>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bijuesca> .
+
+<http://www.wikidata.org/entity/Q1651273>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peracense> .
+
+<http://www.wikidata.org/entity/Q1651551>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jabaloyas> .
+
+<http://www.wikidata.org/entity/Q1651537>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Cerollera> .
+
+<http://www.wikidata.org/entity/Q1651546>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hinojosa_de_Jarque> .
+
+<http://www.wikidata.org/entity/Q1651549>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lagueruela> .
+
+<http://www.wikidata.org/entity/Q1651539>
+        owl:sameAs  <http://es.dbpedia.org/resource/Linares_de_Mora> .
+
+<http://www.wikidata.org/entity/Q1651542>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jarque_de_la_Val> .
+
+<http://www.wikidata.org/entity/Q1651577>
+        owl:sameAs  <http://es.dbpedia.org/resource/Las_Parras_de_Castellote> .
+
+<http://www.wikidata.org/entity/Q1651475>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Olmos> .
+
+<http://www.wikidata.org/entity/Q1651470>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Portellada> .
+
+<http://www.wikidata.org/entity/Q1651564>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gargallo> .
+
+<http://www.wikidata.org/entity/Q1651568>
+        owl:sameAs  <http://es.dbpedia.org/resource/Lidón> .
+
+<http://www.wikidata.org/entity/Q1651630>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bezas> .
+
+<http://www.wikidata.org/entity/Q1651633>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camañas> .
+
+<http://www.wikidata.org/entity/Q1651642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alobras> .
+
+<http://www.wikidata.org/entity/Q1651558>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Codoñera> .
+
+<http://www.wikidata.org/entity/Q1651555>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Castellar_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1651647>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Pobo> .
+
+<http://www.wikidata.org/entity/Q1652401>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuevas_de_Almudén> .
+
+<http://www.wikidata.org/entity/Q1651561>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Hoz_de_la_Vieja> .
+
+<http://www.wikidata.org/entity/Q1651571>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jorcas> .
+
+<http://www.wikidata.org/entity/Q1651574>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Fresneda_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1651612>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cañizar_del_Olivar> .
+
+<http://www.wikidata.org/entity/Q1651621>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Cuervo_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1652476>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bordón> .
+
+<http://www.wikidata.org/entity/Q1653283>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuenferrada> .
+
+<http://www.wikidata.org/entity/Q1653421>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castellote> .
+
+<http://www.wikidata.org/entity/Q1653414>
+        owl:sameAs  <http://es.dbpedia.org/resource/Celadas> .
+
+<http://www.wikidata.org/entity/Q1652429>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cascante_del_Río> .
+
+<http://www.wikidata.org/entity/Q1652442>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camarillas> .
+
+<http://www.wikidata.org/entity/Q1652455>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castejón_de_Tornos> .
+
+<http://www.wikidata.org/entity/Q1653290>
+        owl:sameAs  <http://es.dbpedia.org/resource/Frías_de_Albarracín> .
+
+<http://www.wikidata.org/entity/Q1653456>
+        owl:sameAs  <http://es.dbpedia.org/resource/Argente> .
+
+<http://www.wikidata.org/entity/Q1653447>
+        owl:sameAs  <http://es.dbpedia.org/resource/Crivillén> .
+
+<http://www.wikidata.org/entity/Q1653451>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuentes_Calientes> .
+
+<http://www.wikidata.org/entity/Q1653504>
+        owl:sameAs  <http://es.dbpedia.org/resource/Escorihuela> .
+
+<http://www.wikidata.org/entity/Q1653493>
+        owl:sameAs  <http://es.dbpedia.org/resource/Albentosa> .
+
+<http://www.wikidata.org/entity/Q1657127>
+        owl:sameAs  <http://es.dbpedia.org/resource/Borau> .
+
+<http://www.wikidata.org/entity/Q1653481>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcalá_de_la_Selva> .
+
+<http://www.wikidata.org/entity/Q1653469>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cabra_de_Mora> .
+
+<http://www.wikidata.org/entity/Q1657022>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aguilar_del_Alfambra> .
+
+<http://www.wikidata.org/entity/Q1656410>
+        owl:sameAs  <http://es.dbpedia.org/resource/Abizanda> .
+
+<http://www.wikidata.org/entity/Q1653295>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cedrillas> .
+
+<http://www.wikidata.org/entity/Q1653314>
+        owl:sameAs  <http://es.dbpedia.org/resource/Blancas> .
+
+<http://www.wikidata.org/entity/Q1752817>
+        owl:sameAs  <http://es.dbpedia.org/resource/Broto> .
+
+<http://www.wikidata.org/entity/Q1657221>
+        owl:sameAs  <http://es.dbpedia.org/resource/Antillón> .
+
+<http://www.wikidata.org/entity/Q1657098>
+        owl:sameAs  <http://es.dbpedia.org/resource/Formiche_Alto> .
+
+<http://www.wikidata.org/entity/Q1657115>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gotor> .
+
+<http://www.wikidata.org/entity/Q1653436>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cañada_Vellida> .
+
+<http://www.wikidata.org/entity/Q1653335>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcaine> .
+
+<http://www.wikidata.org/entity/Q1653339>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bueña> .
+
+<http://www.wikidata.org/entity/Q1653347>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuentespalda> .
+
+<http://www.wikidata.org/entity/Q1653519>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castel_de_Cabra> .
+
+<http://www.wikidata.org/entity/Q1657152>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aguatón> .
+
+<http://www.wikidata.org/entity/Q1657142>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bielsa> .
+
+<http://www.wikidata.org/entity/Q1657170>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bea_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1768883>
+        owl:sameAs  <http://es.dbpedia.org/resource/Las_Peñas_de_Riglos> .
+
+<http://www.wikidata.org/entity/Q1766770>
+        owl:sameAs  <http://es.dbpedia.org/resource/Salcedillo_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1765419>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cosa_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1766294>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Agustín_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1766208>
+        owl:sameAs  <http://es.dbpedia.org/resource/San_Juan_de_Plan> .
+
+<http://www.wikidata.org/entity/Q1993784>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fonz> .
+
+<http://www.wikidata.org/entity/Q1769660>
+        owl:sameAs  <http://es.dbpedia.org/resource/Codo_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q1770476>
+        owl:sameAs  <http://es.dbpedia.org/resource/Aguaviva_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1769772>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bierge> .
+
+<http://www.wikidata.org/entity/Q1766546>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rubiales_(Teruel)> .
+
+<http://www.wikidata.org/entity/Q1766550>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valle_de_Hecho> .
+
+<http://www.wikidata.org/entity/Q1766682>
+        owl:sameAs  <http://es.dbpedia.org/resource/Salillas> .
+
+<http://www.wikidata.org/entity/Q1772274>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ariño> .
+
+<http://www.wikidata.org/entity/Q1771909>
+        owl:sameAs  <http://es.dbpedia.org/resource/Atea_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q746061>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hoya_de_Alcoy> .
+
+<http://www.wikidata.org/entity/Q34265>
+        owl:sameAs  <http://es.dbpedia.org/resource/Canal_de_Navarrés> .
+
+<http://www.wikidata.org/entity/Q122158>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campo_de_Turia> .
+
+<http://www.wikidata.org/entity/Q34277>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hoya_de_Buñol-Chiva> .
+
+<http://www.wikidata.org/entity/Q34294>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valle_de_Ayora> .
+
+<http://www.wikidata.org/entity/Q681222>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bajo_Vinalopó> .
+
+<http://www.wikidata.org/entity/Q2247639>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alto_Maestrazgo> .
+
+<http://www.wikidata.org/entity/Q2247650>
+        owl:sameAs  <http://es.dbpedia.org/resource/Huerta_Sur> .
+
+<http://www.wikidata.org/entity/Q2300654>
+        owl:sameAs  <http://es.dbpedia.org/resource/Valle_de_Albaida> .
+
+<http://www.wikidata.org/entity/Q1553264>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alto_Vinalopó> .
+
+<http://www.wikidata.org/entity/Q1949333>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plana_Alta> .
+
+<http://www.wikidata.org/entity/Q2247607>
+        owl:sameAs  <http://es.dbpedia.org/resource/Marina_Baja> .
+
+<http://www.wikidata.org/entity/Q2046431>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campo_de_Alicante> .
+
+<http://www.wikidata.org/entity/Q2247626>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribera_Alta_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q2247618>
+        owl:sameAs  <http://es.dbpedia.org/resource/Requena-Utiel> .
+
+<http://www.wikidata.org/entity/Q1553230>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Costera> .
+
+<http://www.wikidata.org/entity/Q1552742>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ribera_Baja_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q1520549>
+        owl:sameAs  <http://es.dbpedia.org/resource/Safor> .
+
+<http://www.wikidata.org/entity/Q1432274>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rincón_de_Ademuz> .
+
+<http://www.wikidata.org/entity/Q2300630>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alto_Mijares> .
+
+<http://www.wikidata.org/entity/Q2247664>
+        owl:sameAs  <http://es.dbpedia.org/resource/Condado_de_Cocentaina> .
+
+<http://www.wikidata.org/entity/Q2248089>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Puertos_de_Morella> .
+
+<http://www.wikidata.org/entity/Q2298465>
+        owl:sameAs  <http://es.dbpedia.org/resource/Huerta_Norte> .
+
+<http://www.wikidata.org/entity/Q2263209>
+        owl:sameAs  <http://es.dbpedia.org/resource/Comarca_de_Valencia> .
+
+<http://www.wikidata.org/entity/Q8255149>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calderona> .
+
+<http://www.wikidata.org/entity/Q925790>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campo_de_Murviedro> .
+
+<http://www.wikidata.org/entity/Q1421124>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_Serranos> .
+
+<http://www.wikidata.org/entity/Q1425924>
+        owl:sameAs  <http://es.dbpedia.org/resource/Marina_Alta> .
+
+<http://www.wikidata.org/entity/Q972305>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vega_Baja_del_Segura> .
+
+<http://www.wikidata.org/entity/Q804017>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bajo_Maestrazgo> .
+
+<http://www.wikidata.org/entity/Q2390627>
+        owl:sameAs  <http://es.dbpedia.org/resource/Huerta_Oeste> .
+
+<http://www.wikidata.org/entity/Q3068364>
+        owl:sameAs  <http://es.dbpedia.org/resource/Huerta_de_Valencia> .
+
+<http://www.wikidata.org/entity/Q6744920>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ports_de_Morella> .
+
+<http://www.wikidata.org/entity/Q2300724>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alcalatén> .
+
+<http://www.wikidata.org/entity/Q2300713>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alto_Palancia> .
+
+<http://www.wikidata.org/entity/Q2300692>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vinalopó_Medio> .
+
+<http://www.wikidata.org/entity/Q2300704>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plana_Baja> .
+
+<http://www.wikidata.org/entity/Q891622>
+owl:sameAs  <http://es.dbpedia.org/resource/Boltaña> .
+
+<http://www.wikidata.org/entity/Q144331>
+        owl:sameAs  <http://es.dbpedia.org/resource/Zaidín_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q524413>
+owl:sameAs  <http://es.dbpedia.org/resource/Ibdes> .
+
+
+<http://www.wikidata.org/entity/Q1640394>
+        owl:sameAs  <http://es.dbpedia.org/resource/Illueca> .
+
+<http://www.wikidata.org/entity/Q956524>
+owl:sameAs  <http://es.dbpedia.org/resource/Maella> .
+
+<http://www.wikidata.org/entity/Q979314>
+        owl:sameAs  <http://es.dbpedia.org/resource/Terrer> .
+
+<http://www.wikidata.org/entity/Q572800>
+owl:sameAs  <http://es.dbpedia.org/resource/Alcañiz> .
+
+<http://www.wikidata.org/entity/Q1653307>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alfambra> .
+
+<http://www.wikidata.org/entity/Q1653535>
+owl:sameAs  <http://es.dbpedia.org/resource/Allepuz> .
+
+<http://www.wikidata.org/entity/Q14336>
+        owl:sameAs  <http://es.dbpedia.org/resource/Teruel> .
+
+<http://www.wikidata.org/entity/Q5765>
+owl:sameAs  <http://es.dbpedia.org/resource/Islas_Baleares> .
+
+<http://www.wikidata.org/entity/Q1036287>
+owl:sameAs  <http://es.dbpedia.org/resource/El_Hierro> .
+
+<http://www.wikidata.org/entity/Q105967>
+owl:sameAs  <http://es.dbpedia.org/resource/La_Gomera> .
+
+<http://www.wikidata.org/entity/Q40846>
+owl:sameAs  <http://es.dbpedia.org/resource/Tenerife> .

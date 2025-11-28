@@ -1,0 +1,49 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q464942>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Garajonay> .
+
+<http://www.wikidata.org/entity/Q715124>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_del_Teide> .
+
+<http://www.wikidata.org/entity/Q48567>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Picos_de_Europa> .
+
+<http://www.wikidata.org/entity/Q117583>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Cabañeros> .
+
+<http://www.wikidata.org/entity/Q463141>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_y_natural_de_Doñana> .
+
+<http://www.wikidata.org/entity/Q23988114>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_la_Caldera_de_Taburiente> .
+
+<http://www.wikidata.org/entity/Q1969050>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_y_natural_de_Sierra_Nevada> .
+
+<http://www.wikidata.org/entity/Q1480521>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Timanfaya> .
+
+<http://www.wikidata.org/entity/Q1324805>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_la_Sierra_de_Guadarrama> .
+
+<http://www.wikidata.org/entity/Q741610>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Ordesa_y_Monte_Perdido> .
+
+<http://www.wikidata.org/entity/Q1470066>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Aigüestortes_i_estany_de_Sant_Maurici> .
+
+<http://www.wikidata.org/entity/Q1520216>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_las_Tablas_de_Daimiel> .
+
+<http://www.wikidata.org/entity/Q1968939>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_Monfragüe> .
+
+<http://www.wikidata.org/entity/Q1628126>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_de_las_Islas_Atlánticas_de_Galicia> .
+
+<http://www.wikidata.org/entity/Q1968721>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_nacional_marítimo-terrestre_del_Archipiélago_de_Cabrera> .
