@@ -1,0 +1,1516 @@
+PREFIX dct:       <http://purl.org/dc/terms/>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX monu:      <http://www.monumentos.es/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX tes:       <http://tesauros.mecd.es/tesauros/vocab#>
+PREFIX xml:       <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q13639>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166414> .
+
+<http://www.wikidata.org/entity/Q984526>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1148802> .
+
+<http://www.wikidata.org/entity/Q1902157>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1168513> .
+
+<http://www.wikidata.org/entity/Q1769556>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159934> .
+
+<http://www.wikidata.org/entity/Q15538>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123751> .
+
+<http://www.wikidata.org/entity/Q15492>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123735> .
+
+<http://www.wikidata.org/entity/Q15471>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120867> .
+
+<http://www.wikidata.org/entity/Q15553>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147684> .
+
+<http://www.wikidata.org/entity/Q1643605>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1133241> .
+
+<http://www.wikidata.org/entity/Q13056>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1126187> .
+
+<http://www.wikidata.org/entity/Q13725>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1121957> .
+
+<http://www.wikidata.org/entity/Q13083>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170957> .
+
+<http://www.wikidata.org/entity/Q1766663>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166440> .
+
+<http://www.wikidata.org/entity/Q1369014>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116802> .
+
+<http://www.wikidata.org/entity/Q6106441>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1140188> .
+
+<http://www.wikidata.org/entity/Q931134>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1138716> .
+
+<http://www.wikidata.org/entity/Q985604>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1139035> .
+
+<http://www.wikidata.org/entity/Q12093>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154621> .
+
+<http://www.wikidata.org/entity/Q745357>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1163095> .
+
+<http://www.wikidata.org/entity/Q1233422>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159964> .
+
+<http://www.wikidata.org/entity/Q761878>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1163097> .
+
+<http://www.wikidata.org/entity/Q1917548>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1163094> .
+
+<http://www.wikidata.org/entity/Q1242365>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119654> .
+
+<http://www.wikidata.org/entity/Q1233410>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112821> .
+
+<http://www.wikidata.org/entity/Q1230160>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119645> .
+
+<http://www.wikidata.org/entity/Q1229681>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119664> .
+
+<http://www.wikidata.org/entity/Q537265>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119651> .
+
+<http://www.wikidata.org/entity/Q13637>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154955> .
+
+<http://www.wikidata.org/entity/Q616408>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120324> .
+
+<http://www.wikidata.org/entity/Q1631832>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1117835> .
+
+<http://www.wikidata.org/entity/Q1767532>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1153947> .
+
+<http://www.wikidata.org/entity/Q1990609>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1139455> .
+
+<http://www.wikidata.org/entity/Q1902061>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111230> .
+
+<http://www.wikidata.org/entity/Q1902101>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1158575> .
+
+<http://www.wikidata.org/entity/Q1901336>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166981> .
+
+<http://www.wikidata.org/entity/Q1918033>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113725> .
+
+<http://www.wikidata.org/entity/Q378716>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1157881> .
+
+<http://www.wikidata.org/entity/Q1769713>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123311> .
+
+<http://www.wikidata.org/entity/Q13937>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166442> .
+
+<http://www.wikidata.org/entity/Q11247>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114051> .
+
+<http://www.wikidata.org/entity/Q11837>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114090> .
+
+<http://www.wikidata.org/entity/Q11309>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114062> .
+
+<http://www.wikidata.org/entity/Q11852>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114092> .
+
+<http://www.wikidata.org/entity/Q10973>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111500> .
+
+<http://www.wikidata.org/entity/Q15939>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110120> .
+
+<http://www.wikidata.org/entity/Q11347>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114072> .
+
+<http://www.wikidata.org/entity/Q1229669>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111748> .
+
+<http://www.wikidata.org/entity/Q11803>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114080> .
+
+<http://www.wikidata.org/entity/Q11897>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114098> .
+
+<http://www.wikidata.org/entity/Q739975>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1121980> .
+
+<http://www.wikidata.org/entity/Q10927>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114088> .
+
+<http://www.wikidata.org/entity/Q11832>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114089> .
+
+<http://www.wikidata.org/entity/Q1641908>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1156599> .
+
+<http://www.wikidata.org/entity/Q621622>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123420> .
+
+<http://www.wikidata.org/entity/Q732090>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1126486> .
+
+<http://www.wikidata.org/entity/Q1626921>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113506> .
+
+<http://www.wikidata.org/entity/Q1767001>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1165261> .
+
+<http://www.wikidata.org/entity/Q1766657>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1167071> .
+
+<http://www.wikidata.org/entity/Q1628449>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108827> .
+
+<http://www.wikidata.org/entity/Q767011>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1157038> .
+
+<http://www.wikidata.org/entity/Q627890>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154917> .
+
+<http://www.wikidata.org/entity/Q1373919>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113595> .
+
+<http://www.wikidata.org/entity/Q1769146>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152764> .
+
+<http://www.wikidata.org/entity/Q1627578>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114296> .
+
+<http://www.wikidata.org/entity/Q1368805>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109024> .
+
+<http://www.wikidata.org/entity/Q1443518>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109026> .
+
+<http://www.wikidata.org/entity/Q1382239>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109023> .
+
+<http://www.wikidata.org/entity/Q1443959>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109025> .
+
+<http://www.wikidata.org/entity/Q1443585>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109027> .
+
+<http://www.wikidata.org/entity/Q1656711>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1126594> .
+
+<http://www.wikidata.org/entity/Q1627584>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1128247> .
+
+<http://www.wikidata.org/entity/Q779046>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1198937> .
+
+<http://www.wikidata.org/entity/Q398698>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109319> .
+
+<http://www.wikidata.org/entity/Q300446>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1201621> .
+
+<http://www.wikidata.org/entity/Q12693>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115212> .
+
+<http://www.wikidata.org/entity/Q15972>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115614> .
+
+<http://www.wikidata.org/entity/Q12655>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113886> .
+
+<http://www.wikidata.org/entity/Q770259>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111747> .
+
+<http://www.wikidata.org/entity/Q1627544>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110828> .
+
+<http://www.wikidata.org/entity/Q15964>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115608> .
+
+<http://www.wikidata.org/entity/Q13064>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1128583> .
+
+<http://www.wikidata.org/entity/Q15967>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115610> .
+
+<http://www.wikidata.org/entity/Q929794>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119655> .
+
+<http://www.wikidata.org/entity/Q11339>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114069> .
+
+<http://www.wikidata.org/entity/Q494777>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112234> .
+
+<http://www.wikidata.org/entity/Q1230080>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119649> .
+
+<http://www.wikidata.org/entity/Q1645615>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134067> .
+
+<http://www.wikidata.org/entity/Q12615>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1125249> .
+
+<http://www.wikidata.org/entity/Q910396>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116603> .
+
+<http://www.wikidata.org/entity/Q676132>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1156372> .
+
+<http://www.wikidata.org/entity/Q913304>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119659> .
+
+<http://www.wikidata.org/entity/Q1901411>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115409> .
+
+<http://www.wikidata.org/entity/Q648921>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169546> .
+
+<http://www.wikidata.org/entity/Q2269903>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147550> .
+
+<http://www.wikidata.org/entity/Q676746>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1167984> .
+
+<http://www.wikidata.org/entity/Q13032>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134264> .
+
+<http://www.wikidata.org/entity/Q607811>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1117571> .
+
+<http://www.wikidata.org/entity/Q1994640>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1149856> .
+
+<http://www.wikidata.org/entity/Q15504>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123738> .
+
+<http://www.wikidata.org/entity/Q1631787>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134079> .
+
+<http://www.wikidata.org/entity/Q395225>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108324> .
+
+<http://www.wikidata.org/entity/Q13748>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1136374> .
+
+<http://www.wikidata.org/entity/Q1229283>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120040> .
+
+<http://www.wikidata.org/entity/Q12598>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134456> .
+
+<http://www.wikidata.org/entity/Q1768905>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130647> .
+
+<http://www.wikidata.org/entity/Q1751965>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1127227> .
+
+<http://www.wikidata.org/entity/Q15558>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1141133> .
+
+<http://www.wikidata.org/entity/Q15534>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114918> .
+
+<http://www.wikidata.org/entity/Q12604>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1126159> .
+
+<http://www.wikidata.org/entity/Q13010>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116423> .
+
+<http://www.wikidata.org/entity/Q1983359>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115638> .
+
+<http://www.wikidata.org/entity/Q845424>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152578> .
+
+<http://www.wikidata.org/entity/Q917888>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1161272> .
+
+<http://www.wikidata.org/entity/Q1635204>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111923> .
+
+<http://www.wikidata.org/entity/Q15491>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114914> .
+
+<http://www.wikidata.org/entity/Q762516>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119672> .
+
+<http://www.wikidata.org/entity/Q746392>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119676> .
+
+<http://www.wikidata.org/entity/Q15092>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134472> .
+
+<http://www.wikidata.org/entity/Q1633869>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170486> .
+
+<http://www.wikidata.org/entity/Q735451>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169539> .
+
+<http://www.wikidata.org/entity/Q917886>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169598> .
+
+<http://www.wikidata.org/entity/Q16736>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119502> .
+
+<http://www.wikidata.org/entity/Q16734>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119500> .
+
+<http://www.wikidata.org/entity/Q2469810>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1199713> .
+
+<http://www.wikidata.org/entity/Q904269>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170489> .
+
+<http://www.wikidata.org/entity/Q492312>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170457> .
+
+<http://www.wikidata.org/entity/Q491922>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170427> .
+
+<http://www.wikidata.org/entity/Q95010>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109342> .
+
+<http://www.wikidata.org/entity/Q1637381>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154043> .
+
+<http://www.wikidata.org/entity/Q13608>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1144633> .
+
+<http://www.wikidata.org/entity/Q1771181>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111901> .
+
+<http://www.wikidata.org/entity/Q804155>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134221> .
+
+<http://www.wikidata.org/entity/Q961868>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109132> .
+
+<http://www.wikidata.org/entity/Q13732>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120167> .
+
+<http://www.wikidata.org/entity/Q1596349>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159170> .
+
+<http://www.wikidata.org/entity/Q1993371>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1140119> .
+
+<http://www.wikidata.org/entity/Q2041843>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1140121> .
+
+<http://www.wikidata.org/entity/Q928006>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1125062> .
+
+<http://www.wikidata.org/entity/Q988836>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1144067> .
+
+<http://www.wikidata.org/entity/Q1769645>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1136863> .
+
+<http://www.wikidata.org/entity/Q1902147>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111407> .
+
+<http://www.wikidata.org/entity/Q11802>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114079> .
+
+<http://www.wikidata.org/entity/Q13612>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1126046> .
+
+<http://www.wikidata.org/entity/Q1628152>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109554> .
+
+<http://www.wikidata.org/entity/Q601112>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1128352> .
+
+<http://www.wikidata.org/entity/Q1155351>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1197923> .
+
+<http://www.wikidata.org/entity/Q501090>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113450> .
+
+<http://www.wikidata.org/entity/Q12662>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1144287> .
+
+<http://www.wikidata.org/entity/Q12145>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1162135> .
+
+<http://www.wikidata.org/entity/Q1916315>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1162132> .
+
+<http://www.wikidata.org/entity/Q16735>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119501> .
+
+<http://www.wikidata.org/entity/Q1900776>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1136184> .
+
+<http://www.wikidata.org/entity/Q487801>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169525> .
+
+<http://www.wikidata.org/entity/Q1230115>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114120> .
+
+<http://www.wikidata.org/entity/Q1607748>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130145> .
+
+<http://www.wikidata.org/entity/Q12710>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1122267> .
+
+<http://www.wikidata.org/entity/Q13430>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1145491> .
+
+<http://www.wikidata.org/entity/Q13441>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119335> .
+
+<http://www.wikidata.org/entity/Q13422>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109914> .
+
+<http://www.wikidata.org/entity/Q13754>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1136376> .
+
+<http://www.wikidata.org/entity/Q12122>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154622> .
+
+<http://www.wikidata.org/entity/Q1228799>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134108> .
+
+<http://www.wikidata.org/entity/Q13715>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1125071> .
+
+<http://www.wikidata.org/entity/Q1043496>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114110> .
+
+<http://www.wikidata.org/entity/Q13449>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147957> .
+
+<http://www.wikidata.org/entity/Q13447>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147958> .
+
+<http://www.wikidata.org/entity/Q13454>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147959> .
+
+<http://www.wikidata.org/entity/Q984393>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114131> .
+
+<http://www.wikidata.org/entity/Q1368876>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108802> .
+
+<http://www.wikidata.org/entity/Q12520>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115607> .
+
+<http://www.wikidata.org/entity/Q1605462>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108780> .
+
+<http://www.wikidata.org/entity/Q107356467>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111133> .
+
+<http://www.wikidata.org/entity/Q49550>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152806> .
+
+<http://www.wikidata.org/entity/Q603155>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1149694> .
+
+<http://www.wikidata.org/entity/Q851020>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1150722> .
+
+<http://www.wikidata.org/entity/Q11811>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114083> .
+
+<http://www.wikidata.org/entity/Q584252>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114121> .
+
+<http://www.wikidata.org/entity/Q633095>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114124> .
+
+<http://www.wikidata.org/entity/Q648963>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114125> .
+
+<http://www.wikidata.org/entity/Q920409>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114127> .
+
+<http://www.wikidata.org/entity/Q775782>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154538> .
+
+<http://www.wikidata.org/entity/Q13521>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119698> .
+
+<http://www.wikidata.org/entity/Q13489>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119690> .
+
+<http://www.wikidata.org/entity/Q13469>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119681> .
+
+<http://www.wikidata.org/entity/Q13516>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119694> .
+
+<http://www.wikidata.org/entity/Q12768>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110900> .
+
+<http://www.wikidata.org/entity/Q1982774>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1163720> .
+
+<http://www.wikidata.org/entity/Q13432>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1139951> .
+
+<http://www.wikidata.org/entity/Q1442637>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108769> .
+
+<http://www.wikidata.org/entity/Q47483>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113578> .
+
+<http://www.wikidata.org/entity/Q550221>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114025> .
+
+<http://www.wikidata.org/entity/Q668502>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114037> .
+
+<http://www.wikidata.org/entity/Q541131>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114029> .
+
+<http://www.wikidata.org/entity/Q1229633>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114038> .
+
+<http://www.wikidata.org/entity/Q1228586>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147668> .
+
+<http://www.wikidata.org/entity/Q15429>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154843> .
+
+<http://www.wikidata.org/entity/Q15442>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166398> .
+
+<http://www.wikidata.org/entity/Q15441>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1122518> .
+
+<http://www.wikidata.org/entity/Q15400>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1128590> .
+
+<http://www.wikidata.org/entity/Q15452>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166485> .
+
+<http://www.wikidata.org/entity/Q15408>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134488> .
+
+<http://www.wikidata.org/entity/Q15398>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1124270> .
+
+<http://www.wikidata.org/entity/Q15445>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166406> .
+
+<http://www.wikidata.org/entity/Q783127>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147717> .
+
+<http://www.wikidata.org/entity/Q1769629>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147719> .
+
+<http://www.wikidata.org/entity/Q13936>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1145508> .
+
+<http://www.wikidata.org/entity/Q605232>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152497> .
+
+<http://www.wikidata.org/entity/Q13939>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1146129> .
+
+<http://www.wikidata.org/entity/Q12294>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152811> .
+
+<http://www.wikidata.org/entity/Q12330>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1117622> .
+
+<http://www.wikidata.org/entity/Q13474>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119687> .
+
+<http://www.wikidata.org/entity/Q1596784>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108832> .
+
+<http://www.wikidata.org/entity/Q15365>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110905> .
+
+<http://www.wikidata.org/entity/Q15368>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110789> .
+
+<http://www.wikidata.org/entity/Q492420>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169556> .
+
+<http://www.wikidata.org/entity/Q1553410>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130040> .
+
+<http://www.wikidata.org/entity/Q1643617>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1125876> .
+
+<http://www.wikidata.org/entity/Q1637534>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1138511> .
+
+<http://www.wikidata.org/entity/Q931780>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112218> .
+
+<http://www.wikidata.org/entity/Q1312844>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111714> .
+
+<http://www.wikidata.org/entity/Q1771128>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1121384> .
+
+<http://www.wikidata.org/entity/Q12028>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154624> .
+
+<http://www.wikidata.org/entity/Q593512>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114123> .
+
+<http://www.wikidata.org/entity/Q1631776>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111513> .
+
+<http://www.wikidata.org/entity/Q15461>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1168745> .
+
+<http://www.wikidata.org/entity/Q12177>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114109> .
+
+<http://www.wikidata.org/entity/Q1905661>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1133621> .
+
+<http://www.wikidata.org/entity/Q13073>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1138860> .
+
+<http://www.wikidata.org/entity/Q496588>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170478> .
+
+<http://www.wikidata.org/entity/Q1227761>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169582> .
+
+<http://www.wikidata.org/entity/Q6904>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110840> .
+
+<http://www.wikidata.org/entity/Q911092>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170476> .
+
+<http://www.wikidata.org/entity/Q508950>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1154956> .
+
+<http://www.wikidata.org/entity/Q984645>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1148870> .
+
+<http://www.wikidata.org/entity/Q943793>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1150607> .
+
+<http://www.wikidata.org/entity/Q1905584>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1141866> .
+
+<http://www.wikidata.org/entity/Q16696>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119484> .
+
+<http://www.wikidata.org/entity/Q12671>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1118962> .
+
+<http://www.wikidata.org/entity/Q605850>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109245> .
+
+<http://www.wikidata.org/entity/Q11905159>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108746> .
+
+<http://www.wikidata.org/entity/Q12704>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108746> .
+
+<http://www.wikidata.org/entity/Q16684>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108247> .
+
+<http://www.wikidata.org/entity/Q13927>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130581> .
+
+<http://www.wikidata.org/entity/Q12656>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1122439> .
+
+<http://www.wikidata.org/entity/Q929759>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119765> .
+
+<http://www.wikidata.org/entity/Q1229289>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111743> .
+
+<http://www.wikidata.org/entity/Q1230086>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119758> .
+
+<http://www.wikidata.org/entity/Q15362>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110921> .
+
+<http://www.wikidata.org/entity/Q13821>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159302> .
+
+<http://www.wikidata.org/entity/Q13820>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159301> .
+
+<http://www.wikidata.org/entity/Q13803>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134072> .
+
+<http://www.wikidata.org/entity/Q13828>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159304> .
+
+<http://www.wikidata.org/entity/Q13822>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159303> .
+
+<http://www.wikidata.org/entity/Q13817>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159299> .
+
+<http://www.wikidata.org/entity/Q13780>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1143985> .
+
+<http://www.wikidata.org/entity/Q13855>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159314> .
+
+<http://www.wikidata.org/entity/Q13818>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159300> .
+
+<http://www.wikidata.org/entity/Q13775>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1126180> .
+
+<http://www.wikidata.org/entity/Q13814>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159297> .
+
+<http://www.wikidata.org/entity/Q13782>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1145674> .
+
+<http://www.wikidata.org/entity/Q13851>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159311> .
+
+<http://www.wikidata.org/entity/Q13819>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147434> .
+
+<http://www.wikidata.org/entity/Q13823>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108717> .
+
+<http://www.wikidata.org/entity/Q1382246>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109028> .
+
+<http://www.wikidata.org/entity/Q577144>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108208> .
+
+<http://www.wikidata.org/entity/Q1445352>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108572> .
+
+<http://www.wikidata.org/entity/Q1635650>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1148619> .
+
+<http://www.wikidata.org/entity/Q54948>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1124126> .
+
+<http://www.wikidata.org/entity/Q1766238>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159915> .
+
+<http://www.wikidata.org/entity/Q5720>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111103> .
+
+<http://www.wikidata.org/entity/Q1248541>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1162224> .
+
+<http://www.wikidata.org/entity/Q985682>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1118360> .
+
+<http://www.wikidata.org/entity/Q12534>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130574> .
+
+<http://www.wikidata.org/entity/Q670498>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170440> .
+
+<http://www.wikidata.org/entity/Q847127>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1170484> .
+
+<http://www.wikidata.org/entity/Q835911>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109042> .
+
+<http://www.wikidata.org/entity/Q12251>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116232> .
+
+<http://www.wikidata.org/entity/Q15971>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115613> .
+
+<http://www.wikidata.org/entity/Q11844>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1197855> .
+
+<http://www.wikidata.org/entity/Q15428>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152876> .
+
+<http://www.wikidata.org/entity/Q15425>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1127113> .
+
+<http://www.wikidata.org/entity/Q15455>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1166678> .
+
+<http://www.wikidata.org/entity/Q1228787>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169609> .
+
+<http://www.wikidata.org/entity/Q12352>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1142678> .
+
+<http://www.wikidata.org/entity/Q1228795>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114133> .
+
+<http://www.wikidata.org/entity/Q1645033>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114135> .
+
+<http://www.wikidata.org/entity/Q385667>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109129> .
+
+<http://www.wikidata.org/entity/Q665188>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169603> .
+
+<http://www.wikidata.org/entity/Q973641>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1159059> .
+
+<http://www.wikidata.org/entity/Q2012930>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1152947> .
+
+<http://www.wikidata.org/entity/Q605311>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119371> .
+
+<http://www.wikidata.org/entity/Q738013>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115117> .
+
+<http://www.wikidata.org/entity/Q1770027>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109944> .
+
+<http://www.wikidata.org/entity/Q509226>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1131509> .
+
+<http://www.wikidata.org/entity/Q1983352>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1140784> .
+
+<http://www.wikidata.org/entity/Q1768688>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1137450> .
+
+<http://www.wikidata.org/entity/Q1635908>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109939> .
+
+<http://www.wikidata.org/entity/Q739495>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108774> .
+
+<http://www.wikidata.org/entity/Q6615>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114071> .
+
+<http://www.wikidata.org/entity/Q13078>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1143829> .
+
+<http://www.wikidata.org/entity/Q983476>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114142> .
+
+<http://www.wikidata.org/entity/Q673412>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114144> .
+
+<http://www.wikidata.org/entity/Q13462>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110899> .
+
+<http://www.wikidata.org/entity/Q621092>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113981> .
+
+<http://www.wikidata.org/entity/Q619123>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112254> .
+
+<http://www.wikidata.org/entity/Q1768853>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147797> .
+
+<http://www.wikidata.org/entity/Q1770128>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1153236> .
+
+<http://www.wikidata.org/entity/Q765283>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113439> .
+
+<http://www.wikidata.org/entity/Q23498616>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116230> .
+
+<http://www.wikidata.org/entity/Q12267>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1143957> .
+
+<http://www.wikidata.org/entity/Q16732>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119498> .
+
+<http://www.wikidata.org/entity/Q16730>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119496> .
+
+<http://www.wikidata.org/entity/Q1905685>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1156631> .
+
+<http://www.wikidata.org/entity/Q1442761>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109622> .
+
+<http://www.wikidata.org/entity/Q16731>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119497> .
+
+<http://www.wikidata.org/entity/Q12720>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109893> .
+
+<http://www.wikidata.org/entity/Q12318>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134101> .
+
+<http://www.wikidata.org/entity/Q5705>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114023> .
+
+<http://www.wikidata.org/entity/Q12348>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1164980> .
+
+<http://www.wikidata.org/entity/Q13634>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1153820> .
+
+<http://www.wikidata.org/entity/Q15621>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120865> .
+
+<http://www.wikidata.org/entity/Q15640>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119728> .
+
+<http://www.wikidata.org/entity/Q15641>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120868> .
+
+<http://www.wikidata.org/entity/Q15650>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119731> .
+
+<http://www.wikidata.org/entity/Q15596>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119710> .
+
+<http://www.wikidata.org/entity/Q15635>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119724> .
+
+<http://www.wikidata.org/entity/Q15620>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119715> .
+
+<http://www.wikidata.org/entity/Q15649>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119729> .
+
+<http://www.wikidata.org/entity/Q15636>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119725> .
+
+<http://www.wikidata.org/entity/Q15634>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119723> .
+
+<http://www.wikidata.org/entity/Q15351>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109250> .
+
+<http://www.wikidata.org/entity/Q1248489>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123066> .
+
+<http://www.wikidata.org/entity/Q1643813>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109949> .
+
+<http://www.wikidata.org/entity/Q1631352>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108701> .
+
+<http://www.wikidata.org/entity/Q13946>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130589> .
+
+<http://www.wikidata.org/entity/Q817349>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123491> .
+
+<http://www.wikidata.org/entity/Q676903>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169463> .
+
+<http://www.wikidata.org/entity/Q761735>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1138706> .
+
+<http://www.wikidata.org/entity/Q1452684>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169473> .
+
+<http://www.wikidata.org/entity/Q1382293>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169468> .
+
+<http://www.wikidata.org/entity/Q3934>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113381> .
+
+<http://www.wikidata.org/entity/Q605058>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112440> .
+
+<http://www.wikidata.org/entity/Q671272>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1128812> .
+
+<http://www.wikidata.org/entity/Q1450828>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108672> .
+
+<http://www.wikidata.org/entity/Q1653451>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147131> .
+
+<http://www.wikidata.org/entity/Q15376>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1117820> .
+
+<http://www.wikidata.org/entity/Q1917483>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1162990> .
+
+<http://www.wikidata.org/entity/Q13757>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1136377> .
+
+<http://www.wikidata.org/entity/Q112274660>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1137020> .
+
+<http://www.wikidata.org/entity/Q663077>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112850> .
+
+<http://www.wikidata.org/entity/Q1229607>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1164518> .
+
+<http://www.wikidata.org/entity/Q926784>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1157061> .
+
+<http://www.wikidata.org/entity/Q607737>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123486> .
+
+<http://www.wikidata.org/entity/Q1230055>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1141960> .
+
+<http://www.wikidata.org/entity/Q1233555>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1157062> .
+
+<http://www.wikidata.org/entity/Q1233485>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1164674> .
+
+<http://www.wikidata.org/entity/Q15374>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1118552> .
+
+<http://www.wikidata.org/entity/Q973465>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1118699> .
+
+<http://www.wikidata.org/entity/Q1768824>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113220> .
+
+<http://www.wikidata.org/entity/Q1627605>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108494> .
+
+<http://www.wikidata.org/entity/Q996161>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113380> .
+
+<http://www.wikidata.org/entity/Q747527>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113228> .
+
+<http://www.wikidata.org/entity/Q13747>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113377> .
+
+<http://www.wikidata.org/entity/Q1617334>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109709> .
+
+<http://www.wikidata.org/entity/Q740204>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113223> .
+
+<http://www.wikidata.org/entity/Q2198539>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110364> .
+
+<http://www.wikidata.org/entity/Q12685>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1130539> .
+
+<http://www.wikidata.org/entity/Q1650767>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119915> .
+
+<http://www.wikidata.org/entity/Q491667>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113224> .
+
+<http://www.wikidata.org/entity/Q545317>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1157238> .
+
+<http://www.wikidata.org/entity/Q1627561>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116811> .
+
+<http://www.wikidata.org/entity/Q13438>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147955> .
+
+<http://www.wikidata.org/entity/Q1607462>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108518> .
+
+<http://www.wikidata.org/entity/Q13453>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147960> .
+
+<http://www.wikidata.org/entity/Q387385>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109505> .
+
+<http://www.wikidata.org/entity/Q1618272>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116592> .
+
+<http://www.wikidata.org/entity/Q935589>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113227> .
+
+<http://www.wikidata.org/entity/Q617119>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108795> .
+
+<http://www.wikidata.org/entity/Q1450836>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108707> .
+
+<http://www.wikidata.org/entity/Q1544003>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1117075> .
+
+<http://www.wikidata.org/entity/Q13614>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1120328> .
+
+<http://www.wikidata.org/entity/Q1228578>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119757> .
+
+<http://www.wikidata.org/entity/Q1765399>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123070> .
+
+<http://www.wikidata.org/entity/Q515061>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111704> .
+
+<http://www.wikidata.org/entity/Q983465>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1149991> .
+
+<http://www.wikidata.org/entity/Q1616611>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113237> .
+
+<http://www.wikidata.org/entity/Q1620170>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110977> .
+
+<http://www.wikidata.org/entity/Q13458>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147961> .
+
+<http://www.wikidata.org/entity/Q225662>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169608> .
+
+<http://www.wikidata.org/entity/Q1766650>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114165> .
+
+<http://www.wikidata.org/entity/Q918637>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1121274> .
+
+<http://www.wikidata.org/entity/Q1763714>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123446> .
+
+<http://www.wikidata.org/entity/Q636467>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123444> .
+
+<http://www.wikidata.org/entity/Q1629539>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108497> .
+
+<http://www.wikidata.org/entity/Q849319>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109117> .
+
+<http://www.wikidata.org/entity/Q643709>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110584> .
+
+<http://www.wikidata.org/entity/Q15361>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1111749> .
+
+<http://www.wikidata.org/entity/Q1447399>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108284> .
+
+<http://www.wikidata.org/entity/Q1646761>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119823> .
+
+<http://www.wikidata.org/entity/Q1645785>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1210790> .
+
+<http://www.wikidata.org/entity/Q646620>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108971> .
+
+<http://www.wikidata.org/entity/Q959913>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169727> .
+
+<http://www.wikidata.org/entity/Q206308>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169686> .
+
+<http://www.wikidata.org/entity/Q1648042>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169812> .
+
+<http://www.wikidata.org/entity/Q1133148>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169846> .
+
+<http://www.wikidata.org/entity/Q1645748>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169626> .
+
+<http://www.wikidata.org/entity/Q2996999>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109471> .
+
+<http://www.wikidata.org/entity/Q920774>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112503> .
+
+<http://www.wikidata.org/entity/Q744088>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114325> .
+
+<http://www.wikidata.org/entity/Q516631>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1121950> .
+
+<http://www.wikidata.org/entity/Q2142215>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109349> .
+
+<http://www.wikidata.org/entity/Q1637042>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108966> .
+
+<http://www.wikidata.org/entity/Q2447353>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108974> .
+
+<http://www.wikidata.org/entity/Q842228>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108997> .
+
+<http://www.wikidata.org/entity/Q1647421>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169802> .
+
+<http://www.wikidata.org/entity/Q1645830>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109347> .
+
+<http://www.wikidata.org/entity/Q1764633>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169702> .
+
+<http://www.wikidata.org/entity/Q1780242>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169787> .
+
+<http://www.wikidata.org/entity/Q2572251>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108984> .
+
+<http://www.wikidata.org/entity/Q1648019>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169839> .
+
+<http://www.wikidata.org/entity/Q1959105>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108998> .
+
+<http://www.wikidata.org/entity/Q732730>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108967> .
+
+<http://www.wikidata.org/entity/Q968727>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109345> .
+
+<http://www.wikidata.org/entity/Q545577>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108982> .
+
+<http://www.wikidata.org/entity/Q1648807>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108990> .
+
+<http://www.wikidata.org/entity/Q917891>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108993> .
+
+<http://www.wikidata.org/entity/Q1636245>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1199394> .
+
+<http://www.wikidata.org/entity/Q2470020>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108978> .
+
+<http://www.wikidata.org/entity/Q524479>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108989> .
+
+<http://www.wikidata.org/entity/Q2329544>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169801> .
+
+<http://www.wikidata.org/entity/Q2572202>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108983> .
+
+<http://www.wikidata.org/entity/Q578795>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108996> .
+
+<http://www.wikidata.org/entity/Q546401>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109346> .
+
+<http://www.wikidata.org/entity/Q1646562>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108973> .
+
+<http://www.wikidata.org/entity/Q1641785>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108981> .
+
+<http://www.wikidata.org/entity/Q1647898>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169795> .
+
+<http://www.wikidata.org/entity/Q1773034>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169754> .
+
+<http://www.wikidata.org/entity/Q837062>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169793> .
+
+<http://www.wikidata.org/entity/Q804160>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113811> .
+
+<http://www.wikidata.org/entity/Q10282>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108994> .
+
+<http://www.wikidata.org/entity/Q1648046>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169707> .
+
+<http://www.wikidata.org/entity/Q372556>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108995> .
+
+<http://www.wikidata.org/entity/Q923976>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169706> .
+
+<http://www.wikidata.org/entity/Q1647359>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108968> .
+
+<http://www.wikidata.org/entity/Q4018>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109006> .
+
+<http://www.wikidata.org/entity/Q818675>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108965> .
+
+<http://www.wikidata.org/entity/Q1773024>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169631> .
+
+<http://www.wikidata.org/entity/Q1020550>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169796> .
+
+<http://www.wikidata.org/entity/Q1641794>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108992> .
+
+<http://www.wikidata.org/entity/Q656781>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169628> .
+
+<http://www.wikidata.org/entity/Q1767914>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169799> .
+
+<http://www.wikidata.org/entity/Q956576>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169697> .
+
+<http://www.wikidata.org/entity/Q984884>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169708> .
+
+<http://www.wikidata.org/entity/Q1635681>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109348> .
+
+<http://www.wikidata.org/entity/Q1753006>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169632> .
+
+<http://www.wikidata.org/entity/Q1647888>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169829> .
+
+<http://www.wikidata.org/entity/Q15966>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115609> .
+
+<http://www.wikidata.org/entity/Q1228466>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109004> .
+
+<http://www.wikidata.org/entity/Q600671>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109003> .
+
+<http://www.wikidata.org/entity/Q1644975>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119770> .
+
+<http://www.wikidata.org/entity/Q389530>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110457> .
+
+<http://www.wikidata.org/entity/Q1646576>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109904> .
+
+<http://www.wikidata.org/entity/Q1645687>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109002> .
+
+<http://www.wikidata.org/entity/Q1648087>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1118988> .
+
+<http://www.wikidata.org/entity/Q1647450>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109001> .
+
+<http://www.wikidata.org/entity/Q592681>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108549> .
+
+<http://www.wikidata.org/entity/Q1647365>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109000> .
+
+<http://www.wikidata.org/entity/Q1382230>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109016> .
+
+<http://www.wikidata.org/entity/Q15450>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1125233> .
+
+<http://www.wikidata.org/entity/Q12339>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119465> .
+
+<http://www.wikidata.org/entity/Q13569>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119699> .
+
+<http://www.wikidata.org/entity/Q1916297>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1163325> .
+
+<http://www.wikidata.org/entity/Q1616072>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109320> .
+
+<http://www.wikidata.org/entity/Q1228543>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119763> .
+
+<http://www.wikidata.org/entity/Q16685>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1119479> .
+
+<http://www.wikidata.org/entity/Q1616392>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108143> .
+
+<http://www.wikidata.org/entity/Q15555>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1147683> .
+
+<http://www.wikidata.org/entity/Q15506>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1123739> .
+
+<http://www.wikidata.org/entity/Q13746>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1116198> .
+
+<http://www.wikidata.org/entity/Q1629581>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1118458> .
+
+<http://www.wikidata.org/entity/Q15364>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112424> .
+
+<http://www.wikidata.org/entity/Q2041822>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110925> .
+
+<http://www.wikidata.org/entity/Q13943>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1125229> .
+
+<http://www.wikidata.org/entity/Q1607479>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108174> .
+
+<http://www.wikidata.org/entity/Q842216>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110279> .
+
+<http://www.wikidata.org/entity/Q912514>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1108179> .
+
+<http://www.wikidata.org/entity/Q1450823>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1112402> .
+
+<http://www.wikidata.org/entity/Q984398>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114112> .
+
+<http://www.wikidata.org/entity/Q15402>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1121844> .
+
+<http://www.wikidata.org/entity/Q1448886>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109215> .
+
+<http://www.wikidata.org/entity/Q1629552>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1134753> .
+
+<http://www.wikidata.org/entity/Q10509>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113115> .
+
+<http://www.wikidata.org/entity/Q837056>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109204> .
+
+<http://www.wikidata.org/entity/Q1373973>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109015> .
+
+<http://www.wikidata.org/entity/Q792921>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169651> .
+
+<http://www.wikidata.org/entity/Q2605814>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1109650> .
+
+<http://www.wikidata.org/entity/Q810494>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1110699> .
+
+<http://www.wikidata.org/entity/Q1368772>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1169462> .
+
+<http://www.wikidata.org/entity/Q1631458>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1113218> .
+
+<http://www.wikidata.org/entity/Q1453218>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1115115> .
+
+<http://www.wikidata.org/entity/Q8196644>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/geografico/1114192> .
