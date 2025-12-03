@@ -1,0 +1,316 @@
+PREFIX btn100:      <https://datos.ign.es/def/btn100#>
+PREFIX dc:          <http://purl.org/dc/terms/>
+PREFIX esadm:       <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX escjr:       <http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#>
+PREFIX foaf:        <http://xmlns.com/foaf/0.1/>
+PREFIX genonames:   <http://www.geonames.org/ontology#>
+PREFIX geo:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geoes:       <http://geo.linkeddata.es/ontology/>
+PREFIX geonames:    <http://www.geonames.org/ontology#>
+PREFIX georec:      <https://datos.ign.es/recurso/btn100/telesilla/>
+PREFIX georesource: <http://geo.linkeddata.es/recurso/CarreteraAutonomica/>
+PREFIX geosparql:   <http://www.opengis.net/ont/geosparql#>
+PREFIX owl:         <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:        <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:          <http://www.opengis.net/ont/sf#>
+PREFIX xsd:         <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q5902963>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/30033> .
+
+<http://www.wikidata.org/entity/Q87761912>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/27823> .
+
+<http://www.wikidata.org/entity/Q12267029>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/18271> .
+
+<http://www.wikidata.org/entity/Q5903026>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3044> .
+
+<http://www.wikidata.org/entity/Q9004931>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/5764> .
+
+<http://www.wikidata.org/entity/Q30265298>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/24808> .
+
+<http://www.wikidata.org/entity/Q87762469>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/32140> .
+
+<http://www.wikidata.org/entity/Q30280213>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/39880> .
+
+<http://www.wikidata.org/entity/Q97622189>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/33386> .
+
+<http://www.wikidata.org/entity/Q87814143>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/21588> .
+
+<http://www.wikidata.org/entity/Q30260497>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3515> .
+
+<http://www.wikidata.org/entity/Q87668614>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12047> .
+
+<http://www.wikidata.org/entity/Q87761921>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/26753> .
+
+<http://www.wikidata.org/entity/Q87762523>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/32145> .
+
+<http://www.wikidata.org/entity/Q87761896>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/14098> .
+
+<http://www.wikidata.org/entity/Q20105030>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/1009> .
+
+<http://www.wikidata.org/entity/Q97620140>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12053> .
+
+<http://www.wikidata.org/entity/Q5902701>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31554> .
+
+<http://www.wikidata.org/entity/Q97603136>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29102> .
+
+<http://www.wikidata.org/entity/Q5902841>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29102> .
+
+<http://www.wikidata.org/entity/Q30280168>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12039> .
+
+<http://www.wikidata.org/entity/Q30280269>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/16228> .
+
+<http://www.wikidata.org/entity/Q87762334>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/20164> .
+
+<http://www.wikidata.org/entity/Q40538271>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12040> .
+
+<http://www.wikidata.org/entity/Q30280014>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31075> .
+
+<http://www.wikidata.org/entity/Q6673106>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3028> .
+
+<http://www.wikidata.org/entity/Q3277335>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/24428> .
+
+<http://www.wikidata.org/entity/Q16576057>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/2008> .
+
+<http://www.wikidata.org/entity/Q5902797>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/22359> .
+
+<http://www.wikidata.org/entity/Q30254327>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/18865> .
+
+<http://www.wikidata.org/entity/Q18286002>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/22890> .
+
+<http://www.wikidata.org/entity/Q10946643>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/27938> .
+
+<http://www.wikidata.org/entity/Q5903116>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/27938> .
+
+<http://www.wikidata.org/entity/Q64442852>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/1007> .
+
+<http://www.wikidata.org/entity/Q30253911>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3021> .
+
+<http://www.wikidata.org/entity/Q30254225>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3039> .
+
+<http://www.wikidata.org/entity/Q64443820>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29220> .
+
+<http://www.wikidata.org/entity/Q97634294>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29220> .
+
+<http://www.wikidata.org/entity/Q97633378>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29220> .
+
+<http://www.wikidata.org/entity/Q97616382>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29220> .
+
+<http://www.wikidata.org/entity/Q87761931>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29220> .
+
+<http://www.wikidata.org/entity/Q30603279>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29220> .
+
+<http://www.wikidata.org/entity/Q87762476>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/32135> .
+
+<http://www.wikidata.org/entity/Q30253906>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3040> .
+
+<http://www.wikidata.org/entity/Q87761753>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/36633> .
+
+<http://www.wikidata.org/entity/Q87828923>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/2006> .
+
+<http://www.wikidata.org/entity/Q6745063>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/10016> .
+
+<http://www.wikidata.org/entity/Q87761452>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/33001> .
+
+<http://www.wikidata.org/entity/Q9004969>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12048> .
+
+<http://www.wikidata.org/entity/Q5902599>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/26929> .
+
+<http://www.wikidata.org/entity/Q17137118>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/10389> .
+
+<http://www.wikidata.org/entity/Q30280284>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/30423> .
+
+<http://www.wikidata.org/entity/Q19974285>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/10390> .
+
+<http://www.wikidata.org/entity/Q87761468>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31084> .
+
+<http://www.wikidata.org/entity/Q5902653>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/14099> .
+
+<http://www.wikidata.org/entity/Q5902588>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/20833> .
+
+<http://www.wikidata.org/entity/Q30254320>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/17936> .
+
+<http://www.wikidata.org/entity/Q5902906>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3056> .
+
+<http://www.wikidata.org/entity/Q19722081>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3319> .
+
+<http://www.wikidata.org/entity/Q87762226>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/24424> .
+
+<http://www.wikidata.org/entity/Q5661215>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/2944> .
+
+<http://www.wikidata.org/entity/Q87762367>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/34548> .
+
+<http://www.wikidata.org/entity/Q63216078>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/39878> .
+
+<http://www.wikidata.org/entity/Q64576852>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/16229> .
+
+<http://www.wikidata.org/entity/Q5902966>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3043> .
+
+<http://www.wikidata.org/entity/Q87828386>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/30392> .
+
+<http://www.wikidata.org/entity/Q87761705>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/24807> .
+
+<http://www.wikidata.org/entity/Q87762211>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/24429> .
+
+<http://www.wikidata.org/entity/Q5902800>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/41843> .
+
+<http://www.wikidata.org/entity/Q30260455>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12046> .
+
+<http://www.wikidata.org/entity/Q87761719>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31547> .
+
+<http://www.wikidata.org/entity/Q5902992>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/17098> .
+
+<http://www.wikidata.org/entity/Q87762607>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/1003> .
+
+<http://www.wikidata.org/entity/Q124805281>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/22140> .
+
+<http://www.wikidata.org/entity/Q87829744>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/30075> .
+
+<http://www.wikidata.org/entity/Q9004881>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31082> .
+
+<http://www.wikidata.org/entity/Q30260264>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/27819> .
+
+<http://www.wikidata.org/entity/Q61389803>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/35372> .
+
+<http://www.wikidata.org/entity/Q20748112>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/29588> .
+
+<http://www.wikidata.org/entity/Q30253923>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/33225> .
+
+<http://www.wikidata.org/entity/Q87761906>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/27820> .
+
+<http://www.wikidata.org/entity/Q18350077>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3022> .
+
+<http://www.wikidata.org/entity/Q30254322>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3054> .
+
+<http://www.wikidata.org/entity/Q87762692>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/41015> .
+
+<http://www.wikidata.org/entity/Q87798344>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/24422> .
+
+<http://www.wikidata.org/entity/Q64576252>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/16227> .
+
+<http://www.wikidata.org/entity/Q18200522>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3041> .
+
+<http://www.wikidata.org/entity/Q87761476>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31074> .
+
+<http://www.wikidata.org/entity/Q87761650>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/18789> .
+
+<http://www.wikidata.org/entity/Q5902675>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/22888> .
+
+
+<http://www.wikidata.org/entity/Q5902659>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/1973> .
+
+<http://www.wikidata.org/entity/Q27892167>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/32142> .
+
+<http://www.wikidata.org/entity/Q87761649>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/18864> .
+
+<http://www.wikidata.org/entity/Q87761462>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/31080> .
+
+<http://www.wikidata.org/entity/Q87762435>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/34893> .
+
+<http://www.wikidata.org/entity/Q87762107>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3019> .
+
+
+<http://www.wikidata.org/entity/Q31270980>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/12050> .
+
+<http://www.wikidata.org/entity/Q87762013>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/3038> .
+
+<http://www.wikidata.org/entity/Q87762694>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/hospital/41013> .

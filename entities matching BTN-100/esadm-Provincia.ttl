@@ -1,0 +1,223 @@
+PREFIX btn100:    <https://datos.ign.es/def/btn100#>
+PREFIX dc:        <http://purl.org/dc/elements/1.1/>
+PREFIX esadm:     <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX georec:    <https://datos.ign.es/recurso/btn100/rio-superficial/>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:        <http://www.opengis.net/ont/sf#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q95080>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/provincia/las-palmas> .
+
+<http://www.wikidata.org/entity/Q31844097>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/provincia/la-rioja> .
+
+<http://www.wikidata.org/entity/Q24004404>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/navarra>.
+
+
+<http://www.wikidata.org/entity/Q81972>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/cordoba>.
+
+
+<http://www.wikidata.org/entity/Q71080>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/salamanca>.
+
+<http://www.wikidata.org/entity/Q31920747>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/cantabria>.
+
+<http://www.wikidata.org/entity/Q82119>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/a-coruna>.
+
+
+<http://www.wikidata.org/entity/Q95028>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/malaga>.
+
+<http://www.wikidata.org/entity/Q95088>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/sevilla>.
+
+<http://www.wikidata.org/entity/Q54932>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/ciudad-real>.
+
+<http://www.wikidata.org/entity/Q81801>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/araba-alava>.
+
+<http://www.wikidata.org/entity/Q107356467>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/illes-balears>.
+
+<http://www.wikidata.org/entity/Q99976> owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/santa-cruz-de-tenerife>.
+
+<http://www.wikidata.org/entity/Q71097>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/valladolid>.
+
+<http://www.wikidata.org/entity/Q81977>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/caceres>.
+
+<http://www.wikidata.org/entity/Q54942>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/castello-castellon>.
+
+
+<http://www.wikidata.org/entity/Q95015>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/huelva>.
+
+<http://www.wikidata.org/entity/Q55180>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/zaragoza>.
+
+
+<http://www.wikidata.org/entity/Q54929>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/toledo>.
+
+<http://www.wikidata.org/entity/Q95025>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/jaen>.
+
+<http://www.wikidata.org/entity/Q7194>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/girona>.
+
+<http://www.wikidata.org/entity/Q82142>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/granada>.
+
+<http://www.wikidata.org/entity/Q95038>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/ourense>.
+
+<http://www.wikidata.org/entity/Q54955>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/teruel>.
+
+<http://www.wikidata.org/entity/Q81949>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/barcelona>.
+
+<http://www.wikidata.org/entity/Q54888>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/cuenca>.
+
+<http://www.wikidata.org/entity/Q55283>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/segovia>.
+
+<http://www.wikidata.org/entity/Q71140>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/leon>.
+
+
+<http://www.wikidata.org/entity/Q98392>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/tarragona>.
+
+<http://www.wikidata.org/entity/Q24271891>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/murcia>.
+
+<http://www.wikidata.org/entity/Q95010>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/gipuzkoa>.
+
+<http://www.wikidata.org/entity/Q55276>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/soria>.
+
+
+<http://www.wikidata.org/entity/Q95086>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/pontevedra>.
+
+
+<http://www.wikidata.org/entity/Q55182>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/huesca>.
+
+<http://www.wikidata.org/entity/Q54889>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/albacete>.
+
+<http://www.wikidata.org/entity/Q95027>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/lugo>.
+
+<http://www.wikidata.org/entity/Q71113>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/zamora>.
+
+<http://www.wikidata.org/entity/Q81803>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/badajoz>.
+
+<http://www.wikidata.org/entity/Q81802>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/almeria>.
+
+<http://www.wikidata.org/entity/Q54925>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/guadalajara>.
+
+<http://www.wikidata.org/entity/Q55269>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/palencia>.
+
+<http://www.wikidata.org/entity/Q55271>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/burgos>.
+
+<http://www.wikidata.org/entity/Q54936>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/alacant-alicante>.
+
+<http://www.wikidata.org/entity/Q55288>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/avila>.
+
+<http://www.wikidata.org/entity/Q54939>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/valencia-valencia>.
+
+<http://www.wikidata.org/entity/Q13904>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/lleida>.
+
+<http://www.wikidata.org/entity/Q95080>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/las-palmas>.
+
+<http://www.wikidata.org/entity/Q24004403>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/asturias>.
+
+<http://www.wikidata.org/entity/Q93366>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/bizkaia>.
+
+<http://www.wikidata.org/entity/Q24004405>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/madrid>.
+
+<http://www.wikidata.org/entity/Q81978>
+                owl:sameAs
+<https://datos.ign.es/recurso/btn100/provincia/cadiz>.

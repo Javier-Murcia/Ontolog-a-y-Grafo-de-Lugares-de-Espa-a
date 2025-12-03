@@ -1,0 +1,59 @@
+PREFIX btn100:      <https://datos.ign.es/def/btn100#>
+PREFIX dc:          <http://purl.org/dc/terms/>
+PREFIX esadm:       <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX escjr:       <http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#>
+PREFIX foaf:        <http://xmlns.com/foaf/0.1/>
+PREFIX genonames:   <http://www.geonames.org/ontology#>
+PREFIX geo:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geoes:       <http://geo.linkeddata.es/ontology/>
+PREFIX geonames:    <http://www.geonames.org/ontology#>
+PREFIX georec:      <https://datos.ign.es/recurso/btn100/telesilla/>
+PREFIX georesource: <http://geo.linkeddata.es/recurso/CarreteraAutonomica/>
+PREFIX geosparql:   <http://www.opengis.net/ont/geosparql#>
+PREFIX owl:         <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:        <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:          <http://www.opengis.net/ont/sf#>
+PREFIX xsd:         <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q24008400>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/4485> .
+
+<http://www.wikidata.org/entity/Q303629>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/4485> .
+
+<http://www.wikidata.org/entity/Q28119511>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/31214> .
+
+<http://www.wikidata.org/entity/Q18286125>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/19168> .
+
+<http://www.wikidata.org/entity/Q95621758>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/7827> .
+
+<http://www.wikidata.org/entity/Q97624169>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/7827> .
+
+<http://www.wikidata.org/entity/Q783498>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/7827> .
+
+<http://www.wikidata.org/entity/Q97633872>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/7827> .
+
+<http://www.wikidata.org/entity/Q110671083>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/7827> .
+
+<http://www.wikidata.org/entity/Q97622345>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/7827> .
+
+<http://www.wikidata.org/entity/Q153530>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/31210> .
+
+<http://www.wikidata.org/entity/Q115499453>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/3485> .
+
+<http://www.wikidata.org/entity/Q115509101>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/31236> .
+
+<http://www.wikidata.org/entity/Q23987268>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/sitio-historico/30561> .

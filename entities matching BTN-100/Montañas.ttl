@@ -1,0 +1,1310 @@
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q6092281>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/3836> .
+
+<http://www.wikidata.org/entity/Q23984208>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/24230> .
+
+<http://www.wikidata.org/entity/Q6092432>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/29304> .
+
+<http://www.wikidata.org/entity/Q13049932>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/18113> .
+
+<http://www.wikidata.org/entity/Q5777478>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37292> .
+
+<http://www.wikidata.org/entity/Q6092458>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/8271> .
+
+<http://www.wikidata.org/entity/Q23987021>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/48490> .
+
+<http://www.wikidata.org/entity/Q2840482>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/3833> .
+
+<http://www.wikidata.org/entity/Q6092480>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/18558> .
+
+<http://www.wikidata.org/entity/Q3925447>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/25088> .
+
+<http://www.wikidata.org/entity/Q23984683>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/48438> .
+
+<http://www.wikidata.org/entity/Q9064624>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/3832> .
+
+<http://www.wikidata.org/entity/Q6092380>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37261> .
+
+<http://www.wikidata.org/entity/Q16623246>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/8138> .
+
+<http://www.wikidata.org/entity/Q8558801>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35615> .
+
+<http://www.wikidata.org/entity/Q23992489>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/9334> .
+
+<http://www.wikidata.org/entity/Q1851165>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/6512> .
+
+<http://www.wikidata.org/entity/Q23982176>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/34810> .
+
+<http://www.wikidata.org/entity/Q13049931>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/14635> .
+
+<http://www.wikidata.org/entity/Q5842546>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/14636> .
+
+<http://www.wikidata.org/entity/Q23984007>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/33471> .
+
+<http://www.wikidata.org/entity/Q9064585>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/2904> .
+
+<http://www.wikidata.org/entity/Q547949>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/25090> .
+
+<http://www.wikidata.org/entity/Q6092329>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35617> .
+
+<http://www.wikidata.org/entity/Q23987005>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/54210> .
+
+<http://www.wikidata.org/entity/Q17301395>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/2911> .
+
+<http://www.wikidata.org/entity/Q6092449>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35618> .
+
+<http://www.wikidata.org/entity/Q107467192>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37232> .
+
+<http://www.wikidata.org/entity/Q6092515>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35625> .
+
+<http://www.wikidata.org/entity/Q106397705>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/52468> .
+
+<http://www.wikidata.org/entity/Q23984620>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/41772> .
+
+<http://www.wikidata.org/entity/Q41118503>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35609> .
+
+<http://www.wikidata.org/entity/Q23993088>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/49201> .
+
+<http://www.wikidata.org/entity/Q23986752>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/24229> .
+
+<http://www.wikidata.org/entity/Q5846328>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/25982> .
+
+<http://www.wikidata.org/entity/Q5413962>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/53453> .
+
+<http://www.wikidata.org/entity/Q23993858>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/4416> .
+
+<http://www.wikidata.org/entity/Q91798348>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/14634> .
+
+<http://www.wikidata.org/entity/Q91611318>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/14633> .
+
+<http://www.wikidata.org/entity/Q1942621>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37265> .
+
+<http://www.wikidata.org/entity/Q23993240>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/4417> .
+
+<http://www.wikidata.org/entity/Q23986751>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/24229> .
+
+
+<http://www.wikidata.org/entity/Q7414266>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37262> .
+
+<http://www.wikidata.org/entity/Q124665041>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/25081> .
+
+<http://www.wikidata.org/entity/Q24001260>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/17133> .
+
+
+<http://www.wikidata.org/entity/Q18397963>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37275> .
+
+<http://www.wikidata.org/entity/Q6092513>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/28786> .
+
+<http://www.wikidata.org/entity/Q2982003>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/6493> .
+
+<http://www.wikidata.org/entity/Q24002702>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/29284> .
+
+<http://www.wikidata.org/entity/Q7258846>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/37259> .
+
+<http://www.wikidata.org/entity/Q23990446>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/24272> .
+
+<http://www.wikidata.org/entity/Q18416045>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/52465> .
+
+<http://www.wikidata.org/entity/Q6092495>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/41006> .
+
+<http://www.wikidata.org/entity/Q2881350>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/41010> .
+
+<http://www.wikidata.org/entity/Q16623214>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/8140> .
+
+<http://www.wikidata.org/entity/Q6092446>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35616> .
+
+<http://www.wikidata.org/entity/Q6092333>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35620> .
+
+<http://www.wikidata.org/entity/Q1305618>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/6495> .
+
+<http://www.wikidata.org/entity/Q23982103>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/45199> .
+
+<http://www.wikidata.org/entity/Q6092440>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/28401> .
+
+<http://www.wikidata.org/entity/Q23984216>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/33359> .
+
+<http://www.wikidata.org/entity/Q6092359>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/35626> .
+
+<http://www.wikidata.org/entity/Q7258845>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/puerto-de-montana/42336> .
+
+        <http://www.wikidata.org/entity/Q6127846>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3002> .
+
+
+        <http://www.wikidata.org/entity/Q64408916>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4817> .
+
+        <http://www.wikidata.org/entity/Q3818022>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3097> .
+
+        <http://www.wikidata.org/entity/Q6127967>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2632> .
+
+        <http://www.wikidata.org/entity/Q5685282>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3564> .
+
+        <http://www.wikidata.org/entity/Q6127662>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2177> .
+
+        <http://www.wikidata.org/entity/Q108129301>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3525> .
+
+        <http://www.wikidata.org/entity/Q6127975>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/271> .
+
+        <http://www.wikidata.org/entity/Q6127954>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3707> .
+
+      
+
+        <http://www.wikidata.org/entity/Q3054063>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2064> .
+
+        <http://www.wikidata.org/entity/Q7511655>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1983> .
+
+        <http://www.wikidata.org/entity/Q25619964>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2162> .
+
+        <http://www.wikidata.org/entity/Q61466844>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/995> .
+
+        <http://www.wikidata.org/entity/Q6127649>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2192> .
+
+        <http://www.wikidata.org/entity/Q63105525>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2101> .
+
+        <http://www.wikidata.org/entity/Q23994773>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2159> .
+
+        <http://www.wikidata.org/entity/Q6127962>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3608> .
+
+        <http://www.wikidata.org/entity/Q27908085>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4901> .
+
+        <http://www.wikidata.org/entity/Q6127699>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2640> .
+
+        <http://www.wikidata.org/entity/Q23992361>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1691> .
+
+        <http://www.wikidata.org/entity/Q25619951>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2216> .
+
+        <http://www.wikidata.org/entity/Q925153>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1960> .
+
+        <http://www.wikidata.org/entity/Q23994760>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1989> .
+
+
+        <http://www.wikidata.org/entity/Q11948430>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1589> .
+
+        <http://www.wikidata.org/entity/Q6127949>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3684> .
+
+        <http://www.wikidata.org/entity/Q23999511>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2071> .
+
+        <http://www.wikidata.org/entity/Q5549852>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3723> .
+
+        <http://www.wikidata.org/entity/Q6127715>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3512> .
+
+        <http://www.wikidata.org/entity/Q20618322>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2139> .
+
+
+        <http://www.wikidata.org/entity/Q6127644>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3257> .
+
+        <http://www.wikidata.org/entity/Q5196316>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4718> .
+
+
+        <http://www.wikidata.org/entity/Q5649852>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2338> .
+
+
+        <http://www.wikidata.org/entity/Q9077118>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3544> .
+
+        <http://www.wikidata.org/entity/Q6127936>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/273> .
+
+        <http://www.wikidata.org/entity/Q9077068>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1780> .
+
+
+        <http://www.wikidata.org/entity/Q61466697>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1976> .
+
+        <http://www.wikidata.org/entity/Q7511637>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/471> .
+
+
+        <http://www.wikidata.org/entity/Q9077126>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1251> .
+
+        <http://www.wikidata.org/entity/Q6127944>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2472> .
+
+        <http://www.wikidata.org/entity/Q6127773>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3647> .
+
+
+        <http://www.wikidata.org/entity/Q5679050>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3620> .
+
+        <http://www.wikidata.org/entity/Q7511503>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2164> .
+
+
+
+        <http://www.wikidata.org/entity/Q6127781>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2996> .
+
+
+
+
+        <http://www.wikidata.org/entity/Q25619962>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2208> .
+
+
+        <http://www.wikidata.org/entity/Q3573042>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2086> .
+
+        <http://www.wikidata.org/entity/Q6127818>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/904> .
+
+        <http://www.wikidata.org/entity/Q6980922>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3016> .
+
+        <http://www.wikidata.org/entity/Q2919507>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2601> .
+
+        <http://www.wikidata.org/entity/Q23991245>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2212> .
+
+        <http://www.wikidata.org/entity/Q6127805>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/927> .
+
+        <http://www.wikidata.org/entity/Q19512912>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3486> .
+
+
+        <http://www.wikidata.org/entity/Q23985745>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4930> .
+
+        <http://www.wikidata.org/entity/Q2602926>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2760> .
+
+        <http://www.wikidata.org/entity/Q9077108>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/81> .
+
+        <http://www.wikidata.org/entity/Q6127926>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2645> .
+
+        <http://www.wikidata.org/entity/Q6127905>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4165> .
+
+
+
+        <http://www.wikidata.org/entity/Q935177>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1677> .
+
+        <http://www.wikidata.org/entity/Q6127997>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/607> .
+
+
+        <http://www.wikidata.org/entity/Q602169>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3270> .
+
+
+        <http://www.wikidata.org/entity/Q23982378>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3502> .
+
+        <http://www.wikidata.org/entity/Q2784096>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3656> .
+
+        <http://www.wikidata.org/entity/Q25619965>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2046> .
+
+        <http://www.wikidata.org/entity/Q1685429>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1683> .
+
+        <http://www.wikidata.org/entity/Q6127821>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2465> .
+
+        <http://www.wikidata.org/entity/Q6128025>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3653> .
+
+
+
+        <http://www.wikidata.org/entity/Q23991511>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2408> .
+
+        <http://www.wikidata.org/entity/Q6127942>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3094> .
+
+        <http://www.wikidata.org/entity/Q3572386>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2138> .
+
+        <http://www.wikidata.org/entity/Q6127750>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3685> .
+
+
+
+        <http://www.wikidata.org/entity/Q62681572>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1974> .
+
+        <http://www.wikidata.org/entity/Q3571501>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2089> .
+
+        <http://www.wikidata.org/entity/Q5857247>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2448> .
+
+        <http://www.wikidata.org/entity/Q6127637>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4887> .
+
+
+
+        <http://www.wikidata.org/entity/Q62686344>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2027> .
+
+        <http://www.wikidata.org/entity/Q9077111>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/316> .
+
+        <http://www.wikidata.org/entity/Q2945638>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3513> .
+
+        <http://www.wikidata.org/entity/Q23994164>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2923> .
+
+        <http://www.wikidata.org/entity/Q6127758>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3702> .
+
+        <http://www.wikidata.org/entity/Q31761551>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2085> .
+
+
+        <http://www.wikidata.org/entity/Q104243664>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/91> .
+
+
+        <http://www.wikidata.org/entity/Q20618423>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1726> .
+
+
+        <http://www.wikidata.org/entity/Q9077090>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2116> .
+
+        <http://www.wikidata.org/entity/Q6127916>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4806> .
+
+
+        <http://www.wikidata.org/entity/Q7511659>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2726> .
+
+        <http://www.wikidata.org/entity/Q6127632>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3639> .
+
+        <http://www.wikidata.org/entity/Q9077148>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2337> .
+
+        <http://www.wikidata.org/entity/Q25619897>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2173> .
+
+        <http://www.wikidata.org/entity/Q9077098>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1777> .
+
+        <http://www.wikidata.org/entity/Q6127682>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2163> .
+
+        <http://www.wikidata.org/entity/Q18006406>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1326> .
+
+        <http://www.wikidata.org/entity/Q23987879>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4224> .
+
+
+        <http://www.wikidata.org/entity/Q3307610>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2607> .
+
+        <http://www.wikidata.org/entity/Q6127861>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2628> .
+
+        <http://www.wikidata.org/entity/Q7511633>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2066> .
+
+        <http://www.wikidata.org/entity/Q93495757>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3628> .
+
+        <http://www.wikidata.org/entity/Q61466843>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/993> .
+
+        <http://www.wikidata.org/entity/Q24003188>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2207> .
+
+        <http://www.wikidata.org/entity/Q6128044>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4240> .
+
+        <http://www.wikidata.org/entity/Q6127627>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3609> .
+
+
+
+        <http://www.wikidata.org/entity/Q9077122>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1972> .
+
+        <http://www.wikidata.org/entity/Q2472707>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2692> .
+
+        <http://www.wikidata.org/entity/Q23993566>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2078> .
+
+        <http://www.wikidata.org/entity/Q1750750>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/272> .
+
+        <http://www.wikidata.org/entity/Q6127635>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3637> .
+
+        <http://www.wikidata.org/entity/Q6127990>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/997> .
+
+        <http://www.wikidata.org/entity/Q6128031>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2148> .
+
+        <http://www.wikidata.org/entity/Q6127614>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3607> .
+
+        <http://www.wikidata.org/entity/Q60500466>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/407> .
+
+
+        <http://www.wikidata.org/entity/Q6127898>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4900> .
+
+
+        <http://www.wikidata.org/entity/Q107611545>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3664> .
+
+        <http://www.wikidata.org/entity/Q6127664>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2662> .
+
+        <http://www.wikidata.org/entity/Q23986747>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4918> .
+
+        <http://www.wikidata.org/entity/Q6127814>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2653> .
+
+        <http://www.wikidata.org/entity/Q6128018>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3030> .
+
+
+        <http://www.wikidata.org/entity/Q55006914>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1765> .
+
+
+        <http://www.wikidata.org/entity/Q61750954>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1975> .
+
+        <http://www.wikidata.org/entity/Q62679419>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/994> .
+
+        <http://www.wikidata.org/entity/Q5818428>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3896> .
+
+        <http://www.wikidata.org/entity/Q6127985>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4613> .
+
+
+        <http://www.wikidata.org/entity/Q6127559>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3262> .
+
+        <http://www.wikidata.org/entity/Q655622>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/597> .
+
+        <http://www.wikidata.org/entity/Q11948716>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/127> .
+
+
+        <http://www.wikidata.org/entity/Q63105727>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2132> .
+
+        <http://www.wikidata.org/entity/Q6127659>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3708> .
+
+
+        <http://www.wikidata.org/entity/Q23978994>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/3091> .
+
+        <http://www.wikidata.org/entity/Q6127809>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2190> .
+
+        <http://www.wikidata.org/entity/Q6127972>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2292> .
+
+        <http://www.wikidata.org/entity/Q4891824>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2075> .
+
+
+        <http://www.wikidata.org/entity/Q5861922>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/1932> .
+
+        <http://www.wikidata.org/entity/Q3751950>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4907> .
+
+        <http://www.wikidata.org/entity/Q7511673>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/90> .
+
+        <http://www.wikidata.org/entity/Q2651251>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/4824> .
+
+
+        <http://www.wikidata.org/entity/Q6022731>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/2161> .
+
+        <http://www.wikidata.org/entity/Q6127959>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/sierra/962> .
+
+                <http://www.wikidata.org/entity/Q110671010>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/964> .
+
+                <http://www.wikidata.org/entity/Q24002656>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1871> .
+
+
+                <http://www.wikidata.org/entity/Q1092213>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1751> .
+
+                <http://www.wikidata.org/entity/Q987419>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1665> .
+
+                <http://www.wikidata.org/entity/Q95620509>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2060> .
+
+                <http://www.wikidata.org/entity/Q1133148>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/749> .
+
+                <http://www.wikidata.org/entity/Q677038>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4401> .
+
+                <http://www.wikidata.org/entity/Q108064505>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/60> .
+
+                <http://www.wikidata.org/entity/Q509056>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2867> .
+
+
+                <http://www.wikidata.org/entity/Q120173094>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/934> .
+
+                <http://www.wikidata.org/entity/Q1324039>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3137> .
+
+                <http://www.wikidata.org/entity/Q12385230>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2565> .
+
+                <http://www.wikidata.org/entity/Q104640619>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/809> .
+
+                <http://www.wikidata.org/entity/Q12381058>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4335> .
+
+                <http://www.wikidata.org/entity/Q1643825>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/958> .
+
+                <http://www.wikidata.org/entity/Q1918857>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2390> .
+
+                <http://www.wikidata.org/entity/Q4893216>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2884> .
+
+                <http://www.wikidata.org/entity/Q120172522>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/108> .
+
+                <http://www.wikidata.org/entity/Q24019152>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4398> .
+
+                <http://www.wikidata.org/entity/Q23984567>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2147> .
+
+                <http://www.wikidata.org/entity/Q108064797>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2113> .
+
+                <http://www.wikidata.org/entity/Q3054063>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2065> .
+
+                <http://www.wikidata.org/entity/Q1630657>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/879> .
+
+                <http://www.wikidata.org/entity/Q176624>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4409> .
+
+                <http://www.wikidata.org/entity/Q1143182>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2113> .
+
+                <http://www.wikidata.org/entity/Q929208>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2676> .
+
+                <http://www.wikidata.org/entity/Q20551027>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4532> .
+
+                <http://www.wikidata.org/entity/Q984636>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1779> .
+
+                <http://www.wikidata.org/entity/Q1633915>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/108> .
+
+                <http://www.wikidata.org/entity/Q1656684>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/934> .
+
+                <http://www.wikidata.org/entity/Q24012765>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2867> .
+
+                <http://www.wikidata.org/entity/Q21036658>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1792> .
+
+                <http://www.wikidata.org/entity/Q1983371>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/229> .
+
+                <http://www.wikidata.org/entity/Q53857741>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1704> .
+
+                <http://www.wikidata.org/entity/Q97601799>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/883> .
+
+                <http://www.wikidata.org/entity/Q23983031>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4391> .
+
+                <http://www.wikidata.org/entity/Q434286>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4390> .
+
+                <http://www.wikidata.org/entity/Q2249245>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/883> .
+
+                <http://www.wikidata.org/entity/Q24019147>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4392> .
+
+                <http://www.wikidata.org/entity/Q95621150>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2147> .
+
+                <http://www.wikidata.org/entity/Q24013148>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2893> .
+
+                <http://www.wikidata.org/entity/Q23991255>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2336> .
+
+
+                <http://www.wikidata.org/entity/Q1117207>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/667> .
+
+                <http://www.wikidata.org/entity/Q108066644>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2147> .
+
+                <http://www.wikidata.org/entity/Q97635991>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q1425924>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/239> .
+
+                <http://www.wikidata.org/entity/Q108064729>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4279> .
+
+                <http://www.wikidata.org/entity/Q6159154>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3035> .
+
+                <http://www.wikidata.org/entity/Q434173>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4400> .
+
+                <http://www.wikidata.org/entity/Q5393809>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3537> .
+
+                <http://www.wikidata.org/entity/Q433986>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4396> .
+
+                <http://www.wikidata.org/entity/Q2974289>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2577> .
+
+                <http://www.wikidata.org/entity/Q1092274>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2018> .
+
+                <http://www.wikidata.org/entity/Q628736>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3137> .
+
+                <http://www.wikidata.org/entity/Q204073>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/570> .
+
+                <http://www.wikidata.org/entity/Q12263294>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/740> .
+
+                <http://www.wikidata.org/entity/Q120170894>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4409> .
+
+                <http://www.wikidata.org/entity/Q572760>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2108> .
+
+                <http://www.wikidata.org/entity/Q52317265>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2999> .
+
+                <http://www.wikidata.org/entity/Q1074123>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2391> .
+
+                <http://www.wikidata.org/entity/Q2449812>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2765> .
+
+                <http://www.wikidata.org/entity/Q98499634>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q18285574>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2898> .
+
+                <http://www.wikidata.org/entity/Q1756549>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2002> .
+
+                <http://www.wikidata.org/entity/Q241767>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1997> .
+
+                <http://www.wikidata.org/entity/Q2472448>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4177> .
+
+                <http://www.wikidata.org/entity/Q836559>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1029> .
+
+                <http://www.wikidata.org/entity/Q671341>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1871> .
+
+                <http://www.wikidata.org/entity/Q1917457>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/590> .
+
+                <http://www.wikidata.org/entity/Q6159057>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1666> .
+
+                <http://www.wikidata.org/entity/Q804156>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2120> .
+
+                <http://www.wikidata.org/entity/Q24019150>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4396> .
+
+                <http://www.wikidata.org/entity/Q1111378>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2398> .
+
+                <http://www.wikidata.org/entity/Q2606861>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4818> .
+
+                <http://www.wikidata.org/entity/Q2469810>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/576> .
+
+                <http://www.wikidata.org/entity/Q3054587>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/844> .
+
+                <http://www.wikidata.org/entity/Q115768542>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/928> .
+
+                <http://www.wikidata.org/entity/Q120171264>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4401> .
+
+                <http://www.wikidata.org/entity/Q23978627>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/229> .
+
+                <http://www.wikidata.org/entity/Q1614774>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/889> .
+
+                <http://www.wikidata.org/entity/Q946251>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/895> .
+
+                <http://www.wikidata.org/entity/Q1116480>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3478> .
+
+                <http://www.wikidata.org/entity/Q97631271>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2867> .
+
+                <http://www.wikidata.org/entity/Q97620556>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q97623564>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q64010>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2001> .
+
+                <http://www.wikidata.org/entity/Q120173508>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2390> .
+
+                <http://www.wikidata.org/entity/Q984621>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1795> .
+
+                <http://www.wikidata.org/entity/Q120172870>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3643> .
+
+                <http://www.wikidata.org/entity/Q97625366>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q804172>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2117> .
+
+                <http://www.wikidata.org/entity/Q120172657>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/958> .
+
+                <http://www.wikidata.org/entity/Q113674780>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q23984560>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4177> .
+
+                <http://www.wikidata.org/entity/Q23993886>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1997> .
+
+                <http://www.wikidata.org/entity/Q2467022>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2422> .
+
+                <http://www.wikidata.org/entity/Q2722649>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2646> .
+
+                <http://www.wikidata.org/entity/Q120172402>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3021> .
+
+                <http://www.wikidata.org/entity/Q23985106>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4831> .
+
+                <http://www.wikidata.org/entity/Q2651247>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2865> .
+
+                <http://www.wikidata.org/entity/Q4891728>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2870> .
+
+                <http://www.wikidata.org/entity/Q434192>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4998> .
+
+                <http://www.wikidata.org/entity/Q434150>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4391> .
+
+                <http://www.wikidata.org/entity/Q434321>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4395> .
+
+                <http://www.wikidata.org/entity/Q5965447>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q1031442>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1984> .
+
+                <http://www.wikidata.org/entity/Q1647735>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3643> .
+
+                <http://www.wikidata.org/entity/Q120170963>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4998> .
+
+                <http://www.wikidata.org/entity/Q5650669>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2018> .
+
+                <http://www.wikidata.org/entity/Q4467247>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2578> .
+
+                <http://www.wikidata.org/entity/Q2642626>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2518> .
+
+                <http://www.wikidata.org/entity/Q625947>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1981> .
+
+                <http://www.wikidata.org/entity/Q6159118>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3085> .
+
+
+                <http://www.wikidata.org/entity/Q2283933>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2901> .
+
+                <http://www.wikidata.org/entity/Q14336>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2077> .
+
+                <http://www.wikidata.org/entity/Q9087597>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2423> .
+
+                <http://www.wikidata.org/entity/Q55010639>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2122> .
+
+                <http://www.wikidata.org/entity/Q55389727>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q661868>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3491> .
+
+                <http://www.wikidata.org/entity/Q1623038>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3021> .
+
+                <http://www.wikidata.org/entity/Q1074442>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2569> .
+
+                <http://www.wikidata.org/entity/Q120173653>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/883> .
+
+                <http://www.wikidata.org/entity/Q2659022>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/728> .
+
+                <http://www.wikidata.org/entity/Q433958>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4398> .
+
+                <http://www.wikidata.org/entity/Q5814697>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/772> .
+
+                <http://www.wikidata.org/entity/Q434053>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4392> .
+
+                <http://www.wikidata.org/entity/Q5962613>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2867> .
+
+                <http://www.wikidata.org/entity/Q101401663>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/740> .
+
+                <http://www.wikidata.org/entity/Q5492404>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2587> .
+
+
+                <http://www.wikidata.org/entity/Q5745773>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2606> .
+
+                <http://www.wikidata.org/entity/Q24003627>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2115> .
+
+                <http://www.wikidata.org/entity/Q24015285>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1029> .
+
+                <http://www.wikidata.org/entity/Q28120755>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q746061>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/191> .
+
+                <http://www.wikidata.org/entity/Q1647838>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/928> .
+
+                <http://www.wikidata.org/entity/Q120172413>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/793> .
+
+                <http://www.wikidata.org/entity/Q1773019>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/772> .
+
+                <http://www.wikidata.org/entity/Q1031453>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1986> .
+
+                <http://www.wikidata.org/entity/Q519749>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2893> .
+
+                <http://www.wikidata.org/entity/Q6159071>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3013> .
+
+                <http://www.wikidata.org/entity/Q120172108>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/749> .
+
+                <http://www.wikidata.org/entity/Q24019143>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4400> .
+
+                <http://www.wikidata.org/entity/Q1398449>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1999> .
+
+                <http://www.wikidata.org/entity/Q106966724>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4503> .
+
+
+                <http://www.wikidata.org/entity/Q5396350>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/742> .
+
+                <http://www.wikidata.org/entity/Q2466766>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2393> .
+
+                <http://www.wikidata.org/entity/Q120171449>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2999> .
+
+                <http://www.wikidata.org/entity/Q1615397>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2936> .
+
+                <http://www.wikidata.org/entity/Q1544003>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2123> .
+
+                <http://www.wikidata.org/entity/Q3554025>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1727> .
+
+                <http://www.wikidata.org/entity/Q5965445>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q24015159>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2108> .
+
+                <http://www.wikidata.org/entity/Q5769429>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2018> .
+
+                <http://www.wikidata.org/entity/Q962559>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4831> .
+
+                <http://www.wikidata.org/entity/Q2456497>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2424> .
+
+                <http://www.wikidata.org/entity/Q2651637>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2568> .
+
+                <http://www.wikidata.org/entity/Q97629623>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2895> .
+
+                <http://www.wikidata.org/entity/Q9087587>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2422> .
+
+                <http://www.wikidata.org/entity/Q5821543>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3137> .
+
+                <http://www.wikidata.org/entity/Q2247626>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/108> .
+
+                <http://www.wikidata.org/entity/Q2019929>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2325> .
+
+                <http://www.wikidata.org/entity/Q492533>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2115> .
+
+                <http://www.wikidata.org/entity/Q1768862>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/230> .
+
+                <http://www.wikidata.org/entity/Q1630756>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/955> .
+
+                <http://www.wikidata.org/entity/Q1031448>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1996> .
+
+                <http://www.wikidata.org/entity/Q1627534>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/793> .
+
+                <http://www.wikidata.org/entity/Q953876>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4405> .
+
+                <http://www.wikidata.org/entity/Q1367756>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1756> .
+
+                <http://www.wikidata.org/entity/Q5963041>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/60> .
+
+                <http://www.wikidata.org/entity/Q97631756>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2145> .
+
+                <http://www.wikidata.org/entity/Q6159145>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3054> .
+
+                <http://www.wikidata.org/entity/Q628456>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2865> .
+
+                <http://www.wikidata.org/entity/Q2605814>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2600> .
+
+                <http://www.wikidata.org/entity/Q443469>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1711> .
+
+                <http://www.wikidata.org/entity/Q120172871>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/928> .
+
+                <http://www.wikidata.org/entity/Q16608834>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q1766550>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4873> .
+
+                <http://www.wikidata.org/entity/Q1116489>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3500> .
+
+                <http://www.wikidata.org/entity/Q10987039>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1991> .
+
+                <http://www.wikidata.org/entity/Q1651555>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q113513116>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4336> .
+
+                <http://www.wikidata.org/entity/Q2486066>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2578> .
+
+                <http://www.wikidata.org/entity/Q108064386>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4400> .
+
+                <http://www.wikidata.org/entity/Q6146715>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2577> .
+
+                <http://www.wikidata.org/entity/Q5965448>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q6146665>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/986> .
+
+
+                <http://www.wikidata.org/entity/Q2606886>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4093> .
+
+                <http://www.wikidata.org/entity/Q24020002>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2001> .
+
+                <http://www.wikidata.org/entity/Q120172979>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2016> .
+
+                <http://www.wikidata.org/entity/Q2996063>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2276> .
+
+                <http://www.wikidata.org/entity/Q496424>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1973> .
+
+                <http://www.wikidata.org/entity/Q24019141>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/4390> .
+
+                <http://www.wikidata.org/entity/Q12385227>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2565> .
+
+                <http://www.wikidata.org/entity/Q1650607>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q2651648>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2948> .
+
+                <http://www.wikidata.org/entity/Q833488>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2999> .
+
+                <http://www.wikidata.org/entity/Q2726433>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/945> .
+
+                <http://www.wikidata.org/entity/Q2719273>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1786> .
+
+                <http://www.wikidata.org/entity/Q3054031>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1725> .
+
+                <http://www.wikidata.org/entity/Q5823085>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2398> .
+
+                <http://www.wikidata.org/entity/Q96180503>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2895> .
+
+                <http://www.wikidata.org/entity/Q23166>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2123> .
+
+                <http://www.wikidata.org/entity/Q3180890>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1798> .
+
+                <http://www.wikidata.org/entity/Q95621152>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2147> .
+
+
+                <http://www.wikidata.org/entity/Q34277>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/85> .
+
+                <http://www.wikidata.org/entity/Q120172064>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1779> .
+
+                <http://www.wikidata.org/entity/Q2628385>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2694> .
+
+                <http://www.wikidata.org/entity/Q791881>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3654> .
+
+                <http://www.wikidata.org/entity/Q1340288>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1776> .
+
+                <http://www.wikidata.org/entity/Q727992>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1994> .
+
+                <http://www.wikidata.org/entity/Q2746878>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1732> .
+
+                <http://www.wikidata.org/entity/Q120173491>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/590> .
+
+                <http://www.wikidata.org/entity/Q389530>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/1676> .
+
+                <http://www.wikidata.org/entity/Q110671073>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/3680> .
+
+                <http://www.wikidata.org/entity/Q5965238>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2449> .
+
+                <http://www.wikidata.org/entity/Q120171008>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2893> .
+
+                <http://www.wikidata.org/entity/Q124423805>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/comarca-region/2416> .

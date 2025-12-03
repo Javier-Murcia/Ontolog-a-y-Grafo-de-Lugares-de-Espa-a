@@ -1,0 +1,56 @@
+PREFIX btn100:      <https://datos.ign.es/def/btn100#>
+PREFIX dc:          <http://purl.org/dc/terms/>
+PREFIX esadm:       <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX escjr:       <http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#>
+PREFIX foaf:        <http://xmlns.com/foaf/0.1/>
+PREFIX genonames:   <http://www.geonames.org/ontology#>
+PREFIX geo:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geoes:       <http://geo.linkeddata.es/ontology/>
+PREFIX geonames:    <http://www.geonames.org/ontology#>
+PREFIX georec:      <https://datos.ign.es/recurso/btn100/telesilla/>
+PREFIX georesource: <http://geo.linkeddata.es/recurso/CarreteraAutonomica/>
+PREFIX geosparql:   <http://www.opengis.net/ont/geosparql#>
+PREFIX owl:         <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:        <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:          <http://www.opengis.net/ont/sf#>
+PREFIX xsd:         <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q781108>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/25550> .
+
+<http://www.wikidata.org/entity/Q25864>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/3522> .
+
+<http://www.wikidata.org/entity/Q2000065>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/30061> .
+
+<http://www.wikidata.org/entity/Q729391>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/18859> .
+
+<http://www.wikidata.org/entity/Q280305>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/36631> .
+
+<http://www.wikidata.org/entity/Q6156635>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/24419> .
+
+<http://www.wikidata.org/entity/Q666916>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/35364> .
+
+<http://www.wikidata.org/entity/Q4894042>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/27816> .
+
+<http://www.wikidata.org/entity/Q958650>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/29623> .
+
+<http://www.wikidata.org/entity/Q768224>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/21137> .
+
+<http://www.wikidata.org/entity/Q1232180>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/28853> .
+
+<http://www.wikidata.org/entity/Q421739>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/29622> , <https://datos.ign.es/recurso/btn100/universidad/35362> , <https://datos.ign.es/recurso/btn100/universidad/31069> , <https://datos.ign.es/recurso/btn100/universidad/3003> , <https://datos.ign.es/recurso/btn100/universidad/31071> , <https://datos.ign.es/recurso/btn100/universidad/31068> , <https://datos.ign.es/recurso/btn100/universidad/8718> , <https://datos.ign.es/recurso/btn100/universidad/24418> .
+
+<http://www.wikidata.org/entity/Q2303432>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/universidad/39877> .

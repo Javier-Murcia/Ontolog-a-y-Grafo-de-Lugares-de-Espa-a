@@ -1,0 +1,2235 @@
+@prefix mo:    <http://purl.org/ontology/mo/> .
+@prefix geonames: <http://www.geonames.org/ontology#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georec: <https://datos.ign.es/recurso/btn100/diseminado-puntual/> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix genonames: <http://www.geonames.org/ontology#> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q1658553>
+        owl:sameAs  georec:17538 .
+
+<http://www.wikidata.org/entity/Q1358130>
+        owl:sameAs  georec:24123 .
+
+<http://www.wikidata.org/entity/Q108066190>
+        owl:sameAs  georec:20579 .
+
+<http://www.wikidata.org/entity/Q6125968>
+        owl:sameAs  georec:13205 .
+
+<http://www.wikidata.org/entity/Q976972>
+        owl:sameAs  georec:13824 .
+
+<http://www.wikidata.org/entity/Q917878>
+        owl:sameAs  georec:36715 .
+
+
+<http://www.wikidata.org/entity/Q931188>
+        owl:sameAs  georec:27465 .
+
+<http://www.wikidata.org/entity/Q2476584>
+        owl:sameAs  georec:12698 .
+
+<http://www.wikidata.org/entity/Q1358351>
+        owl:sameAs  georec:24060 .
+
+<http://www.wikidata.org/entity/Q1605418>
+        owl:sameAs  georec:27476 .
+
+<http://www.wikidata.org/entity/Q1640400>
+        owl:sameAs  georec:13682 .
+
+<http://www.wikidata.org/entity/Q1640155>
+        owl:sameAs  georec:13845 .
+
+<http://www.wikidata.org/entity/Q2571463>
+        owl:sameAs  georec:18852 .
+
+<http://www.wikidata.org/entity/Q1769741>
+        owl:sameAs  georec:5160 .
+
+<http://www.wikidata.org/entity/Q164133>
+        owl:sameAs  georec:365 .
+
+
+
+<http://www.wikidata.org/entity/Q672876>
+        owl:sameAs  georec:36998 .
+
+<http://www.wikidata.org/entity/Q15695>
+        owl:sameAs  georec:4381 .
+
+
+<http://www.wikidata.org/entity/Q1650760>
+        owl:sameAs  georec:13690 .
+
+
+<http://www.wikidata.org/entity/Q5277>
+        owl:sameAs  georec:24151 .
+
+<http://www.wikidata.org/entity/Q1116600>
+        owl:sameAs  georec:30548 .
+
+<http://www.wikidata.org/entity/Q1628416>
+        owl:sameAs  georec:13891 .
+
+<http://www.wikidata.org/entity/Q491929>
+        owl:sameAs  georec:24040 .
+
+
+<http://www.wikidata.org/entity/Q15631>
+        owl:sameAs  georec:12619 .
+
+<http://www.wikidata.org/entity/Q1605519>
+        owl:sameAs  georec:13900 .
+
+<http://www.wikidata.org/entity/Q746742>
+        owl:sameAs  georec:38630 .
+
+<http://www.wikidata.org/entity/Q9035079>
+        owl:sameAs  georec:20259 .
+
+<http://www.wikidata.org/entity/Q5823228>
+        owl:sameAs  georec:30549 .
+
+<http://www.wikidata.org/entity/Q60853492>
+        owl:sameAs  georec:17596 .
+
+<http://www.wikidata.org/entity/Q1639285>
+        owl:sameAs  georec:13592 .
+
+<http://www.wikidata.org/entity/Q12292>
+        owl:sameAs  georec:20240 .
+
+<http://www.wikidata.org/entity/Q1157968>
+        owl:sameAs  georec:24161 .
+
+<http://www.wikidata.org/entity/Q108066157>
+        owl:sameAs  georec:36510 .
+
+<http://www.wikidata.org/entity/Q1650349>
+        owl:sameAs  georec:13539 .
+
+<http://www.wikidata.org/entity/Q987366>
+        owl:sameAs  georec:37708 .
+
+
+<http://www.wikidata.org/entity/Q31844097>
+        owl:sameAs  georec:24546 .
+
+
+<http://www.wikidata.org/entity/Q1639221>
+        owl:sameAs  georec:13716 .
+
+
+<http://www.wikidata.org/entity/Q1146804>
+        owl:sameAs  georec:30519 .
+
+<http://www.wikidata.org/entity/Q1650363>
+        owl:sameAs  georec:13791 .
+
+<http://www.wikidata.org/entity/Q15511>
+        owl:sameAs  georec:11638 .
+
+
+<http://www.wikidata.org/entity/Q1639119>
+        owl:sameAs  georec:13577 .
+
+<http://www.wikidata.org/entity/Q1650584>
+        owl:sameAs  georec:13737 .
+
+
+<http://www.wikidata.org/entity/Q1641862>
+        owl:sameAs  georec:5172 .
+
+<http://www.wikidata.org/entity/Q531755>
+        owl:sameAs  georec:969 .
+
+<http://www.wikidata.org/entity/Q1447648>
+        owl:sameAs  georec:30327 .
+
+<http://www.wikidata.org/entity/Q1640136>
+        owl:sameAs  georec:13712 .
+
+<http://www.wikidata.org/entity/Q592982>
+        owl:sameAs  georec:30490 .
+
+
+<http://www.wikidata.org/entity/Q137151>
+        owl:sameAs  georec:35021 .
+
+<http://www.wikidata.org/entity/Q644491>
+        owl:sameAs  georec:21925 .
+
+<http://www.wikidata.org/entity/Q8250836>
+        owl:sameAs  georec:1079 .
+
+<http://www.wikidata.org/entity/Q1641087>
+        owl:sameAs  georec:13495 .
+
+<http://www.wikidata.org/entity/Q1636292>
+        owl:sameAs  georec:37250 .
+
+<http://www.wikidata.org/entity/Q612826>
+        owl:sameAs  georec:30319 .
+
+<http://www.wikidata.org/entity/Q1445206>
+        owl:sameAs  georec:24166 .
+
+<http://www.wikidata.org/entity/Q108064346>
+        owl:sameAs  georec:34550 .
+
+
+<http://www.wikidata.org/entity/Q951778>
+        owl:sameAs  georec:32627 .
+
+<http://www.wikidata.org/entity/Q937763>
+        owl:sameAs  georec:9217 .
+
+
+<http://www.wikidata.org/entity/Q983554>
+        owl:sameAs  georec:13924 .
+
+<http://www.wikidata.org/entity/Q682964>
+        owl:sameAs  georec:24515 .
+
+<http://www.wikidata.org/entity/Q1020530>
+        owl:sameAs  georec:27317 .
+
+
+<http://www.wikidata.org/entity/Q1901194>
+        owl:sameAs  georec:23252 .
+
+<http://www.wikidata.org/entity/Q1650685>
+        owl:sameAs  georec:13631 .
+
+<http://www.wikidata.org/entity/Q675656>
+        owl:sameAs  georec:30487 .
+
+
+
+<http://www.wikidata.org/entity/Q1628839>
+        owl:sameAs  georec:23235 .
+
+
+<http://www.wikidata.org/entity/Q1246441>
+        owl:sameAs  georec:17395 .
+
+<http://www.wikidata.org/entity/Q1358156>
+        owl:sameAs  georec:24292 .
+
+<http://www.wikidata.org/entity/Q5613212>
+        owl:sameAs  georec:21159 .
+
+<http://www.wikidata.org/entity/Q1444189>
+        owl:sameAs  georec:24377 .
+
+<http://www.wikidata.org/entity/Q1658049>
+        owl:sameAs  georec:21737 .
+
+<http://www.wikidata.org/entity/Q1641433>
+        owl:sameAs  georec:13628 .
+
+<http://www.wikidata.org/entity/Q1611758>
+        owl:sameAs  georec:24562 .
+
+<http://www.wikidata.org/entity/Q1627625>
+        owl:sameAs  georec:36460 .
+
+
+<http://www.wikidata.org/entity/Q766898>
+        owl:sameAs  georec:13633 .
+
+<http://www.wikidata.org/entity/Q1639202>
+        owl:sameAs  georec:13672 .
+
+
+<http://www.wikidata.org/entity/Q586705>
+        owl:sameAs  georec:23296 .
+
+<http://www.wikidata.org/entity/Q719174>
+        owl:sameAs  georec:35132 .
+
+
+<http://www.wikidata.org/entity/Q1627569>
+        owl:sameAs  georec:12819 .
+
+
+
+<http://www.wikidata.org/entity/Q975254>
+        owl:sameAs  georec:13524 .
+
+<http://www.wikidata.org/entity/Q3552569>
+        owl:sameAs  georec:13505 .
+
+<http://www.wikidata.org/entity/Q5902358>
+        owl:sameAs  georec:4379 .
+
+<http://www.wikidata.org/entity/Q1985374>
+        owl:sameAs  georec:13785 .
+
+<http://www.wikidata.org/entity/Q1627583>
+        owl:sameAs  georec:35451 .
+
+<http://www.wikidata.org/entity/Q526133>
+        owl:sameAs  georec:13897 .
+
+<http://www.wikidata.org/entity/Q1358082>
+        owl:sameAs  georec:24290 .
+
+
+<http://www.wikidata.org/entity/Q1998529>
+        owl:sameAs  georec:20130 .
+
+<http://www.wikidata.org/entity/Q1639335>
+        owl:sameAs  georec:13875 .
+
+<http://www.wikidata.org/entity/Q956558>
+        owl:sameAs  georec:13759 .
+
+<http://www.wikidata.org/entity/Q1750917>
+        owl:sameAs  georec:18059 .
+
+
+<http://www.wikidata.org/entity/Q1444083>
+        owl:sameAs  georec:24042 .
+
+
+<http://www.wikidata.org/entity/Q1641036>
+        owl:sameAs  georec:13917 .
+
+<http://www.wikidata.org/entity/Q1917028>
+        owl:sameAs  georec:13560 .
+
+
+<http://www.wikidata.org/entity/Q1903585>
+        owl:sameAs  georec:14905 .
+
+<http://www.wikidata.org/entity/Q836806>
+        owl:sameAs  georec:4495 .
+
+
+<http://www.wikidata.org/entity/Q668962>
+        owl:sameAs  georec:24576 .
+
+<http://www.wikidata.org/entity/Q1629930>
+        owl:sameAs  georec:13688 .
+
+<http://www.wikidata.org/entity/Q1630403>
+        owl:sameAs  georec:17765 .
+
+<http://www.wikidata.org/entity/Q1242307>
+        owl:sameAs  georec:5300 .
+
+
+<http://www.wikidata.org/entity/Q1650389>
+        owl:sameAs  georec:13866 .
+
+<http://www.wikidata.org/entity/Q1407478>
+        owl:sameAs  georec:24535 .
+
+<http://www.wikidata.org/entity/Q16733>
+        owl:sameAs  georec:8968 .
+
+<http://www.wikidata.org/entity/Q174833>
+        owl:sameAs  georec:5116 .
+
+<http://www.wikidata.org/entity/Q5821766>
+        owl:sameAs  georec:27054 .
+
+<http://www.wikidata.org/entity/Q1614659>
+        owl:sameAs  georec:4048 .
+
+<http://www.wikidata.org/entity/Q1766212>
+        owl:sameAs  georec:36311 .
+
+<http://www.wikidata.org/entity/Q535145>
+        owl:sameAs  georec:21223 .
+
+<http://www.wikidata.org/entity/Q675840>
+        owl:sameAs  georec:13586 .
+
+<http://www.wikidata.org/entity/Q974758>
+        owl:sameAs  georec:13687 .
+
+<http://www.wikidata.org/entity/Q1639625>
+        owl:sameAs  georec:13696 .
+
+<http://www.wikidata.org/entity/Q1647838>
+        owl:sameAs  georec:17187 .
+
+
+
+<http://www.wikidata.org/entity/Q1983222>
+        owl:sameAs  georec:4378 .
+
+
+
+<http://www.wikidata.org/entity/Q5747785>
+        owl:sameAs  georec:20919 .
+
+
+<http://www.wikidata.org/entity/Q1638839>
+        owl:sameAs  georec:13503 .
+
+<http://www.wikidata.org/entity/Q604187>
+        owl:sameAs  georec:13554 .
+
+
+<http://www.wikidata.org/entity/Q1020556>
+        owl:sameAs  georec:10936 .
+
+<http://www.wikidata.org/entity/Q555929>
+        owl:sameAs  georec:23265 .
+
+<http://www.wikidata.org/entity/Q1768723>
+        owl:sameAs  georec:22904 .
+
+<http://www.wikidata.org/entity/Q1248379>
+        owl:sameAs  georec:3862 .
+
+<http://www.wikidata.org/entity/Q1629943>
+        owl:sameAs  georec:13715 .
+
+<http://www.wikidata.org/entity/Q15652>
+        owl:sameAs  georec:11952 .
+
+<http://www.wikidata.org/entity/Q1650679>
+        owl:sameAs  georec:13565 .
+
+
+<http://www.wikidata.org/entity/Q1638821>
+        owl:sameAs  georec:13831 .
+
+<http://www.wikidata.org/entity/Q619236>
+        owl:sameAs  georec:1150 .
+
+<http://www.wikidata.org/entity/Q984499>
+        owl:sameAs  georec:36728 .
+
+<http://www.wikidata.org/entity/Q16466569>
+        owl:sameAs  georec:21080 .
+
+<http://www.wikidata.org/entity/Q108066178>
+        owl:sameAs  georec:29183 .
+
+<http://www.wikidata.org/entity/Q12281>
+        owl:sameAs  georec:9738 .
+
+
+<http://www.wikidata.org/entity/Q63092>
+        owl:sameAs  georec:20563 .
+
+
+<http://www.wikidata.org/entity/Q1444197>
+        owl:sameAs  georec:24130 .
+
+<http://www.wikidata.org/entity/Q1917433>
+        owl:sameAs  georec:23254 .
+
+
+<http://www.wikidata.org/entity/Q1650559>
+        owl:sameAs  georec:13654 .
+
+<http://www.wikidata.org/entity/Q2452253>
+        owl:sameAs  georec:36458 .
+
+<http://www.wikidata.org/entity/Q1358100>
+        owl:sameAs  georec:24371 .
+
+<http://www.wikidata.org/entity/Q108064676>
+        owl:sameAs  georec:34456 .
+
+<http://www.wikidata.org/entity/Q5970855>
+        owl:sameAs  georec:20225 .
+
+<http://www.wikidata.org/entity/Q564780>
+        owl:sameAs  georec:24952 .
+
+<http://www.wikidata.org/entity/Q26203266>
+        owl:sameAs  georec:17847 .
+
+<http://www.wikidata.org/entity/Q1606385>
+        owl:sameAs  georec:24392 .
+
+<http://www.wikidata.org/entity/Q833032>
+        owl:sameAs  georec:35562 .
+
+<http://www.wikidata.org/entity/Q1750925>
+        owl:sameAs  georec:20692 .
+
+<http://www.wikidata.org/entity/Q1183411>
+        owl:sameAs  georec:20925 .
+
+<http://www.wikidata.org/entity/Q215822>
+        owl:sameAs  georec:27381 .
+
+<http://www.wikidata.org/entity/Q1650485>
+        owl:sameAs  georec:13514 .
+
+<http://www.wikidata.org/entity/Q1630429>
+        owl:sameAs  georec:26450 .
+
+
+<http://www.wikidata.org/entity/Q818936>
+        owl:sameAs  georec:27306 .
+
+<http://www.wikidata.org/entity/Q2269972>
+        owl:sameAs  georec:21883 .
+
+
+<http://www.wikidata.org/entity/Q667949>
+        owl:sameAs  georec:8992 .
+
+<http://www.wikidata.org/entity/Q976798>
+        owl:sameAs  georec:13513 .
+
+
+<http://www.wikidata.org/entity/Q1764579>
+        owl:sameAs  georec:38749 .
+
+<http://www.wikidata.org/entity/Q5789735>
+        owl:sameAs  georec:23498 .
+
+<http://www.wikidata.org/entity/Q816249>
+        owl:sameAs  georec:37074 .
+
+<http://www.wikidata.org/entity/Q1641454>
+        owl:sameAs  georec:13638 .
+
+<http://www.wikidata.org/entity/Q1013497>
+        owl:sameAs  georec:17422 .
+
+<http://www.wikidata.org/entity/Q14317>
+        owl:sameAs  georec:38127 .
+
+<http://www.wikidata.org/entity/Q1406756>
+        owl:sameAs  georec:23309 .
+
+<http://www.wikidata.org/entity/Q1639490>
+        owl:sameAs  georec:13630 .
+
+<http://www.wikidata.org/entity/Q668384>
+        owl:sameAs  georec:39923 .
+
+<http://www.wikidata.org/entity/Q959334>
+        owl:sameAs  georec:13494 .
+
+<http://www.wikidata.org/entity/Q582891>
+        owl:sameAs  georec:27432 .
+
+<http://www.wikidata.org/entity/Q970721>
+        owl:sameAs  georec:26142 .
+
+<http://www.wikidata.org/entity/Q15489>
+        owl:sameAs  georec:11609 .
+
+<http://www.wikidata.org/entity/Q1443651>
+        owl:sameAs  georec:30305 .
+
+<http://www.wikidata.org/entity/Q15457>
+        owl:sameAs  georec:28596 .
+
+<http://www.wikidata.org/entity/Q5980501>
+        owl:sameAs  georec:21065 .
+
+<http://www.wikidata.org/entity/Q1641334>
+        owl:sameAs  georec:3817 .
+
+<http://www.wikidata.org/entity/Q5820956>
+        owl:sameAs  georec:24320 .
+
+<http://www.wikidata.org/entity/Q302875>
+        owl:sameAs  georec:18071 .
+
+
+<http://www.wikidata.org/entity/Q582038>
+        owl:sameAs  georec:20687 .
+
+<http://www.wikidata.org/entity/Q1640871>
+        owl:sameAs  georec:26452 .
+
+<http://www.wikidata.org/entity/Q1639577>
+        owl:sameAs  georec:13693 .
+
+<http://www.wikidata.org/entity/Q1641057>
+        owl:sameAs  georec:13613 .
+
+<http://www.wikidata.org/entity/Q108066228>
+        owl:sameAs  georec:8749 .
+
+<http://www.wikidata.org/entity/Q695550>
+        owl:sameAs  georec:24126 .
+
+<http://www.wikidata.org/entity/Q548045>
+        owl:sameAs  georec:8496 .
+
+<http://www.wikidata.org/entity/Q1646180>
+        owl:sameAs  georec:13626 .
+
+
+<http://www.wikidata.org/entity/Q583280>
+        owl:sameAs  georec:13780 .
+
+<http://www.wikidata.org/entity/Q1110389>
+        owl:sameAs  georec:24046 .
+
+<http://www.wikidata.org/entity/Q1020532>
+        owl:sameAs  georec:13175 .
+
+
+<http://www.wikidata.org/entity/Q1444040>
+        owl:sameAs  georec:24152 .
+
+<http://www.wikidata.org/entity/Q13457>
+        owl:sameAs  georec:10102 .
+
+<http://www.wikidata.org/entity/Q1771162>
+        owl:sameAs  georec:27275 .
+
+
+<http://www.wikidata.org/entity/Q1650480>
+        owl:sameAs  georec:13764 .
+
+<http://www.wikidata.org/entity/Q1640239>
+        owl:sameAs  georec:23412 .
+
+<http://www.wikidata.org/entity/Q5996081>
+        owl:sameAs  georec:20264 .
+
+<http://www.wikidata.org/entity/Q1650402>
+        owl:sameAs  georec:13914 .
+
+<http://www.wikidata.org/entity/Q1611830>
+        owl:sameAs  georec:16623 .
+
+<http://www.wikidata.org/entity/Q5755821>
+        owl:sameAs  georec:20277 .
+
+<http://www.wikidata.org/entity/Q1640032>
+        owl:sameAs  georec:13798 .
+
+<http://www.wikidata.org/entity/Q1650623>
+        owl:sameAs  georec:13571 .
+
+<http://www.wikidata.org/entity/Q285411>
+        owl:sameAs  georec:18044 .
+
+
+<http://www.wikidata.org/entity/Q11680128>
+        owl:sameAs  georec:1169 .
+
+<http://www.wikidata.org/entity/Q1919353>
+        owl:sameAs  georec:30586 .
+
+<http://www.wikidata.org/entity/Q1324420>
+        owl:sameAs  georec:34545 .
+
+
+<http://www.wikidata.org/entity/Q1948915>
+        owl:sameAs  georec:26336 .
+
+<http://www.wikidata.org/entity/Q960585>
+        owl:sameAs  georec:13907 .
+
+<http://www.wikidata.org/entity/Q1767871>
+        owl:sameAs  georec:22509 .
+
+<http://www.wikidata.org/entity/Q1639660>
+        owl:sameAs  georec:13576 .
+
+
+<http://www.wikidata.org/entity/Q1640165>
+        owl:sameAs  georec:13489 .
+
+<http://www.wikidata.org/entity/Q2714234>
+        owl:sameAs  georec:21201 .
+
+<http://www.wikidata.org/entity/Q1442159>
+        owl:sameAs  georec:36063 .
+
+
+<http://www.wikidata.org/entity/Q281208>
+        owl:sameAs  georec:13820 .
+
+
+<http://www.wikidata.org/entity/Q11930584>
+        owl:sameAs  georec:34517 .
+
+<http://www.wikidata.org/entity/Q1632405>
+        owl:sameAs  georec:13695 .
+
+
+<http://www.wikidata.org/entity/Q15950>
+        owl:sameAs  georec:18920 .
+
+<http://www.wikidata.org/entity/Q220073>
+        owl:sameAs  georec:13689 .
+
+<http://www.wikidata.org/entity/Q108064620>
+        owl:sameAs  georec:34422 .
+
+
+<http://www.wikidata.org/entity/Q582784>
+        owl:sameAs  georec:18996 .
+
+<http://www.wikidata.org/entity/Q15420>
+        owl:sameAs  georec:8909 .
+
+<http://www.wikidata.org/entity/Q1260011>
+        owl:sameAs  georec:34485 .
+
+
+<http://www.wikidata.org/entity/Q1638099>
+        owl:sameAs  georec:5223 .
+
+<http://www.wikidata.org/entity/Q1656410>
+        owl:sameAs  georec:13223 .
+
+<http://www.wikidata.org/entity/Q984488>
+        owl:sameAs  georec:30605 .
+
+
+<http://www.wikidata.org/entity/Q1641273>
+        owl:sameAs  georec:13507 .
+
+<http://www.wikidata.org/entity/Q1606550>
+        owl:sameAs  georec:22974 .
+
+<http://www.wikidata.org/entity/Q1248557>
+        owl:sameAs  georec:25543 .
+
+<http://www.wikidata.org/entity/Q739619>
+        owl:sameAs  georec:24727 .
+
+<http://www.wikidata.org/entity/Q520287>
+        owl:sameAs  georec:36974 .
+
+<http://www.wikidata.org/entity/Q1632331>
+        owl:sameAs  georec:17764 .
+
+<http://www.wikidata.org/entity/Q617580>
+        owl:sameAs  georec:37339 .
+
+<http://www.wikidata.org/entity/Q7079>
+        owl:sameAs  georec:13401 .
+
+
+<http://www.wikidata.org/entity/Q1766933>
+        owl:sameAs  georec:30932 .
+
+<http://www.wikidata.org/entity/Q572779>
+        owl:sameAs  georec:13722 .
+
+<http://www.wikidata.org/entity/Q776592>
+        owl:sameAs  georec:12829 .
+
+<http://www.wikidata.org/entity/Q384879>
+        owl:sameAs  georec:21620 .
+
+<http://www.wikidata.org/entity/Q1157960>
+        owl:sameAs  georec:24812 .
+
+<http://www.wikidata.org/entity/Q1916240>
+        owl:sameAs  georec:3798 .
+
+<http://www.wikidata.org/entity/Q108064619>
+        owl:sameAs  georec:37750 .
+
+<http://www.wikidata.org/entity/Q1917818>
+        owl:sameAs  georec:20695 .
+
+<http://www.wikidata.org/entity/Q1651278>
+        owl:sameAs  georec:13541 .
+
+<http://www.wikidata.org/entity/Q837930>
+        owl:sameAs  georec:36086 .
+
+<http://www.wikidata.org/entity/Q1643596>
+        owl:sameAs  georec:30707 .
+
+<http://www.wikidata.org/entity/Q1657914>
+        owl:sameAs  georec:21890 .
+
+<http://www.wikidata.org/entity/Q48781782>
+        owl:sameAs  georec:21501 .
+
+<http://www.wikidata.org/entity/Q615755>
+        owl:sameAs  georec:13711 .
+
+<http://www.wikidata.org/entity/Q21065615>
+        owl:sameAs  georec:13019 .
+
+<http://www.wikidata.org/entity/Q15963>
+        owl:sameAs  georec:11354 .
+
+<http://www.wikidata.org/entity/Q949866>
+        owl:sameAs  georec:13535 .
+
+<http://www.wikidata.org/entity/Q1938384>
+        owl:sameAs  georec:14615 .
+
+<http://www.wikidata.org/entity/Q18286345>
+        owl:sameAs  georec:37928 .
+
+
+<http://www.wikidata.org/entity/Q1358286>
+        owl:sameAs  georec:24382 .
+
+<http://www.wikidata.org/entity/Q857308>
+        owl:sameAs  georec:13796 .
+
+<http://www.wikidata.org/entity/Q1639539>
+        owl:sameAs  georec:13523 .
+
+<http://www.wikidata.org/entity/Q2997017>
+        owl:sameAs  georec:30180 .
+
+<http://www.wikidata.org/entity/Q1628439>
+        owl:sameAs  georec:13517 .
+
+
+<http://www.wikidata.org/entity/Q1628407>
+        owl:sameAs  georec:13585 .
+
+<http://www.wikidata.org/entity/Q936798>
+        owl:sameAs  georec:34017 .
+
+<http://www.wikidata.org/entity/Q1110397>
+        owl:sameAs  georec:24111 .
+
+<http://www.wikidata.org/entity/Q18121574>
+        owl:sameAs  georec:20137 .
+
+<http://www.wikidata.org/entity/Q617326>
+        owl:sameAs  georec:13802 .
+
+<http://www.wikidata.org/entity/Q695488>
+        owl:sameAs  georec:24398 .
+
+<http://www.wikidata.org/entity/Q5692533>
+        owl:sameAs  georec:26318 .
+
+<http://www.wikidata.org/entity/Q1640279>
+        owl:sameAs  georec:13809 .
+
+<http://www.wikidata.org/entity/Q1775460>
+        owl:sameAs  georec:37694 .
+
+<http://www.wikidata.org/entity/Q570484>
+        owl:sameAs  georec:12861 .
+
+<http://www.wikidata.org/entity/Q487268>
+        owl:sameAs  georec:34579 .
+
+<http://www.wikidata.org/entity/Q1752019>
+        owl:sameAs  georec:22069 .
+
+<http://www.wikidata.org/entity/Q166137>
+        owl:sameAs  georec:35008 .
+
+
+<http://www.wikidata.org/entity/Q659416>
+        owl:sameAs  georec:19034 .
+
+<http://www.wikidata.org/entity/Q1650386>
+        owl:sameAs  georec:13620 .
+
+<http://www.wikidata.org/entity/Q1640980>
+        owl:sameAs  georec:13574 .
+
+<http://www.wikidata.org/entity/Q1646916>
+        owl:sameAs  georec:10664 .
+
+<http://www.wikidata.org/entity/Q1646962>
+        owl:sameAs  georec:20082 .
+
+<http://www.wikidata.org/entity/Q1447741>
+        owl:sameAs  georec:24254 .
+
+<http://www.wikidata.org/entity/Q5978180>
+        owl:sameAs  georec:20981 .
+
+<http://www.wikidata.org/entity/Q1639608>
+        owl:sameAs  georec:13595 .
+
+<http://www.wikidata.org/entity/Q1916221>
+        owl:sameAs  georec:23075 .
+
+<http://www.wikidata.org/entity/Q1645489>
+        owl:sameAs  georec:22223 .
+
+<http://www.wikidata.org/entity/Q927458>
+        owl:sameAs  georec:12895 .
+
+<http://www.wikidata.org/entity/Q1650575>
+        owl:sameAs  georec:13678 .
+
+<http://www.wikidata.org/entity/Q1901448>
+        owl:sameAs  georec:9041 .
+
+<http://www.wikidata.org/entity/Q1639598>
+        owl:sameAs  georec:13805 .
+
+<http://www.wikidata.org/entity/Q1641078>
+        owl:sameAs  georec:13677 .
+
+<http://www.wikidata.org/entity/Q1645899>
+        owl:sameAs  georec:37372 .
+
+<http://www.wikidata.org/entity/Q1640141>
+        owl:sameAs  georec:13720 .
+
+<http://www.wikidata.org/entity/Q5695212>
+        owl:sameAs  georec:34545 .
+
+
+<http://www.wikidata.org/entity/Q1641046>
+        owl:sameAs  georec:13819 .
+
+<http://www.wikidata.org/entity/Q1770951>
+        owl:sameAs  georec:21235 .
+
+<http://www.wikidata.org/entity/Q1650409>
+        owl:sameAs  georec:13528 .
+
+<http://www.wikidata.org/entity/Q280721>
+        owl:sameAs  georec:23167 .
+
+<http://www.wikidata.org/entity/Q1641014>
+        owl:sameAs  georec:13558 .
+
+<http://www.wikidata.org/entity/Q1657853>
+        owl:sameAs  georec:5517 .
+
+<http://www.wikidata.org/entity/Q2249245>
+        owl:sameAs  georec:19137 .
+
+
+
+<http://www.wikidata.org/entity/Q5745924>
+        owl:sameAs  georec:24334 .
+
+
+<http://www.wikidata.org/entity/Q377446>
+        owl:sameAs  georec:897 .
+
+<http://www.wikidata.org/entity/Q1048867>
+        owl:sameAs  georec:38749 .
+
+<http://www.wikidata.org/entity/Q2041829>
+        owl:sameAs  georec:28666 .
+
+<http://www.wikidata.org/entity/Q1986414>
+        owl:sameAs  georec:36117 .
+
+<http://www.wikidata.org/entity/Q5789285>
+        owl:sameAs  georec:3154 .
+
+<http://www.wikidata.org/entity/Q770882>
+        owl:sameAs  georec:34599 .
+
+<http://www.wikidata.org/entity/Q1640449>
+        owl:sameAs  georec:13606 .
+
+
+
+<http://www.wikidata.org/entity/Q1650612>
+        owl:sameAs  georec:13611 .
+
+
+<http://www.wikidata.org/entity/Q967096>
+        owl:sameAs  georec:24070 .
+
+
+
+<http://www.wikidata.org/entity/Q1553092>
+        owl:sameAs  georec:13653 .
+
+
+<http://www.wikidata.org/entity/Q1639169>
+        owl:sameAs  georec:13852 .
+
+<http://www.wikidata.org/entity/Q578957>
+        owl:sameAs  georec:35470 .
+
+<http://www.wikidata.org/entity/Q47544>
+        owl:sameAs  georec:11561 .
+
+<http://www.wikidata.org/entity/Q1641115>
+        owl:sameAs  georec:13838 .
+
+<http://www.wikidata.org/entity/Q572755>
+        owl:sameAs  georec:13727 .
+
+
+<http://www.wikidata.org/entity/Q1645010>
+        owl:sameAs  georec:35071 .
+
+<http://www.wikidata.org/entity/Q1407470>
+        owl:sameAs  georec:24229 .
+
+<http://www.wikidata.org/entity/Q5874791>
+        owl:sameAs  georec:20911 .
+
+<http://www.wikidata.org/entity/Q783418>
+        owl:sameAs  georec:13607 .
+
+<http://www.wikidata.org/entity/Q649981>
+        owl:sameAs  georec:18158 .
+
+<http://www.wikidata.org/entity/Q2882896>
+        owl:sameAs  georec:21190 .
+
+<http://www.wikidata.org/entity/Q1920004>
+        owl:sameAs  georec:14728 .
+
+<http://www.wikidata.org/entity/Q1634850>
+        owl:sameAs  georec:34575 .
+
+<http://www.wikidata.org/entity/Q1995205>
+        owl:sameAs  georec:17270 .
+
+<http://www.wikidata.org/entity/Q578118>
+        owl:sameAs  georec:35413 .
+
+<http://www.wikidata.org/entity/Q1657115>
+        owl:sameAs  georec:13569 .
+
+
+<http://www.wikidata.org/entity/Q574340>
+        owl:sameAs  georec:28016 .
+
+<http://www.wikidata.org/entity/Q6092682>
+        owl:sameAs  georec:20190 .
+
+<http://www.wikidata.org/entity/Q6464767>
+        owl:sameAs  georec:21133 .
+
+<http://www.wikidata.org/entity/Q545317>
+        owl:sameAs  georec:29119 .
+
+<http://www.wikidata.org/entity/Q5965614>
+        owl:sameAs  georec:23363 .
+
+<http://www.wikidata.org/entity/Q2330837>
+        owl:sameAs  georec:26706 .
+
+<http://www.wikidata.org/entity/Q2314255>
+        owl:sameAs  georec:38195 .
+
+<http://www.wikidata.org/entity/Q108066608>
+        owl:sameAs  georec:28716 .
+
+<http://www.wikidata.org/entity/Q6119063>
+        owl:sameAs  georec:21200 .
+
+<http://www.wikidata.org/entity/Q2359762>
+        owl:sameAs  georec:17903 .
+
+<http://www.wikidata.org/entity/Q943948>
+        owl:sameAs  georec:32596 .
+
+
+<http://www.wikidata.org/entity/Q1631843>
+        owl:sameAs  georec:33908 .
+
+<http://www.wikidata.org/entity/Q784295>
+        owl:sameAs  georec:12887 .
+
+<http://www.wikidata.org/entity/Q1767463>
+        owl:sameAs  georec:16016 .
+
+
+<http://www.wikidata.org/entity/Q1639252>
+        owl:sameAs  georec:13698 .
+
+
+<http://www.wikidata.org/entity/Q835559>
+        owl:sameAs  georec:13707 .
+
+<http://www.wikidata.org/entity/Q5719848>
+        owl:sameAs  georec:20587 .
+
+
+<http://www.wikidata.org/entity/Q12687>
+        owl:sameAs  georec:9101 .
+
+<http://www.wikidata.org/entity/Q1628327>
+        owl:sameAs  georec:3974 .
+
+<http://www.wikidata.org/entity/Q613454>
+        owl:sameAs  georec:24496 .
+
+<http://www.wikidata.org/entity/Q1637095>
+        owl:sameAs  georec:37915 .
+
+
+<http://www.wikidata.org/entity/Q1358142>
+        owl:sameAs  georec:24425 .
+
+<http://www.wikidata.org/entity/Q1650394>
+        owl:sameAs  georec:13734 .
+
+<http://www.wikidata.org/entity/Q1157981>
+        owl:sameAs  georec:24708 .
+
+<http://www.wikidata.org/entity/Q1777965>
+        owl:sameAs  georec:8527 .
+
+<http://www.wikidata.org/entity/Q1650316>
+        owl:sameAs  georec:13527 .
+
+<http://www.wikidata.org/entity/Q13805>
+        owl:sameAs  georec:11926 .
+
+
+<http://www.wikidata.org/entity/Q1611790>
+        owl:sameAs  georec:24145 .
+
+<http://www.wikidata.org/entity/Q1639196>
+        owl:sameAs  georec:13596 .
+
+<http://www.wikidata.org/entity/Q1637031>
+        owl:sameAs  georec:37021 .
+
+
+<http://www.wikidata.org/entity/Q284894>
+        owl:sameAs  georec:24291 .
+
+<http://www.wikidata.org/entity/Q108066391>
+        owl:sameAs  georec:3251 .
+
+<http://www.wikidata.org/entity/Q1635372>
+        owl:sameAs  georec:8920 .
+
+<http://www.wikidata.org/entity/Q574869>
+        owl:sameAs  georec:13657 .
+
+<http://www.wikidata.org/entity/Q929481>
+        owl:sameAs  georec:20264 .
+
+<http://www.wikidata.org/entity/Q978587>
+        owl:sameAs  georec:13593 .
+
+<http://www.wikidata.org/entity/Q1920017>
+        owl:sameAs  georec:13568 .
+
+
+
+<http://www.wikidata.org/entity/Q1910921>
+        owl:sameAs  georec:18021 .
+
+
+<http://www.wikidata.org/entity/Q1919986>
+        owl:sameAs  georec:14624 .
+
+<http://www.wikidata.org/entity/Q1646117>
+        owl:sameAs  georec:12894 .
+
+<http://www.wikidata.org/entity/Q1631944>
+        owl:sameAs  georec:31083 .
+
+<http://www.wikidata.org/entity/Q161945>
+        owl:sameAs  georec:35770 .
+
+<http://www.wikidata.org/entity/Q1639528>
+        owl:sameAs  georec:13594 .
+
+<http://www.wikidata.org/entity/Q776889>
+        owl:sameAs  georec:13725 .
+
+<http://www.wikidata.org/entity/Q1639321>
+        owl:sameAs  georec:13575 .
+
+<http://www.wikidata.org/entity/Q1628474>
+        owl:sameAs  georec:24561 .
+
+
+<http://www.wikidata.org/entity/Q1644868>
+        owl:sameAs  georec:13637 .
+
+<http://www.wikidata.org/entity/Q2041837>
+        owl:sameAs  georec:38555 .
+
+<http://www.wikidata.org/entity/Q15640547>
+        owl:sameAs  georec:784 .
+
+<http://www.wikidata.org/entity/Q15509>
+        owl:sameAs  georec:9334 .
+
+<http://www.wikidata.org/entity/Q1766294>
+        owl:sameAs  georec:24097 .
+
+<http://www.wikidata.org/entity/Q6148961>
+        owl:sameAs  georec:24694 .
+
+<http://www.wikidata.org/entity/Q744533>
+        owl:sameAs  georec:13603 .
+
+<http://www.wikidata.org/entity/Q1611504>
+        owl:sameAs  georec:36012 .
+
+<http://www.wikidata.org/entity/Q5573839>
+        owl:sameAs  georec:21433 .
+
+<http://www.wikidata.org/entity/Q572795>
+        owl:sameAs  georec:13828 .
+
+<http://www.wikidata.org/entity/Q95080>
+        owl:sameAs  georec:34800 .
+
+<http://www.wikidata.org/entity/Q5719598>
+        owl:sameAs  georec:21502 .
+
+<http://www.wikidata.org/entity/Q930465>
+        owl:sameAs  georec:17706 .
+
+<http://www.wikidata.org/entity/Q1372769>
+        owl:sameAs  georec:13623 .
+
+<http://www.wikidata.org/entity/Q1917834>
+        owl:sameAs  georec:23225 .
+
+
+<http://www.wikidata.org/entity/Q13800>
+        owl:sameAs  georec:8749 .
+
+<http://www.wikidata.org/entity/Q6090852>
+        owl:sameAs  georec:21135 .
+
+
+<http://www.wikidata.org/entity/Q609780>
+        owl:sameAs  georec:19032 .
+
+<http://www.wikidata.org/entity/Q1641099>
+        owl:sameAs  georec:13862 .
+
+
+<http://www.wikidata.org/entity/Q1639113>
+        owl:sameAs  georec:13483 .
+
+<http://www.wikidata.org/entity/Q9064372>
+        owl:sameAs  georec:21196 .
+
+<http://www.wikidata.org/entity/Q1765412>
+        owl:sameAs  georec:13067 .
+
+<http://www.wikidata.org/entity/Q1370152>
+        owl:sameAs  georec:24237 .
+
+
+<http://www.wikidata.org/entity/Q1630277>
+        owl:sameAs  georec:30393 .
+
+
+
+<http://www.wikidata.org/entity/Q2000956>
+        owl:sameAs  georec:36860 .
+
+
+<http://www.wikidata.org/entity/Q1647017>
+        owl:sameAs  georec:20303 .
+
+
+<http://www.wikidata.org/entity/Q1650619>
+        owl:sameAs  georec:13550 .
+
+<http://www.wikidata.org/entity/Q26447>
+        owl:sameAs  georec:5190 .
+
+<http://www.wikidata.org/entity/Q1447333>
+        owl:sameAs  georec:30610 .
+
+
+<http://www.wikidata.org/entity/Q1632392>
+        owl:sameAs  georec:3893 .
+
+<http://www.wikidata.org/entity/Q54874499>
+        owl:sameAs  georec:14099 .
+
+<http://www.wikidata.org/entity/Q5742353>
+        owl:sameAs  georec:3133 .
+
+<http://www.wikidata.org/entity/Q1447729>
+        owl:sameAs  georec:24414 .
+
+
+
+<http://www.wikidata.org/entity/Q1650854>
+        owl:sameAs  georec:13681 .
+
+
+<http://www.wikidata.org/entity/Q773901>
+        owl:sameAs  georec:3252 .
+
+<http://www.wikidata.org/entity/Q662789>
+        owl:sameAs  georec:11942 .
+
+<http://www.wikidata.org/entity/Q1626819>
+        owl:sameAs  georec:14209 .
+
+
+<http://www.wikidata.org/entity/Q946068>
+        owl:sameAs  georec:4853 .
+
+<http://www.wikidata.org/entity/Q983635>
+        owl:sameAs  georec:26749 .
+
+<http://www.wikidata.org/entity/Q5548342>
+        owl:sameAs  georec:21138 .
+
+<http://www.wikidata.org/entity/Q1650591>
+        owl:sameAs  georec:13635 .
+
+<http://www.wikidata.org/entity/Q15494>
+        owl:sameAs  georec:11616 .
+
+<http://www.wikidata.org/entity/Q1648037>
+        owl:sameAs  georec:7954 .
+
+<http://www.wikidata.org/entity/Q108064630>
+        owl:sameAs  georec:9121 .
+
+<http://www.wikidata.org/entity/Q1639140>
+        owl:sameAs  georec:13581 .
+
+<http://www.wikidata.org/entity/Q1650702>
+        owl:sameAs  georec:13658 .
+
+<http://www.wikidata.org/entity/Q244747>
+        owl:sameAs  georec:11109 .
+
+<http://www.wikidata.org/entity/Q1750943>
+        owl:sameAs  georec:37307 .
+
+
+<http://www.wikidata.org/entity/Q108064353>
+        owl:sameAs  georec:34701 .
+
+<http://www.wikidata.org/entity/Q9034148>
+        owl:sameAs  georec:19106 .
+
+<http://www.wikidata.org/entity/Q1611807>
+        owl:sameAs  georec:24129 .
+
+<http://www.wikidata.org/entity/Q13448>
+        owl:sameAs  georec:13848 .
+
+<http://www.wikidata.org/entity/Q599787>
+        owl:sameAs  georec:13604 .
+
+<http://www.wikidata.org/entity/Q613784>
+        owl:sameAs  georec:20142 .
+
+<http://www.wikidata.org/entity/Q957767>
+        owl:sameAs  georec:24172 .
+
+
+
+<http://www.wikidata.org/entity/Q1639259>
+        owl:sameAs  georec:13850 .
+
+
+<http://www.wikidata.org/entity/Q977966>
+        owl:sameAs  georec:37633 .
+
+<http://www.wikidata.org/entity/Q1916987>
+        owl:sameAs  georec:4359 .
+
+<http://www.wikidata.org/entity/Q1643616>
+        owl:sameAs  georec:36573 .
+
+<http://www.wikidata.org/entity/Q549319>
+        owl:sameAs  georec:42017 .
+
+<http://www.wikidata.org/entity/Q688611>
+        owl:sameAs  georec:35890 .
+
+<http://www.wikidata.org/entity/Q768518>
+        owl:sameAs  georec:17613 .
+
+<http://www.wikidata.org/entity/Q1448408>
+        owl:sameAs  georec:39960 .
+
+<http://www.wikidata.org/entity/Q1628569>
+        owl:sameAs  georec:17633 .
+
+
+
+<http://www.wikidata.org/entity/Q1905602>
+        owl:sameAs  georec:17788 .
+
+<http://www.wikidata.org/entity/Q1632783>
+        owl:sameAs  georec:16087 .
+
+
+<http://www.wikidata.org/entity/Q668324>
+        owl:sameAs  georec:22825 .
+
+<http://www.wikidata.org/entity/Q530547>
+        owl:sameAs  georec:38235 .
+
+
+<http://www.wikidata.org/entity/Q1642171>
+        owl:sameAs  georec:13496 .
+
+<http://www.wikidata.org/entity/Q675298>
+        owl:sameAs  georec:26219 .
+
+<http://www.wikidata.org/entity/Q15941>
+        owl:sameAs  georec:11342 .
+
+<http://www.wikidata.org/entity/Q1634820>
+        owl:sameAs  georec:33922 .
+
+<http://www.wikidata.org/entity/Q1445226>
+        owl:sameAs  georec:24227 .
+
+
+
+<http://www.wikidata.org/entity/Q1628417>
+        owl:sameAs  georec:26927 .
+
+<http://www.wikidata.org/entity/Q647762>
+        owl:sameAs  georec:39569 .
+
+<http://www.wikidata.org/entity/Q5682216>
+        owl:sameAs  georec:24386 .
+
+<http://www.wikidata.org/entity/Q15411>
+        owl:sameAs  georec:11855 .
+
+<http://www.wikidata.org/entity/Q120555394>
+        owl:sameAs  georec:13949 .
+
+<http://www.wikidata.org/entity/Q1999732>
+        owl:sameAs  georec:30360 .
+
+<http://www.wikidata.org/entity/Q1644415>
+        owl:sameAs  georec:13207 .
+
+<http://www.wikidata.org/entity/Q1635946>
+        owl:sameAs  georec:20938 .
+
+<http://www.wikidata.org/entity/Q108064380>
+        owl:sameAs  georec:34567 .
+
+
+
+<http://www.wikidata.org/entity/Q1752306>
+        owl:sameAs  georec:17409 .
+
+
+<http://www.wikidata.org/entity/Q1611880>
+        owl:sameAs  georec:24664 .
+
+
+
+<http://www.wikidata.org/entity/Q322064>
+        owl:sameAs  georec:24079 .
+
+<http://www.wikidata.org/entity/Q890585>
+        owl:sameAs  georec:7810 .
+
+
+<http://www.wikidata.org/entity/Q16646514>
+        owl:sameAs  georec:23251 .
+
+<http://www.wikidata.org/entity/Q6044626>
+        owl:sameAs  georec:21142 .
+
+<http://www.wikidata.org/entity/Q5803012>
+        owl:sameAs  georec:30595 .
+
+<http://www.wikidata.org/entity/Q743326>
+        owl:sameAs  georec:26339 .
+
+<http://www.wikidata.org/entity/Q1650641>
+        owl:sameAs  georec:13544 .
+
+<http://www.wikidata.org/entity/Q548441>
+        owl:sameAs  georec:35595 .
+
+<http://www.wikidata.org/entity/Q1640944>
+        owl:sameAs  georec:13671 .
+
+<http://www.wikidata.org/entity/Q1640990>
+        owl:sameAs  georec:13684 .
+
+<http://www.wikidata.org/entity/Q1611746>
+        owl:sameAs  georec:24374 .
+
+<http://www.wikidata.org/entity/Q1657043>
+        owl:sameAs  georec:8393 .
+
+<http://www.wikidata.org/entity/Q1641642>
+        owl:sameAs  georec:37534 .
+
+<http://www.wikidata.org/entity/Q611267>
+        owl:sameAs  georec:20238 .
+
+
+<http://www.wikidata.org/entity/Q1651016>
+        owl:sameAs  georec:36399 .
+
+
+<http://www.wikidata.org/entity/Q1653149>
+        owl:sameAs  georec:38973 .
+
+<http://www.wikidata.org/entity/Q1653693>
+        owl:sameAs  georec:2396 .
+
+<http://www.wikidata.org/entity/Q1646197>
+        owl:sameAs  georec:13536 .
+
+<http://www.wikidata.org/entity/Q5682727>
+        owl:sameAs  georec:39363 .
+
+<http://www.wikidata.org/entity/Q929174>
+        owl:sameAs  georec:13812 .
+
+
+<http://www.wikidata.org/entity/Q1638846>
+        owl:sameAs  georec:13841 .
+
+<http://www.wikidata.org/entity/Q1605856>
+        owl:sameAs  georec:24556 .
+
+<http://www.wikidata.org/entity/Q794238>
+        owl:sameAs  georec:13815 .
+
+<http://www.wikidata.org/entity/Q2046740>
+        owl:sameAs  georec:18142 .
+
+<http://www.wikidata.org/entity/Q12039>
+        owl:sameAs  georec:12112 .
+
+<http://www.wikidata.org/entity/Q8255152>
+        owl:sameAs  georec:24678 .
+
+
+<http://www.wikidata.org/entity/Q1635927>
+        owl:sameAs  georec:13701 .
+
+<http://www.wikidata.org/entity/Q1233494>
+        owl:sameAs  georec:10679 .
+
+<http://www.wikidata.org/entity/Q1768232>
+        owl:sameAs  georec:13432 .
+
+<http://www.wikidata.org/entity/Q1641070>
+        owl:sameAs  georec:13490 .
+
+<http://www.wikidata.org/entity/Q1766748>
+        owl:sameAs  georec:17272 .
+
+<http://www.wikidata.org/entity/Q987450>
+        owl:sameAs  georec:30195 .
+
+<http://www.wikidata.org/entity/Q427505>
+        owl:sameAs  georec:31035 .
+
+
+<http://www.wikidata.org/entity/Q692805>
+        owl:sameAs  georec:24786 .
+
+<http://www.wikidata.org/entity/Q1989785>
+        owl:sameAs  georec:26199 .
+
+<http://www.wikidata.org/entity/Q1993921>
+        owl:sameAs  georec:37769 .
+
+
+<http://www.wikidata.org/entity/Q8745>
+        owl:sameAs  georec:35359 .
+
+<http://www.wikidata.org/entity/Q984617>
+        owl:sameAs  georec:13333 .
+
+<http://www.wikidata.org/entity/Q1637299>
+        owl:sameAs  georec:13666 .
+
+<http://www.wikidata.org/entity/Q935266>
+        owl:sameAs  georec:26647 .
+
+<http://www.wikidata.org/entity/Q1650345>
+        owl:sameAs  georec:13591 .
+
+<http://www.wikidata.org/entity/Q1948946>
+        owl:sameAs  georec:8005 .
+
+<http://www.wikidata.org/entity/Q385872>
+        owl:sameAs  georec:6153 .
+
+<http://www.wikidata.org/entity/Q621839>
+        owl:sameAs  georec:3604 .
+
+<http://www.wikidata.org/entity/Q108066121>
+        owl:sameAs  georec:19051 .
+
+
+<http://www.wikidata.org/entity/Q532965>
+        owl:sameAs  georec:12643 .
+
+<http://www.wikidata.org/entity/Q947285>
+        owl:sameAs  georec:24121 .
+
+<http://www.wikidata.org/entity/Q108064683>
+        owl:sameAs  georec:35020 .
+
+<http://www.wikidata.org/entity/Q984529>
+        owl:sameAs  georec:13608 .
+
+<http://www.wikidata.org/entity/Q1639161>
+        owl:sameAs  georec:13617 .
+
+<http://www.wikidata.org/entity/Q6121378>
+        owl:sameAs  georec:21184 .
+
+<http://www.wikidata.org/entity/Q928368>
+        owl:sameAs  georec:21968 .
+
+<http://www.wikidata.org/entity/Q944113>
+        owl:sameAs  georec:27953 .
+
+<http://www.wikidata.org/entity/Q12596>
+        owl:sameAs  georec:8849 .
+
+<http://www.wikidata.org/entity/Q28662722>
+        owl:sameAs  georec:20834 .
+
+
+<http://www.wikidata.org/entity/Q987417>
+        owl:sameAs  georec:36078 .
+
+<http://www.wikidata.org/entity/Q1914401>
+        owl:sameAs  georec:3823 .
+
+<http://www.wikidata.org/entity/Q1110337>
+        owl:sameAs  georec:18928 .
+
+<http://www.wikidata.org/entity/Q1986483>
+        owl:sameAs  georec:15849 .
+
+
+<http://www.wikidata.org/entity/Q1650635>
+        owl:sameAs  georec:13485 .
+
+<http://www.wikidata.org/entity/Q1650681>
+        owl:sameAs  georec:13509 .
+
+<http://www.wikidata.org/entity/Q16089852>
+        owl:sameAs  georec:1278 .
+
+<http://www.wikidata.org/entity/Q956485>
+        owl:sameAs  georec:13827 .
+
+<http://www.wikidata.org/entity/Q1650358>
+        owl:sameAs  georec:13518 .
+
+<http://www.wikidata.org/entity/Q6018078>
+        owl:sameAs  georec:34564 .
+
+<http://www.wikidata.org/entity/Q5768582>
+        owl:sameAs  georec:20200 .
+
+
+<http://www.wikidata.org/entity/Q1650579>
+        owl:sameAs  georec:13531 .
+
+<http://www.wikidata.org/entity/Q1639451>
+        owl:sameAs  georec:13806 .
+
+<http://www.wikidata.org/entity/Q1447468>
+        owl:sameAs  georec:36139 .
+
+<http://www.wikidata.org/entity/Q984865>
+        owl:sameAs  georec:12554 .
+
+<http://www.wikidata.org/entity/Q509056>
+        owl:sameAs  georec:12461 .
+
+<http://www.wikidata.org/entity/Q1641825>
+        owl:sameAs  georec:7655 .
+
+<http://www.wikidata.org/entity/Q1623054>
+        owl:sameAs  georec:24132 .
+
+
+<http://www.wikidata.org/entity/Q1639349>
+        owl:sameAs  georec:13670 .
+
+<http://www.wikidata.org/entity/Q1798827>
+        owl:sameAs  georec:3798 .
+
+<http://www.wikidata.org/entity/Q1632606>
+        owl:sameAs  georec:32788 .
+
+<http://www.wikidata.org/entity/Q1638854>
+        owl:sameAs  georec:13602 .
+
+<http://www.wikidata.org/entity/Q768433>
+        owl:sameAs  georec:21883 .
+
+<http://www.wikidata.org/entity/Q1358253>
+        owl:sameAs  georec:24128 .
+
+<http://www.wikidata.org/entity/Q1768945>
+        owl:sameAs  georec:13702 .
+
+<http://www.wikidata.org/entity/Q1438879>
+        owl:sameAs  georec:34907 .
+
+<http://www.wikidata.org/entity/Q1646860>
+        owl:sameAs  georec:21353 .
+
+<http://www.wikidata.org/entity/Q931524>
+        owl:sameAs  georec:4072 .
+
+<http://www.wikidata.org/entity/Q649386>
+        owl:sameAs  georec:13705 .
+
+<http://www.wikidata.org/entity/Q303257>
+        owl:sameAs  georec:13836 .
+
+<http://www.wikidata.org/entity/Q820469>
+        owl:sameAs  georec:37399 .
+
+<http://www.wikidata.org/entity/Q1769818>
+        owl:sameAs  georec:27294 .
+
+
+<http://www.wikidata.org/entity/Q49562>
+        owl:sameAs  georec:24031 .
+
+<http://www.wikidata.org/entity/Q1640997>
+        owl:sameAs  georec:13640 .
+
+<http://www.wikidata.org/entity/Q108064765>
+        owl:sameAs  georec:10536 .
+
+
+<http://www.wikidata.org/entity/Q5401946>
+        owl:sameAs  georec:21078 .
+
+<http://www.wikidata.org/entity/Q695202>
+        owl:sameAs  georec:35916 .
+
+<http://www.wikidata.org/entity/Q633953>
+        owl:sameAs  georec:13708 .
+
+<http://www.wikidata.org/entity/Q1766770>
+        owl:sameAs  georec:8301 .
+
+<http://www.wikidata.org/entity/Q1650339>
+        owl:sameAs  georec:13530 .
+
+<http://www.wikidata.org/entity/Q1911011>
+        owl:sameAs  georec:30621 .
+
+<http://www.wikidata.org/entity/Q1657562>
+        owl:sameAs  georec:13561 .
+
+<http://www.wikidata.org/entity/Q1650630>
+        owl:sameAs  georec:13567 .
+
+<http://www.wikidata.org/entity/Q1157972>
+        owl:sameAs  georec:24165 .
+
+<http://www.wikidata.org/entity/Q1645512>
+        owl:sameAs  georec:17346 .
+
+<http://www.wikidata.org/entity/Q2045828>
+        owl:sameAs  georec:28758 .
+
+<http://www.wikidata.org/entity/Q6117110>
+        owl:sameAs  georec:24339 .
+
+<http://www.wikidata.org/entity/Q1639432>
+        owl:sameAs  georec:13719 .
+
+<http://www.wikidata.org/entity/Q950951>
+        owl:sameAs  georec:28794 .
+
+<http://www.wikidata.org/entity/Q644246>
+        owl:sameAs  georec:13807 .
+
+<http://www.wikidata.org/entity/Q1639187>
+        owl:sameAs  georec:13840 .
+
+<http://www.wikidata.org/entity/Q1650749>
+        owl:sameAs  georec:13526 .
+
+<http://www.wikidata.org/entity/Q1651226>
+        owl:sameAs  georec:13515 .
+
+<http://www.wikidata.org/entity/Q1657221>
+        owl:sameAs  georec:12791 .
+
+<http://www.wikidata.org/entity/Q1641529>
+        owl:sameAs  georec:30352 .
+
+<http://www.wikidata.org/entity/Q1639376>
+        owl:sameAs  georec:13641 .
+
+<http://www.wikidata.org/entity/Q829175>
+        owl:sameAs  georec:16624 .
+
+
+<http://www.wikidata.org/entity/Q986552>
+        owl:sameAs  georec:30535 .
+
+
+<http://www.wikidata.org/entity/Q1654302>
+        owl:sameAs  georec:23107 .
+
+<http://www.wikidata.org/entity/Q636002>
+        owl:sameAs  georec:14362 .
+
+<http://www.wikidata.org/entity/Q1624129>
+        owl:sameAs  georec:26453 .
+
+<http://www.wikidata.org/entity/Q1632633>
+        owl:sameAs  georec:23519 .
+
+<http://www.wikidata.org/entity/Q12540>
+        owl:sameAs  georec:38991 .
+
+<http://www.wikidata.org/entity/Q511881>
+        owl:sameAs  georec:13774 .
+
+<http://www.wikidata.org/entity/Q1447785>
+        owl:sameAs  georec:24064 .
+
+<http://www.wikidata.org/entity/Q1157985>
+        owl:sameAs  georec:24639 .
+
+<http://www.wikidata.org/entity/Q1617334>
+        owl:sameAs  georec:35921 .
+
+<http://www.wikidata.org/entity/Q55863562>
+        owl:sameAs  georec:3849 .
+
+<http://www.wikidata.org/entity/Q1639270>
+        owl:sameAs  georec:13892 .
+
+<http://www.wikidata.org/entity/Q728804>
+        owl:sameAs  georec:18936 .
+
+
+<http://www.wikidata.org/entity/Q854373>
+        owl:sameAs  georec:30202 .
+
+<http://www.wikidata.org/entity/Q18168807>
+        owl:sameAs  georec:20107 .
+
+<http://www.wikidata.org/entity/Q1358058>
+        owl:sameAs  georec:24127 .
+
+<http://www.wikidata.org/entity/Q1639389>
+        owl:sameAs  georec:13610 .
+
+<http://www.wikidata.org/entity/Q644914>
+        owl:sameAs  georec:22026 .
+
+<http://www.wikidata.org/entity/Q829608>
+        owl:sameAs  georec:30884 .
+
+
+<http://www.wikidata.org/entity/Q1648798>
+        owl:sameAs  georec:27392 .
+
+<http://www.wikidata.org/entity/Q1646886>
+        owl:sameAs  georec:13590 .
+
+
+<http://www.wikidata.org/entity/Q1650744>
+        owl:sameAs  georec:13498 .
+
+<http://www.wikidata.org/entity/Q476793>
+        owl:sameAs  georec:22808 .
+
+<http://www.wikidata.org/entity/Q5727>
+        owl:sameAs  georec:24546 .
+
+<http://www.wikidata.org/entity/Q742713>
+        owl:sameAs  georec:21101 .
+
+<http://www.wikidata.org/entity/Q1444073>
+        owl:sameAs  georec:24162 .
+
+<http://www.wikidata.org/entity/Q1628271>
+        owl:sameAs  georec:3967 .
+
+<http://www.wikidata.org/entity/Q1645672>
+        owl:sameAs  georec:13821 .
+
+<http://www.wikidata.org/entity/Q108064363>
+        owl:sameAs  georec:24054 .
+
+<http://www.wikidata.org/entity/Q1639514>
+        owl:sameAs  georec:13814 .
+
+<http://www.wikidata.org/entity/Q1638830>
+        owl:sameAs  georec:13799 .
+
+<http://www.wikidata.org/entity/Q1640738>
+        owl:sameAs  georec:38990 .
+
+<http://www.wikidata.org/entity/Q695449>
+        owl:sameAs  georec:37704 .
+
+<http://www.wikidata.org/entity/Q1993424>
+        owl:sameAs  georec:39438 .
+
+<http://www.wikidata.org/entity/Q1646370>
+        owl:sameAs  georec:32506 .
+
+<http://www.wikidata.org/entity/Q1628460>
+        owl:sameAs  georec:13694 .
+
+<http://www.wikidata.org/entity/Q5822749>
+        owl:sameAs  georec:21431 .
+
+<http://www.wikidata.org/entity/Q1643658>
+        owl:sameAs  georec:35380 .
+
+<http://www.wikidata.org/entity/Q377426>
+        owl:sameAs  georec:35764 .
+
+<http://www.wikidata.org/entity/Q1766511>
+        owl:sameAs  georec:35312 .
+
+<http://www.wikidata.org/entity/Q64352830>
+        owl:sameAs  georec:24041 .
+
+<http://www.wikidata.org/entity/Q2264671>
+        owl:sameAs  georec:30583 .
+
+<http://www.wikidata.org/entity/Q769756>
+        owl:sameAs  georec:13537 .
+
+<http://www.wikidata.org/entity/Q876742>
+        owl:sameAs  georec:13337 .
+
+<http://www.wikidata.org/entity/Q43670815>
+        owl:sameAs  georec:30377 .
+
+<http://www.wikidata.org/entity/Q22240993>
+        owl:sameAs  georec:23107 .
+
+<http://www.wikidata.org/entity/Q5123>
+        owl:sameAs  georec:8103 .
+
+<http://www.wikidata.org/entity/Q1639615>
+        owl:sameAs  georec:13619 .
+
+<http://www.wikidata.org/entity/Q9020563>
+        owl:sameAs  georec:36458 .
+
+<http://www.wikidata.org/entity/Q842247>
+        owl:sameAs  georec:26311 .
+
+<http://www.wikidata.org/entity/Q541657>
+        owl:sameAs  georec:13522 .
+
+<http://www.wikidata.org/entity/Q2472448>
+        owl:sameAs  georec:24492 .
+
+<http://www.wikidata.org/entity/Q508038>
+        owl:sameAs  georec:27348 .
+
+<http://www.wikidata.org/entity/Q594892>
+        owl:sameAs  georec:7646 .
+
+<http://www.wikidata.org/entity/Q2842492>
+        owl:sameAs  georec:21134 .
+
+<http://www.wikidata.org/entity/Q1627554>
+        owl:sameAs  georec:35212 .
+
+
+<http://www.wikidata.org/entity/Q9020429>
+        owl:sameAs  georec:30306 .
+
+<http://www.wikidata.org/entity/Q6005686>
+        owl:sameAs  georec:24047 .
+
+<http://www.wikidata.org/entity/Q1753102>
+        owl:sameAs  georec:38445 .
+
+<http://www.wikidata.org/entity/Q742947>
+        owl:sameAs  georec:25765 .
+
+<http://www.wikidata.org/entity/Q524413>
+        owl:sameAs  georec:13492 .
+
+
+<http://www.wikidata.org/entity/Q1648715>
+        owl:sameAs  georec:24099 .
+
+<http://www.wikidata.org/entity/Q1901423>
+        owl:sameAs  georec:9126 .
+
+
+<http://www.wikidata.org/entity/Q1993437>
+        owl:sameAs  georec:13133 .
+
+<http://www.wikidata.org/entity/Q1650416>
+        owl:sameAs  georec:13538 .
+
+<http://www.wikidata.org/entity/Q815339>
+        owl:sameAs  georec:13823 .
+
+
+<http://www.wikidata.org/entity/Q1853429>
+        owl:sameAs  georec:33997 .
+
+<http://www.wikidata.org/entity/Q1766745>
+        owl:sameAs  georec:20727 .
+
+<http://www.wikidata.org/entity/Q581216>
+        owl:sameAs  georec:24615 .
+
+<http://www.wikidata.org/entity/Q10313>
+        owl:sameAs  georec:37611 .
+
+<http://www.wikidata.org/entity/Q108064501>
+        owl:sameAs  georec:34523 .
+
+<http://www.wikidata.org/entity/Q1630420>
+        owl:sameAs  georec:30410 .
+
+<http://www.wikidata.org/entity/Q1628164>
+        owl:sameAs  georec:13598 .
+
+<http://www.wikidata.org/entity/Q595424>
+        owl:sameAs  georec:12980 .
+
+
+<http://www.wikidata.org/entity/Q1650651>
+        owl:sameAs  georec:13597 .
+
+<http://www.wikidata.org/entity/Q108063572>
+        owl:sameAs  georec:11264 .
+
+<http://www.wikidata.org/entity/Q1613493>
+        owl:sameAs  georec:18148 .
+
+<http://www.wikidata.org/entity/Q940588>
+        owl:sameAs  georec:38073 .
+
+<http://www.wikidata.org/entity/Q1606495>
+        owl:sameAs  georec:18934 .
+
+<http://www.wikidata.org/entity/Q1650872>
+        owl:sameAs  georec:13724 .
+
+<http://www.wikidata.org/entity/Q108066104>
+        owl:sameAs  georec:29063 .
+
+<http://www.wikidata.org/entity/Q1650549>
+        owl:sameAs  georec:13549 .
+
+<http://www.wikidata.org/entity/Q43713>
+        owl:sameAs  georec:15455 .
+
+<http://www.wikidata.org/entity/Q749022>
+        owl:sameAs  georec:30253 .
+
+<http://www.wikidata.org/entity/Q5823>
+        owl:sameAs  georec:30561 .
+
+<http://www.wikidata.org/entity/Q107711267>
+        owl:sameAs  georec:24307 .
+
+<http://www.wikidata.org/entity/Q1657961>
+        owl:sameAs  georec:21930 .
+
+<http://www.wikidata.org/entity/Q1640147>
+        owl:sameAs  georec:13816 .
+
+<http://www.wikidata.org/entity/Q1650310>
+        owl:sameAs  georec:13548 .
+
+
+
+<http://www.wikidata.org/entity/Q931369>
+        owl:sameAs  georec:13714 .
+
+
+<http://www.wikidata.org/entity/Q2047711>
+        owl:sameAs  georec:36790 .
+
+<http://www.wikidata.org/entity/Q1020559>
+        owl:sameAs  georec:21415 .
+
+<http://www.wikidata.org/entity/Q1623964>
+        owl:sameAs  georec:27279 .
+
+<http://www.wikidata.org/entity/Q1607778>
+        owl:sameAs  georec:33871 .
+
+<http://www.wikidata.org/entity/Q108064357>
+        owl:sameAs  georec:34377 .
+
+<http://www.wikidata.org/entity/Q1641739>
+        owl:sameAs  georec:13497 .
+
+<http://www.wikidata.org/entity/Q1648774>
+        owl:sameAs  georec:22968 .
+
+<http://www.wikidata.org/entity/Q1923857>
+        owl:sameAs  georec:38973 .
+
+<http://www.wikidata.org/entity/Q108066237>
+        owl:sameAs  georec:12526 .
+
+
+<http://www.wikidata.org/entity/Q1639301>
+        owl:sameAs  georec:13580 .
+
+<http://www.wikidata.org/entity/Q956524>
+        owl:sameAs  georec:13886 .
+
+<http://www.wikidata.org/entity/Q1640778>
+        owl:sameAs  georec:26420 .
+
+<http://www.wikidata.org/entity/Q941134>
+        owl:sameAs  georec:13801 .
+
+<http://www.wikidata.org/entity/Q18171877>
+        owl:sameAs  georec:20138 .
+
+<http://www.wikidata.org/entity/Q1656613>
+        owl:sameAs  georec:24319 .
+
+<http://www.wikidata.org/entity/Q1635407>
+        owl:sameAs  georec:12809 .
+
+<http://www.wikidata.org/entity/Q1449963>
+        owl:sameAs  georec:17442 .
+
+<http://www.wikidata.org/entity/Q1641476>
+        owl:sameAs  georec:13703 .
+
+<http://www.wikidata.org/entity/Q1650664>
+        owl:sameAs  georec:13601 .
+
+<http://www.wikidata.org/entity/Q682445>
+        owl:sameAs  georec:13863 .
+
+<http://www.wikidata.org/entity/Q1630188>
+        owl:sameAs  georec:26328 .
+
+<http://www.wikidata.org/entity/Q5979815>
+        owl:sameAs  georec:26336 .
+
+<http://www.wikidata.org/entity/Q23042>
+        owl:sameAs  georec:30233 .
+
+<http://www.wikidata.org/entity/Q1640935>
+        owl:sameAs  georec:13655 .
+
+
+<http://www.wikidata.org/entity/Q985602>
+        owl:sameAs  georec:8650 .
+
+<http://www.wikidata.org/entity/Q654198>
+        owl:sameAs  georec:9320 .
+
+<http://www.wikidata.org/entity/Q1645016>
+        owl:sameAs  georec:35057 .
+
+<http://www.wikidata.org/entity/Q11291>
+        owl:sameAs  georec:10784 .
+
+<http://www.wikidata.org/entity/Q509039>
+        owl:sameAs  georec:13882 .
+
+<http://www.wikidata.org/entity/Q956450>
+        owl:sameAs  georec:13890 .
+
+<http://www.wikidata.org/entity/Q1605437>
+        owl:sameAs  georec:15459 .
+
+<http://www.wikidata.org/entity/Q1444150>
+        owl:sameAs  georec:24175 .
+
+<http://www.wikidata.org/entity/Q825883>
+        owl:sameAs  georec:11841 .
+
+
+<http://www.wikidata.org/entity/Q1771913>
+        owl:sameAs  georec:23338 .
+
+<http://www.wikidata.org/entity/Q1778172>
+        owl:sameAs  georec:27465 .
+
+<http://www.wikidata.org/entity/Q632621>
+        owl:sameAs  georec:21248 .
+
+<http://www.wikidata.org/entity/Q15415>
+        owl:sameAs  georec:9009 .
+
+
+<http://www.wikidata.org/entity/Q108066762>
+        owl:sameAs  georec:27199 .
+
+
+<http://www.wikidata.org/entity/Q1642553>
+        owl:sameAs  georec:22980 .
+
+<http://www.wikidata.org/entity/Q3703226>
+        owl:sameAs  georec:11982 .
+
+<http://www.wikidata.org/entity/Q983546>
+        owl:sameAs  georec:13793 .
+
+<http://www.wikidata.org/entity/Q1635711>
+        owl:sameAs  georec:21423 .
+
+
+<http://www.wikidata.org/entity/Q1641236>
+        owl:sameAs  georec:14860 .
+
+<http://www.wikidata.org/entity/Q643808>
+        owl:sameAs  georec:16224 .
+
+<http://www.wikidata.org/entity/Q1938467>
+        owl:sameAs  georec:26765 .
+
+<http://www.wikidata.org/entity/Q611120>
+        owl:sameAs  georec:26256 .
+
+<http://www.wikidata.org/entity/Q712486>
+        owl:sameAs  georec:13810 .
+
+<http://www.wikidata.org/entity/Q537345>
+        owl:sameAs  georec:13699 .
+
+<http://www.wikidata.org/entity/Q1902350>
+        owl:sameAs  georec:38955 .
+
+<http://www.wikidata.org/entity/Q1358116>
+        owl:sameAs  georec:24063 .
+
+<http://www.wikidata.org/entity/Q1447755>
+        owl:sameAs  georec:24062 .
+
+<http://www.wikidata.org/entity/Q28664072>
+        owl:sameAs  georec:21003 .

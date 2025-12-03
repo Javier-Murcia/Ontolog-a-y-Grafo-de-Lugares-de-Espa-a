@@ -1,0 +1,196 @@
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georec: <https://datos.ign.es/recurso/btn100/rio-superficial/> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q23979429>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/1528> , <https://datos.ign.es/recurso/btn100/canal-trasvase/907> , <https://datos.ign.es/recurso/btn100/canal-trasvase/1529> , <https://datos.ign.es/recurso/btn100/canal-trasvase/908> , <https://datos.ign.es/recurso/btn100/canal-trasvase/1271> , <https://datos.ign.es/recurso/btn100/canal-trasvase/418> , <https://datos.ign.es/recurso/btn100/canal-trasvase/1526> , <https://datos.ign.es/recurso/btn100/canal-trasvase/248> , <https://datos.ign.es/recurso/btn100/canal-trasvase/1527> , <https://datos.ign.es/recurso/btn100/canal-trasvase/906> , <https://datos.ign.es/recurso/btn100/canal-trasvase/909> .
+
+<http://www.wikidata.org/entity/Q23990845>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/603> .
+
+<http://www.wikidata.org/entity/Q23994734>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/620> .
+
+<http://www.wikidata.org/entity/Q23986368>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/604> .
+
+<http://www.wikidata.org/entity/Q23984672>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/1014> .
+
+<http://www.wikidata.org/entity/Q1113707>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/722> , <https://datos.ign.es/recurso/btn100/canal-trasvase/917> , <https://datos.ign.es/recurso/btn100/canal-trasvase/91> , <https://datos.ign.es/recurso/btn100/canal-trasvase/723> .
+
+<http://www.wikidata.org/entity/Q23980171>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/892> .
+
+<http://www.wikidata.org/entity/Q23982966>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-trasvase/603> .
+
+        <http://www.wikidata.org/entity/Q5746528>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1616> , <https://datos.ign.es/recurso/btn100/canal-menor/1189> , <https://datos.ign.es/recurso/btn100/canal-menor/979> , <https://datos.ign.es/recurso/btn100/canal-menor/980> , <https://datos.ign.es/recurso/btn100/canal-menor/1059> , <https://datos.ign.es/recurso/btn100/canal-menor/803> , <https://datos.ign.es/recurso/btn100/canal-menor/793> , <https://datos.ign.es/recurso/btn100/canal-menor/1351> , <https://datos.ign.es/recurso/btn100/canal-menor/1131> , <https://datos.ign.es/recurso/btn100/canal-menor/127> , <https://datos.ign.es/recurso/btn100/canal-menor/819> , <https://datos.ign.es/recurso/btn100/canal-menor/1350> , <https://datos.ign.es/recurso/btn100/canal-menor/1892> , <https://datos.ign.es/recurso/btn100/canal-menor/794> , <https://datos.ign.es/recurso/btn100/canal-menor/655> .
+
+<http://www.wikidata.org/entity/Q23983189>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1168> .
+
+<http://www.wikidata.org/entity/Q5746922>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/733> .
+
+<http://www.wikidata.org/entity/Q5746903>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1005> , <https://datos.ign.es/recurso/btn100/canal-menor/1136> , <https://datos.ign.es/recurso/btn100/canal-menor/1004> .
+
+<http://www.wikidata.org/entity/Q1032560>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1181> , <https://datos.ign.es/recurso/btn100/canal-menor/1908> , <https://datos.ign.es/recurso/btn100/canal-menor/115> , <https://datos.ign.es/recurso/btn100/canal-menor/1909> , <https://datos.ign.es/recurso/btn100/canal-menor/116> , <https://datos.ign.es/recurso/btn100/canal-menor/1180> , <https://datos.ign.es/recurso/btn100/canal-menor/1055> .
+
+<http://www.wikidata.org/entity/Q8261627>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/772> , <https://datos.ign.es/recurso/btn100/canal-menor/191> .
+
+<http://www.wikidata.org/entity/Q23991173>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1120> .
+
+<http://www.wikidata.org/entity/Q5746837>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1580> .
+
+<http://www.wikidata.org/entity/Q5746796>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1161> .
+
+<http://www.wikidata.org/entity/Q24002942>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1700> .
+
+<http://www.wikidata.org/entity/Q5558494>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1852> , <https://datos.ign.es/recurso/btn100/canal-menor/1617> .
+
+<http://www.wikidata.org/entity/Q5746855>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/478> , <https://datos.ign.es/recurso/btn100/canal-menor/218> , <https://datos.ign.es/recurso/btn100/canal-menor/477> .
+
+<http://www.wikidata.org/entity/Q8261626>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/695> , <https://datos.ign.es/recurso/btn100/canal-menor/1310> , <https://datos.ign.es/recurso/btn100/canal-menor/133> , <https://datos.ign.es/recurso/btn100/canal-menor/1311> .
+
+<http://www.wikidata.org/entity/Q111038500>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/193> , <https://datos.ign.es/recurso/btn100/canal-menor/1061> .
+
+<http://www.wikidata.org/entity/Q5746889>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/838> , <https://datos.ign.es/recurso/btn100/canal-menor/476> .
+
+<http://www.wikidata.org/entity/Q23990845>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/692> .
+
+<http://www.wikidata.org/entity/Q2885599>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1604> .
+
+<http://www.wikidata.org/entity/Q5746906>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/833> .
+
+<http://www.wikidata.org/entity/Q5746816>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/716> .
+
+<http://www.wikidata.org/entity/Q95614486>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1035> , <https://datos.ign.es/recurso/btn100/canal-menor/1364> , <https://datos.ign.es/recurso/btn100/canal-menor/1036> , <https://datos.ign.es/recurso/btn100/canal-menor/196> , <https://datos.ign.es/recurso/btn100/canal-menor/224> , <https://datos.ign.es/recurso/btn100/canal-menor/176> .
+
+<http://www.wikidata.org/entity/Q23986368>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/134> .
+
+<http://www.wikidata.org/entity/Q23982966>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/692> .
+
+<http://www.wikidata.org/entity/Q5746852>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-menor/1438> .
+
+        <http://www.wikidata.org/entity/Q23992513>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1049> , <https://datos.ign.es/recurso/btn100/canal-mayor/152> .
+
+        <http://www.wikidata.org/entity/Q5746842>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1049> , <https://datos.ign.es/recurso/btn100/canal-mayor/152> .
+
+        <http://www.wikidata.org/entity/Q23986825>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1429> .
+
+        <http://www.wikidata.org/entity/Q23979917>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/706> .
+
+        <http://www.wikidata.org/entity/Q5746903>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/411> .
+
+        <http://www.wikidata.org/entity/Q23991449>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1397> .
+
+        <http://www.wikidata.org/entity/Q1032560>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1914> , <https://datos.ign.es/recurso/btn100/canal-mayor/1916> , <https://datos.ign.es/recurso/btn100/canal-mayor/1919> , <https://datos.ign.es/recurso/btn100/canal-mayor/482> , <https://datos.ign.es/recurso/btn100/canal-mayor/1922> , <https://datos.ign.es/recurso/btn100/canal-mayor/1924> , <https://datos.ign.es/recurso/btn100/canal-mayor/582> , <https://datos.ign.es/recurso/btn100/canal-mayor/1562> , <https://datos.ign.es/recurso/btn100/canal-mayor/1911> , <https://datos.ign.es/recurso/btn100/canal-mayor/1913> , <https://datos.ign.es/recurso/btn100/canal-mayor/1918> , <https://datos.ign.es/recurso/btn100/canal-mayor/1921> , <https://datos.ign.es/recurso/btn100/canal-mayor/1923> , <https://datos.ign.es/recurso/btn100/canal-mayor/527> , <https://datos.ign.es/recurso/btn100/canal-mayor/1926> , <https://datos.ign.es/recurso/btn100/canal-mayor/581> , <https://datos.ign.es/recurso/btn100/canal-mayor/1561> , <https://datos.ign.es/recurso/btn100/canal-mayor/1910> , <https://datos.ign.es/recurso/btn100/canal-mayor/1912> , <https://datos.ign.es/recurso/btn100/canal-mayor/1915> , <https://datos.ign.es/recurso/btn100/canal-mayor/689> , <https://datos.ign.es/recurso/btn100/canal-mayor/1917> , <https://datos.ign.es/recurso/btn100/canal-mayor/1230> , <https://datos.ign.es/recurso/btn100/canal-mayor/1920> , <https://datos.ign.es/recurso/btn100/canal-mayor/1925> , <https://datos.ign.es/recurso/btn100/canal-mayor/583> , <https://datos.ign.es/recurso/btn100/canal-mayor/1927> , <https://datos.ign.es/recurso/btn100/canal-mayor/841> .
+
+        <http://www.wikidata.org/entity/Q23990922>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1483> .
+
+        <http://www.wikidata.org/entity/Q23983064>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/12> .
+
+        <http://www.wikidata.org/entity/Q56423152>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1513> , <https://datos.ign.es/recurso/btn100/canal-mayor/815> .
+
+        <http://www.wikidata.org/entity/Q14764>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1428> , <https://datos.ign.es/recurso/btn100/canal-mayor/1396> .
+
+        <http://www.wikidata.org/entity/Q23990921>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1483> .
+
+        <http://www.wikidata.org/entity/Q23979429>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1559> .
+
+        <http://www.wikidata.org/entity/Q23990846>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/150> , <https://datos.ign.es/recurso/btn100/canal-mayor/1836> , <https://datos.ign.es/recurso/btn100/canal-mayor/1263> , <https://datos.ign.es/recurso/btn100/canal-mayor/1264> .
+
+        <http://www.wikidata.org/entity/Q5746525>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/941> .
+
+        <http://www.wikidata.org/entity/Q111038500>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/665> .
+
+        <http://www.wikidata.org/entity/Q5400267>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1819> , <https://datos.ign.es/recurso/btn100/canal-mayor/1820> , <https://datos.ign.es/recurso/btn100/canal-mayor/1657> , <https://datos.ign.es/recurso/btn100/canal-mayor/561> .
+
+        <http://www.wikidata.org/entity/Q2917933>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/740> , <https://datos.ign.es/recurso/btn100/canal-mayor/118> .
+
+        <http://www.wikidata.org/entity/Q23990845>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/374> .
+
+        <http://www.wikidata.org/entity/Q5746906>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/828> , <https://datos.ign.es/recurso/btn100/canal-mayor/1886> , <https://datos.ign.es/recurso/btn100/canal-mayor/1888> , <https://datos.ign.es/recurso/btn100/canal-mayor/1882> , <https://datos.ign.es/recurso/btn100/canal-mayor/1887> , <https://datos.ign.es/recurso/btn100/canal-mayor/1884> , <https://datos.ign.es/recurso/btn100/canal-mayor/1881> , <https://datos.ign.es/recurso/btn100/canal-mayor/867> , <https://datos.ign.es/recurso/btn100/canal-mayor/869> , <https://datos.ign.es/recurso/btn100/canal-mayor/1883> , <https://datos.ign.es/recurso/btn100/canal-mayor/871> , <https://datos.ign.es/recurso/btn100/canal-mayor/868> , <https://datos.ign.es/recurso/btn100/canal-mayor/827> , <https://datos.ign.es/recurso/btn100/canal-mayor/870> , <https://datos.ign.es/recurso/btn100/canal-mayor/1885> .
+
+        <http://www.wikidata.org/entity/Q115942870>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1236> .
+
+        <http://www.wikidata.org/entity/Q386538>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1790> , <https://datos.ign.es/recurso/btn100/canal-mayor/898> .
+
+        <http://www.wikidata.org/entity/Q95614486>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/399> , <https://datos.ign.es/recurso/btn100/canal-mayor/1436> , <https://datos.ign.es/recurso/btn100/canal-mayor/67> , <https://datos.ign.es/recurso/btn100/canal-mayor/1556> .
+
+        <http://www.wikidata.org/entity/Q6402658>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/1084> .
+
+        <http://www.wikidata.org/entity/Q23982195>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/221> .
+
+        <http://www.wikidata.org/entity/Q23982966>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/374> .
+
+        <http://www.wikidata.org/entity/Q5746833>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/99> .
+
+        <http://www.wikidata.org/entity/Q17279792>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/875> .
+
+        <http://www.wikidata.org/entity/Q6980876>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/canal-mayor/641> .

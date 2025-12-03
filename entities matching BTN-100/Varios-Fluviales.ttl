@@ -1,0 +1,845 @@
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+
+<http://www.wikidata.org/entity/Q107738162>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1091> .
+
+<http://www.wikidata.org/entity/Q23987155>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1946> .
+
+<http://www.wikidata.org/entity/Q2271809>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2868> , <https://datos.ign.es/recurso/btn100/laguna/1754> .
+
+<http://www.wikidata.org/entity/Q107737795>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1253> .
+
+<http://www.wikidata.org/entity/Q107339708>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3644> .
+
+<http://www.wikidata.org/entity/Q107737974>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3961> .
+
+<http://www.wikidata.org/entity/Q5969178>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2911> .
+
+<http://www.wikidata.org/entity/Q107738090>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3694> .
+
+<http://www.wikidata.org/entity/Q107741764>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2527> , <https://datos.ign.es/recurso/btn100/laguna/539> , <https://datos.ign.es/recurso/btn100/laguna/4535> .
+
+<http://www.wikidata.org/entity/Q107738326>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4199> .
+
+<http://www.wikidata.org/entity/Q5969065>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4157> .
+
+<http://www.wikidata.org/entity/Q23987234>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3280> .
+
+<http://www.wikidata.org/entity/Q107738075>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/819> .
+
+<http://www.wikidata.org/entity/Q23986035>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/35> .
+
+<http://www.wikidata.org/entity/Q107738047>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3919> .
+
+<http://www.wikidata.org/entity/Q23991357>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/764> .
+
+<http://www.wikidata.org/entity/Q582596>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3566> .
+
+<http://www.wikidata.org/entity/Q23986255>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2581> , <https://datos.ign.es/recurso/btn100/laguna/140> , <https://datos.ign.es/recurso/btn100/laguna/2961> , <https://datos.ign.es/recurso/btn100/laguna/1244> , <https://datos.ign.es/recurso/btn100/laguna/2323> , <https://datos.ign.es/recurso/btn100/laguna/4504> , <https://datos.ign.es/recurso/btn100/laguna/1928> , <https://datos.ign.es/recurso/btn100/laguna/3992> , <https://datos.ign.es/recurso/btn100/laguna/3304> , <https://datos.ign.es/recurso/btn100/laguna/4332> , <https://datos.ign.es/recurso/btn100/laguna/4578> , <https://datos.ign.es/recurso/btn100/laguna/3121> , <https://datos.ign.es/recurso/btn100/laguna/1939> , <https://datos.ign.es/recurso/btn100/laguna/3193> , <https://datos.ign.es/recurso/btn100/laguna/2572> , <https://datos.ign.es/recurso/btn100/laguna/1585> , <https://datos.ign.es/recurso/btn100/laguna/2885> , <https://datos.ign.es/recurso/btn100/laguna/3894> .
+
+<http://www.wikidata.org/entity/Q107738267>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2818> .
+
+<http://www.wikidata.org/entity/Q107738113>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2818> .
+
+<http://www.wikidata.org/entity/Q5968915>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/430> , <https://datos.ign.es/recurso/btn100/laguna/1791> .
+
+<http://www.wikidata.org/entity/Q23985028>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4343> , <https://datos.ign.es/recurso/btn100/laguna/3486> , <https://datos.ign.es/recurso/btn100/laguna/184> , <https://datos.ign.es/recurso/btn100/laguna/388> , <https://datos.ign.es/recurso/btn100/laguna/3711> , <https://datos.ign.es/recurso/btn100/laguna/854> , <https://datos.ign.es/recurso/btn100/laguna/2922> , <https://datos.ign.es/recurso/btn100/laguna/2982> .
+
+<http://www.wikidata.org/entity/Q23993875>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1729> .
+
+<http://www.wikidata.org/entity/Q23982501>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/659> .
+
+<http://www.wikidata.org/entity/Q23979992>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1520> , <https://datos.ign.es/recurso/btn100/laguna/2674> , <https://datos.ign.es/recurso/btn100/laguna/3131> .
+
+<http://www.wikidata.org/entity/Q107738318>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2849> .
+
+<http://www.wikidata.org/entity/Q125256436>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/896> .
+
+<http://www.wikidata.org/entity/Q23980351>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3562> .
+
+<http://www.wikidata.org/entity/Q23985091>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/254> , <https://datos.ign.es/recurso/btn100/laguna/1924> , <https://datos.ign.es/recurso/btn100/laguna/1152> , <https://datos.ign.es/recurso/btn100/laguna/2908> .
+
+<http://www.wikidata.org/entity/Q26740536>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/429> .
+
+<http://www.wikidata.org/entity/Q23979585>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2819> .
+
+<http://www.wikidata.org/entity/Q23977118>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1478> , <https://datos.ign.es/recurso/btn100/laguna/1153> .
+
+<http://www.wikidata.org/entity/Q23993189>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1520> , <https://datos.ign.es/recurso/btn100/laguna/2674> , <https://datos.ign.es/recurso/btn100/laguna/3131> .
+
+<http://www.wikidata.org/entity/Q4886156>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4061> .
+
+<http://www.wikidata.org/entity/Q23977159>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1618> .
+
+<http://www.wikidata.org/entity/Q107738366>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1046> .
+
+<http://www.wikidata.org/entity/Q23979915>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/744> .
+
+<http://www.wikidata.org/entity/Q5969215>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/589> .
+
+<http://www.wikidata.org/entity/Q23986659>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2490> .
+
+<http://www.wikidata.org/entity/Q95621132>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/734> .
+
+<http://www.wikidata.org/entity/Q23983413>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/105> , <https://datos.ign.es/recurso/btn100/laguna/2892> , <https://datos.ign.es/recurso/btn100/laguna/1329> , <https://datos.ign.es/recurso/btn100/laguna/1954> , <https://datos.ign.es/recurso/btn100/laguna/2677> , <https://datos.ign.es/recurso/btn100/laguna/2324> .
+
+<http://www.wikidata.org/entity/Q23982839>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4634> .
+
+<http://www.wikidata.org/entity/Q23986254>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2961> , <https://datos.ign.es/recurso/btn100/laguna/3193> , <https://datos.ign.es/recurso/btn100/laguna/3304> , <https://datos.ign.es/recurso/btn100/laguna/1244> , <https://datos.ign.es/recurso/btn100/laguna/2323> , <https://datos.ign.es/recurso/btn100/laguna/1928> , <https://datos.ign.es/recurso/btn100/laguna/3992> , <https://datos.ign.es/recurso/btn100/laguna/2885> , <https://datos.ign.es/recurso/btn100/laguna/1939> , <https://datos.ign.es/recurso/btn100/laguna/4332> , <https://datos.ign.es/recurso/btn100/laguna/4578> , <https://datos.ign.es/recurso/btn100/laguna/3121> , <https://datos.ign.es/recurso/btn100/laguna/2572> , <https://datos.ign.es/recurso/btn100/laguna/1585> , <https://datos.ign.es/recurso/btn100/laguna/4504> , <https://datos.ign.es/recurso/btn100/laguna/3894> , <https://datos.ign.es/recurso/btn100/laguna/2581> , <https://datos.ign.es/recurso/btn100/laguna/140> .
+
+<http://www.wikidata.org/entity/Q107737911>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/329> .
+
+<http://www.wikidata.org/entity/Q23985027>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4343> , <https://datos.ign.es/recurso/btn100/laguna/3486> , <https://datos.ign.es/recurso/btn100/laguna/184> , <https://datos.ign.es/recurso/btn100/laguna/388> , <https://datos.ign.es/recurso/btn100/laguna/3711> , <https://datos.ign.es/recurso/btn100/laguna/854> , <https://datos.ign.es/recurso/btn100/laguna/2922> , <https://datos.ign.es/recurso/btn100/laguna/2982> .
+
+<http://www.wikidata.org/entity/Q23988678>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/688> .
+
+<http://www.wikidata.org/entity/Q12391489>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1848> .
+
+<http://www.wikidata.org/entity/Q23988731>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4365> .
+
+<http://www.wikidata.org/entity/Q20024847>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2796> .
+
+<http://www.wikidata.org/entity/Q107737909>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3220> .
+
+<http://www.wikidata.org/entity/Q1369748>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3976> .
+
+<http://www.wikidata.org/entity/Q23988038>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/927> .
+
+<http://www.wikidata.org/entity/Q107738053>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/395> .
+
+<http://www.wikidata.org/entity/Q23984613>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2925> .
+
+<http://www.wikidata.org/entity/Q107738386>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3166> .
+
+<http://www.wikidata.org/entity/Q23986525>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3457> .
+
+<http://www.wikidata.org/entity/Q107741768>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2527> , <https://datos.ign.es/recurso/btn100/laguna/539> , <https://datos.ign.es/recurso/btn100/laguna/4535> .
+
+<http://www.wikidata.org/entity/Q23985090>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/254> , <https://datos.ign.es/recurso/btn100/laguna/1924> , <https://datos.ign.es/recurso/btn100/laguna/1152> , <https://datos.ign.es/recurso/btn100/laguna/2908> .
+
+<http://www.wikidata.org/entity/Q23986886>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3079> , <https://datos.ign.es/recurso/btn100/laguna/3676> , <https://datos.ign.es/recurso/btn100/laguna/3873> , <https://datos.ign.es/recurso/btn100/laguna/432> , <https://datos.ign.es/recurso/btn100/laguna/4530> , <https://datos.ign.es/recurso/btn100/laguna/3672> .
+
+<http://www.wikidata.org/entity/Q5969276>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/896> .
+
+<http://www.wikidata.org/entity/Q107356630>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2961> , <https://datos.ign.es/recurso/btn100/laguna/1244> , <https://datos.ign.es/recurso/btn100/laguna/140> , <https://datos.ign.es/recurso/btn100/laguna/4578> , <https://datos.ign.es/recurso/btn100/laguna/1928> , <https://datos.ign.es/recurso/btn100/laguna/2572> , <https://datos.ign.es/recurso/btn100/laguna/3304> , <https://datos.ign.es/recurso/btn100/laguna/2885> , <https://datos.ign.es/recurso/btn100/laguna/2323> , <https://datos.ign.es/recurso/btn100/laguna/1939> , <https://datos.ign.es/recurso/btn100/laguna/4504> , <https://datos.ign.es/recurso/btn100/laguna/3894> , <https://datos.ign.es/recurso/btn100/laguna/3992> , <https://datos.ign.es/recurso/btn100/laguna/3121> , <https://datos.ign.es/recurso/btn100/laguna/2581> , <https://datos.ign.es/recurso/btn100/laguna/3193> , <https://datos.ign.es/recurso/btn100/laguna/4332> , <https://datos.ign.es/recurso/btn100/laguna/1585> .
+
+<http://www.wikidata.org/entity/Q48781430>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1077> .
+
+<http://www.wikidata.org/entity/Q107738286>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3791> , <https://datos.ign.es/recurso/btn100/laguna/1931> .
+
+<http://www.wikidata.org/entity/Q23984221>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/990> .
+
+<http://www.wikidata.org/entity/Q11688202>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4389> .
+
+<http://www.wikidata.org/entity/Q23982313>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/842> .
+
+<http://www.wikidata.org/entity/Q107737985>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/802> .
+
+<http://www.wikidata.org/entity/Q23982674>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3543> .
+
+<http://www.wikidata.org/entity/Q23978771>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2527> , <https://datos.ign.es/recurso/btn100/laguna/539> , <https://datos.ign.es/recurso/btn100/laguna/4535> .
+
+<http://www.wikidata.org/entity/Q23980455>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3296> .
+
+<http://www.wikidata.org/entity/Q107738017>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2024> .
+
+<http://www.wikidata.org/entity/Q5969255>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3020> .
+
+<http://www.wikidata.org/entity/Q23986253>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1585> , <https://datos.ign.es/recurso/btn100/laguna/2885> , <https://datos.ign.es/recurso/btn100/laguna/3894> , <https://datos.ign.es/recurso/btn100/laguna/2581> , <https://datos.ign.es/recurso/btn100/laguna/140> , <https://datos.ign.es/recurso/btn100/laguna/2961> , <https://datos.ign.es/recurso/btn100/laguna/1244> , <https://datos.ign.es/recurso/btn100/laguna/2323> , <https://datos.ign.es/recurso/btn100/laguna/1928> , <https://datos.ign.es/recurso/btn100/laguna/4504> , <https://datos.ign.es/recurso/btn100/laguna/3992> , <https://datos.ign.es/recurso/btn100/laguna/1939> , <https://datos.ign.es/recurso/btn100/laguna/3304> , <https://datos.ign.es/recurso/btn100/laguna/3193> , <https://datos.ign.es/recurso/btn100/laguna/4332> , <https://datos.ign.es/recurso/btn100/laguna/4578> , <https://datos.ign.es/recurso/btn100/laguna/3121> , <https://datos.ign.es/recurso/btn100/laguna/2572> .
+
+<http://www.wikidata.org/entity/Q107738099>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/901> , <https://datos.ign.es/recurso/btn100/laguna/2658> .
+
+<http://www.wikidata.org/entity/Q5195553>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3579> .
+
+<http://www.wikidata.org/entity/Q107738278>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3079> , <https://datos.ign.es/recurso/btn100/laguna/3676> , <https://datos.ign.es/recurso/btn100/laguna/3873> , <https://datos.ign.es/recurso/btn100/laguna/432> , <https://datos.ign.es/recurso/btn100/laguna/4530> , <https://datos.ign.es/recurso/btn100/laguna/3672> .
+
+<http://www.wikidata.org/entity/Q17057753>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3503> .
+
+<http://www.wikidata.org/entity/Q23979990>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1520> , <https://datos.ign.es/recurso/btn100/laguna/2674> , <https://datos.ign.es/recurso/btn100/laguna/3131> .
+
+<http://www.wikidata.org/entity/Q107738052>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1118> .
+
+<http://www.wikidata.org/entity/Q107737977>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2139> .
+
+<http://www.wikidata.org/entity/Q108065423>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2461> .
+
+<http://www.wikidata.org/entity/Q107738329>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/637> .
+
+<http://www.wikidata.org/entity/Q5969068>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3457> .
+
+<http://www.wikidata.org/entity/Q107738009>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/665> .
+
+<http://www.wikidata.org/entity/Q107738103>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2725> , <https://datos.ign.es/recurso/btn100/laguna/1334> .
+
+<http://www.wikidata.org/entity/Q107738298>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2700> .
+
+<http://www.wikidata.org/entity/Q23977116>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1478> , <https://datos.ign.es/recurso/btn100/laguna/1153> .
+
+<http://www.wikidata.org/entity/Q23982105>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3137> .
+
+<http://www.wikidata.org/entity/Q125256441>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3100> .
+
+<http://www.wikidata.org/entity/Q107738336>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/557> .
+
+<http://www.wikidata.org/entity/Q23992082>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3382> .
+
+<http://www.wikidata.org/entity/Q16589074>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/428> .
+
+<http://www.wikidata.org/entity/Q107738251>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3487> , <https://datos.ign.es/recurso/btn100/laguna/4220> , <https://datos.ign.es/recurso/btn100/laguna/1967> .
+
+<http://www.wikidata.org/entity/Q23984133>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2896> .
+
+<http://www.wikidata.org/entity/Q107738349>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/137> .
+
+<http://www.wikidata.org/entity/Q5969226>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4495> .
+
+<http://www.wikidata.org/entity/Q23980134>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4389> .
+
+<http://www.wikidata.org/entity/Q23986252>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3894> , <https://datos.ign.es/recurso/btn100/laguna/3304> , <https://datos.ign.es/recurso/btn100/laguna/1585> , <https://datos.ign.es/recurso/btn100/laguna/2572> , <https://datos.ign.es/recurso/btn100/laguna/3193> , <https://datos.ign.es/recurso/btn100/laguna/3992> , <https://datos.ign.es/recurso/btn100/laguna/4332> , <https://datos.ign.es/recurso/btn100/laguna/4578> , <https://datos.ign.es/recurso/btn100/laguna/2581> , <https://datos.ign.es/recurso/btn100/laguna/1928> , <https://datos.ign.es/recurso/btn100/laguna/140> , <https://datos.ign.es/recurso/btn100/laguna/2961> , <https://datos.ign.es/recurso/btn100/laguna/4504> , <https://datos.ign.es/recurso/btn100/laguna/1939> , <https://datos.ign.es/recurso/btn100/laguna/1244> , <https://datos.ign.es/recurso/btn100/laguna/2323> , <https://datos.ign.es/recurso/btn100/laguna/2885> , <https://datos.ign.es/recurso/btn100/laguna/3121> .
+
+<http://www.wikidata.org/entity/Q5549829>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1478> , <https://datos.ign.es/recurso/btn100/laguna/1153> .
+
+<http://www.wikidata.org/entity/Q23984699>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2866> .
+
+<http://www.wikidata.org/entity/Q107738051>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/313> .
+
+<http://www.wikidata.org/entity/Q24943741>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/970> .
+
+<http://www.wikidata.org/entity/Q107737976>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3576> .
+
+<http://www.wikidata.org/entity/Q23993232>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/880> .
+
+<http://www.wikidata.org/entity/Q125256433>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/35> .
+
+<http://www.wikidata.org/entity/Q15075157>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/733> .
+
+<http://www.wikidata.org/entity/Q23983252>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1284> .
+
+<http://www.wikidata.org/entity/Q5969274>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/664> .
+
+<http://www.wikidata.org/entity/Q107737989>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3450> .
+
+<http://www.wikidata.org/entity/Q107737835>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2455> , <https://datos.ign.es/recurso/btn100/laguna/2185> .
+
+<http://www.wikidata.org/entity/Q23987569>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1046> .
+
+<http://www.wikidata.org/entity/Q107738322>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/105> , <https://datos.ign.es/recurso/btn100/laguna/2892> , <https://datos.ign.es/recurso/btn100/laguna/1329> , <https://datos.ign.es/recurso/btn100/laguna/1954> , <https://datos.ign.es/recurso/btn100/laguna/2677> , <https://datos.ign.es/recurso/btn100/laguna/2324> .
+
+<http://www.wikidata.org/entity/Q23982977>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/375> .
+
+<http://www.wikidata.org/entity/Q107741773>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/773> .
+
+<http://www.wikidata.org/entity/Q125256440>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1181> .
+
+<http://www.wikidata.org/entity/Q23986948>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4271> .
+
+<http://www.wikidata.org/entity/Q23985984>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2186> .
+
+<http://www.wikidata.org/entity/Q23980120>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1677> .
+
+<http://www.wikidata.org/entity/Q64006738>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2455> , <https://datos.ign.es/recurso/btn100/laguna/2185> .
+
+<http://www.wikidata.org/entity/Q23982764>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1987> .
+
+<http://www.wikidata.org/entity/Q107737990>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4343> , <https://datos.ign.es/recurso/btn100/laguna/3486> , <https://datos.ign.es/recurso/btn100/laguna/184> , <https://datos.ign.es/recurso/btn100/laguna/388> , <https://datos.ign.es/recurso/btn100/laguna/3711> , <https://datos.ign.es/recurso/btn100/laguna/854> , <https://datos.ign.es/recurso/btn100/laguna/2922> , <https://datos.ign.es/recurso/btn100/laguna/2982> .
+
+<http://www.wikidata.org/entity/Q107738107>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4343> , <https://datos.ign.es/recurso/btn100/laguna/3486> , <https://datos.ign.es/recurso/btn100/laguna/184> , <https://datos.ign.es/recurso/btn100/laguna/388> , <https://datos.ign.es/recurso/btn100/laguna/3711> , <https://datos.ign.es/recurso/btn100/laguna/854> , <https://datos.ign.es/recurso/btn100/laguna/2922> , <https://datos.ign.es/recurso/btn100/laguna/2982> .
+
+<http://www.wikidata.org/entity/Q107737975>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4579> .
+
+<http://www.wikidata.org/entity/Q23983072>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2809> .
+
+<http://www.wikidata.org/entity/Q3396340>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2253> .
+
+<http://www.wikidata.org/entity/Q23990604>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/609> .
+
+<http://www.wikidata.org/entity/Q23987888>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1961> , <https://datos.ign.es/recurso/btn100/laguna/4120> .
+
+<http://www.wikidata.org/entity/Q17588019>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2781> .
+
+<http://www.wikidata.org/entity/Q107738283>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1397> .
+
+<http://www.wikidata.org/entity/Q28120626>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3151> .
+
+<http://www.wikidata.org/entity/Q107738089>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4259> .
+
+<http://www.wikidata.org/entity/Q23988168>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3447> .
+
+<http://www.wikidata.org/entity/Q107738321>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/890> .
+
+<http://www.wikidata.org/entity/Q107737982>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1058> .
+
+<http://www.wikidata.org/entity/Q107737926>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/360> .
+
+<http://www.wikidata.org/entity/Q5969211>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2679> .
+
+<http://www.wikidata.org/entity/Q107741772>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3280> .
+
+<http://www.wikidata.org/entity/Q107738334>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2918> .
+
+<http://www.wikidata.org/entity/Q107737995>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3174> .
+
+<http://www.wikidata.org/entity/Q23984172>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1781> .
+
+<http://www.wikidata.org/entity/Q5875418>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3299> .
+
+<http://www.wikidata.org/entity/Q107738221>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1181> .
+
+<http://www.wikidata.org/entity/Q23987007>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3141> .
+
+<http://www.wikidata.org/entity/Q5969293>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/2614> .
+
+<http://www.wikidata.org/entity/Q107738319>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/3100> .
+
+<http://www.wikidata.org/entity/Q23982515>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/4512> .
+
+<http://www.wikidata.org/entity/Q23978766>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/1902> .
+
+<http://www.wikidata.org/entity/Q23984948>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/424> .
+
+<http://www.wikidata.org/entity/Q107738275>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/laguna/254> , <https://datos.ign.es/recurso/btn100/laguna/1924> , <https://datos.ign.es/recurso/btn100/laguna/1152> , <https://datos.ign.es/recurso/btn100/laguna/2908> .
+
+        <http://www.wikidata.org/entity/Q13048933>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/3> .
+
+        <http://www.wikidata.org/entity/Q18005974>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/275> .
+
+        <http://www.wikidata.org/entity/Q107339708>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/836> , <https://datos.ign.es/recurso/btn100/embalse/197> .
+
+        <http://www.wikidata.org/entity/Q94377393>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/698> .
+
+        <http://www.wikidata.org/entity/Q5830589>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/848> .
+
+        <http://www.wikidata.org/entity/Q24001271>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/535> .
+
+        <http://www.wikidata.org/entity/Q105883578>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1056> .
+
+        <http://www.wikidata.org/entity/Q5830407>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/745> .
+
+        <http://www.wikidata.org/entity/Q43563251>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/911> .
+
+        <http://www.wikidata.org/entity/Q5830489>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/6> .
+
+        <http://www.wikidata.org/entity/Q43562577>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1117> .
+
+        <http://www.wikidata.org/entity/Q112665715>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/275> .
+
+        <http://www.wikidata.org/entity/Q5369461>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/459> .
+
+        <http://www.wikidata.org/entity/Q107738374>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/774> .
+
+        <http://www.wikidata.org/entity/Q107339477>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/588> .
+
+        <http://www.wikidata.org/entity/Q91249319>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1091> .
+
+        <http://www.wikidata.org/entity/Q5369459>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/956> .
+
+        <http://www.wikidata.org/entity/Q107738425>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/796> .
+
+        <http://www.wikidata.org/entity/Q98060336>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1028> .
+
+        <http://www.wikidata.org/entity/Q110295650>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/380> .
+
+        <http://www.wikidata.org/entity/Q5830421>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/169> .
+
+        <http://www.wikidata.org/entity/Q5830434>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1062> .
+
+        <http://www.wikidata.org/entity/Q107339149>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/157> .
+
+        <http://www.wikidata.org/entity/Q113243857>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/494> .
+
+        <http://www.wikidata.org/entity/Q110975660>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/324> .
+
+        <http://www.wikidata.org/entity/Q91314392>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/962> .
+
+        <http://www.wikidata.org/entity/Q3380147>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/449> .
+
+        <http://www.wikidata.org/entity/Q98060770>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1101> .
+
+        <http://www.wikidata.org/entity/Q107738373>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/121> .
+
+        <http://www.wikidata.org/entity/Q122213997>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/714> .
+
+        <http://www.wikidata.org/entity/Q2050030>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/355> .
+
+        <http://www.wikidata.org/entity/Q5815472>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/424> .
+
+        <http://www.wikidata.org/entity/Q107737780>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/188> .
+
+        <http://www.wikidata.org/entity/Q8775378>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/601> .
+
+        <http://www.wikidata.org/entity/Q104816845>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/468> .
+
+        <http://www.wikidata.org/entity/Q95675533>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1050> .
+
+        <http://www.wikidata.org/entity/Q107737778>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1016> .
+
+        <http://www.wikidata.org/entity/Q3380095>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/594> .
+
+        <http://www.wikidata.org/entity/Q107738403>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/241> .
+
+        <http://www.wikidata.org/entity/Q5672943>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/336> .
+
+        <http://www.wikidata.org/entity/Q2893285>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/971> .
+
+        <http://www.wikidata.org/entity/Q107738429>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/701> .
+
+        <http://www.wikidata.org/entity/Q28711545>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/915> .
+
+        <http://www.wikidata.org/entity/Q110295767>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/138> .
+
+        <http://www.wikidata.org/entity/Q5830412>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/297> .
+
+        <http://www.wikidata.org/entity/Q5830538>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/159> .
+
+        <http://www.wikidata.org/entity/Q5830579>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/240> .
+
+        <http://www.wikidata.org/entity/Q19367818>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/843> .
+
+        <http://www.wikidata.org/entity/Q5830604>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/766> .
+
+        <http://www.wikidata.org/entity/Q5369457>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/737> .
+
+        <http://www.wikidata.org/entity/Q5369429>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/591> .
+
+        <http://www.wikidata.org/entity/Q3075812>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/375> .
+
+        <http://www.wikidata.org/entity/Q5830560>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/508> .
+
+        <http://www.wikidata.org/entity/Q43563904>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1081> .
+
+        <http://www.wikidata.org/entity/Q23993005>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/217> .
+
+        <http://www.wikidata.org/entity/Q43551868>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/338> .
+
+        <http://www.wikidata.org/entity/Q92358754>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/866> .
+
+        <http://www.wikidata.org/entity/Q5830473>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/600> .
+
+        <http://www.wikidata.org/entity/Q5576859>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/315> .
+
+        <http://www.wikidata.org/entity/Q107738402>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/343> .
+
+        <http://www.wikidata.org/entity/Q5830417>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/684> , <https://datos.ign.es/recurso/btn100/embalse/989> .
+
+        <http://www.wikidata.org/entity/Q43561654>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/902> .
+
+        <http://www.wikidata.org/entity/Q43560800>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/986> .
+
+        <http://www.wikidata.org/entity/Q5830552>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1064> .
+
+        <http://www.wikidata.org/entity/Q97172835>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/944> .
+
+        <http://www.wikidata.org/entity/Q110977056>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/304> .
+
+        <http://www.wikidata.org/entity/Q116796085>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/111> .
+
+        <http://www.wikidata.org/entity/Q5830452>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/282> .
+
+        <http://www.wikidata.org/entity/Q107338979>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/825> .
+
+        <http://www.wikidata.org/entity/Q8775401>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/873> .
+
+        <http://www.wikidata.org/entity/Q113249472>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/876> .
+
+        <http://www.wikidata.org/entity/Q50359269>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/740> .
+
+        <http://www.wikidata.org/entity/Q101487174>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/850> .
+
+        <http://www.wikidata.org/entity/Q91936428>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/208> .
+
+        <http://www.wikidata.org/entity/Q60314113>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1038> .
+
+        <http://www.wikidata.org/entity/Q8775368>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/649> .
+
+        <http://www.wikidata.org/entity/Q8775421>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/840> .
+
+        <http://www.wikidata.org/entity/Q5830410>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/235> .
+
+        <http://www.wikidata.org/entity/Q8775362>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1112> .
+
+        <http://www.wikidata.org/entity/Q107517904>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/569> .
+
+        <http://www.wikidata.org/entity/Q98060793>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/673> .
+
+        <http://www.wikidata.org/entity/Q107339138>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/811> .
+
+        <http://www.wikidata.org/entity/Q108189737>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/763> .
+
+        <http://www.wikidata.org/entity/Q5830543>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/870> .
+
+        <http://www.wikidata.org/entity/Q95674815>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1086> .
+
+        <http://www.wikidata.org/entity/Q124424797>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/800> .
+
+        <http://www.wikidata.org/entity/Q107738375>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/496> .
+
+        <http://www.wikidata.org/entity/Q5369434>
+                owl:sameAs  <https://datos.ign.es/recurso/btn100/embalse/1152> .
+
+
+                <http://www.wikidata.org/entity/Q3326808>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/ria/2> .
+
+                <http://www.wikidata.org/entity/Q3232570>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/ria/35> .
+
+                <http://www.wikidata.org/entity/Q11703401>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/ria/22> .
+
+                <http://www.wikidata.org/entity/Q2834787>
+                        owl:sameAs  <https://datos.ign.es/recurso/btn100/ria/21> .
+
+                        <http://www.wikidata.org/entity/Q23987024>
+                                owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-fluvial/1152> .
+
+                        <http://www.wikidata.org/entity/Q28119791>
+                                owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-fluvial/4018> .
+
+                        <http://www.wikidata.org/entity/Q23991889>
+                                owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-fluvial/4032> .
+
+                        <http://www.wikidata.org/entity/Q12267023>
+                                owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-fluvial/3127> .
+
+                        <http://www.wikidata.org/entity/Q12258126>
+                                owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-fluvial/4047> .
+
+                                <http://www.wikidata.org/entity/Q1354904>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/4389> .
+
+                                <http://www.wikidata.org/entity/Q23987024>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2211> .
+
+                                <http://www.wikidata.org/entity/Q23980405>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/3104> .
+
+                                <http://www.wikidata.org/entity/Q12258126>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2023> .
+
+                                <http://www.wikidata.org/entity/Q3394741>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2012> .
+
+                                <http://www.wikidata.org/entity/Q3155357>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2664> .
+
+                                <http://www.wikidata.org/entity/Q3394750>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/4169> .
+
+                                <http://www.wikidata.org/entity/Q11919676>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/4584> .
+
+                                <http://www.wikidata.org/entity/Q23982354>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/3506> , <https://datos.ign.es/recurso/btn100/isla-maritima/3279> .
+
+                                <http://www.wikidata.org/entity/Q743570>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/703> .
+
+                                <http://www.wikidata.org/entity/Q23987633>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2106> .
+
+                                <http://www.wikidata.org/entity/Q23984112>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/537> .
+
+                                <http://www.wikidata.org/entity/Q3314879>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/1470> .
+
+                                <http://www.wikidata.org/entity/Q3394746>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/1700> .
+
+                                <http://www.wikidata.org/entity/Q3393837>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/3431> .
+
+                                <http://www.wikidata.org/entity/Q23977848>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/4234> .
+
+                                <http://www.wikidata.org/entity/Q191146>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/6482> .
+
+                                <http://www.wikidata.org/entity/Q31916364>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/4059> .
+
+                                <http://www.wikidata.org/entity/Q23983123>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/189> .
+
+                                <http://www.wikidata.org/entity/Q2344324>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/537> .
+
+                                <http://www.wikidata.org/entity/Q935618>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/3827> .
+
+                                <http://www.wikidata.org/entity/Q23977856>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/1349> , <https://datos.ign.es/recurso/btn100/isla-maritima/15> .
+
+                                <http://www.wikidata.org/entity/Q3394734>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2244> .
+
+                                <http://www.wikidata.org/entity/Q3393503>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/708> .
+
+                                <http://www.wikidata.org/entity/Q2362886>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/3506> , <https://datos.ign.es/recurso/btn100/isla-maritima/3279> .
+
+                                <http://www.wikidata.org/entity/Q9009861>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/1010> .
+
+                                <http://www.wikidata.org/entity/Q979836>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/553> .
+
+                                <http://www.wikidata.org/entity/Q23988076>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/2208> .
+
+                                <http://www.wikidata.org/entity/Q23977855>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/1349> , <https://datos.ign.es/recurso/btn100/isla-maritima/15> .
+
+                                <http://www.wikidata.org/entity/Q5493677>
+                                        owl:sameAs  <https://datos.ign.es/recurso/btn100/isla-maritima/3420> .

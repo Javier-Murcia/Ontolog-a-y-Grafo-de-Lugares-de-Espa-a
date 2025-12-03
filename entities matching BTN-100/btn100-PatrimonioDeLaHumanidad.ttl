@@ -1,0 +1,35 @@
+PREFIX btn100:      <https://datos.ign.es/def/btn100#>
+PREFIX dc:          <http://purl.org/dc/terms/>
+PREFIX esadm:       <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX escjr:       <http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#>
+PREFIX foaf:        <http://xmlns.com/foaf/0.1/>
+PREFIX genonames:   <http://www.geonames.org/ontology#>
+PREFIX geo:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geoes:       <http://geo.linkeddata.es/ontology/>
+PREFIX geonames:    <http://www.geonames.org/ontology#>
+PREFIX georec:      <https://datos.ign.es/recurso/btn100/telesilla/>
+PREFIX georesource: <http://geo.linkeddata.es/recurso/CarreteraAutonomica/>
+PREFIX geosparql:   <http://www.opengis.net/ont/geosparql#>
+PREFIX owl:         <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:        <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:          <http://www.opengis.net/ont/sf#>
+PREFIX xsd:         <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q108064618>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/patrimonio-humanidad/25522> .
+
+<http://www.wikidata.org/entity/Q5970613>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/patrimonio-humanidad/25522> .
+
+<http://www.wikidata.org/entity/Q15728389>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/patrimonio-humanidad/19982> .
+
+<http://www.wikidata.org/entity/Q12156631>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/patrimonio-humanidad/22161> .
+
+<http://www.wikidata.org/entity/Q23987268>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/patrimonio-humanidad/30562> .
+
+<http://www.wikidata.org/entity/Q115510599>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/patrimonio-humanidad/37518> .

@@ -1,0 +1,53 @@
+PREFIX btn100:      <https://datos.ign.es/def/btn100#>
+PREFIX dc:          <http://purl.org/dc/terms/>
+PREFIX esadm:       <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX escjr:       <http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#>
+PREFIX foaf:        <http://xmlns.com/foaf/0.1/>
+PREFIX genonames:   <http://www.geonames.org/ontology#>
+PREFIX geo:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geoes:       <http://geo.linkeddata.es/ontology/>
+PREFIX geonames:    <http://www.geonames.org/ontology#>
+PREFIX georec:      <https://datos.ign.es/recurso/btn100/instalacion-ferroviaria/>
+PREFIX georesource: <http://geo.linkeddata.es/recurso/CarreteraAutonomica/>
+PREFIX geosparql:   <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:     <http://www.monumentos.es/lugares/>
+PREFIX monu:        <http://www.monumentos.es/>
+PREFIX owl:         <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:        <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:          <http://www.opengis.net/ont/sf#>
+PREFIX skos:        <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd:         <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q5847019>
+        owl:sameAs  georec:1544 .
+
+<http://www.wikidata.org/entity/Q5644668>
+        owl:sameAs  georec:1470 .
+
+<http://www.wikidata.org/entity/Q5847344>
+        owl:sameAs  georec:1520 .
+
+<http://www.wikidata.org/entity/Q5846954>
+        owl:sameAs  georec:1533 .
+
+<http://www.wikidata.org/entity/Q5845867>
+        owl:sameAs  georec:1575 .
+
+<http://www.wikidata.org/entity/Q5847187>
+        owl:sameAs  georec:1559 .
+
+<http://www.wikidata.org/entity/Q5847465>
+        owl:sameAs  georec:1543 .
+
+<http://www.wikidata.org/entity/Q5660983>
+        owl:sameAs  georec:1524 .
+
+<http://www.wikidata.org/entity/Q5845777>
+        owl:sameAs  georec:1529 .
+
+<http://www.wikidata.org/entity/Q3820909>
+        owl:sameAs  georec:1521 .
+
+<http://www.wikidata.org/entity/Q5846869>
+        owl:sameAs  georec:1547 .

@@ -1,0 +1,184 @@
+PREFIX btn100:      <https://datos.ign.es/def/btn100#>
+PREFIX dc:          <http://purl.org/dc/terms/>
+PREFIX esadm:       <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX escjr:       <http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#>
+PREFIX foaf:        <http://xmlns.com/foaf/0.1/>
+PREFIX genonames:   <http://www.geonames.org/ontology#>
+PREFIX geo:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geoes:       <http://geo.linkeddata.es/ontology/>
+PREFIX geonames:    <http://www.geonames.org/ontology#>
+PREFIX georec:      <https://datos.ign.es/recurso/btn100/telesilla/>
+PREFIX georesource: <http://geo.linkeddata.es/recurso/CarreteraAutonomica/>
+PREFIX geosparql:   <http://www.opengis.net/ont/geosparql#>
+PREFIX owl:         <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:        <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:          <http://www.opengis.net/ont/sf#>
+PREFIX xsd:         <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q5964295>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29112> .
+
+<http://www.wikidata.org/entity/Q110620605>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29757> .
+
+<http://www.wikidata.org/entity/Q115509177>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29117> .
+
+<http://www.wikidata.org/entity/Q97627091>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/23079> .
+
+<http://www.wikidata.org/entity/Q108066376>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1501> .
+
+<http://www.wikidata.org/entity/Q108066386>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1506> .
+
+<http://www.wikidata.org/entity/Q108066382>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1493> .
+
+<http://www.wikidata.org/entity/Q97602069>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/5233> .
+
+<http://www.wikidata.org/entity/Q108119537>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1498> .
+
+<http://www.wikidata.org/entity/Q1323820>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/40898> .
+
+<http://www.wikidata.org/entity/Q108066389>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1510> .
+
+<http://www.wikidata.org/entity/Q108066380>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1502> .
+
+<http://www.wikidata.org/entity/Q108066391>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1507> .
+
+<http://www.wikidata.org/entity/Q28120423>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/28847> .
+
+<http://www.wikidata.org/entity/Q97632375>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/28847> .
+
+<http://www.wikidata.org/entity/Q97632730>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/28847> .
+
+<http://www.wikidata.org/entity/Q108066473>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/555> .
+
+<http://www.wikidata.org/entity/Q97288851>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29610> .
+
+
+
+<http://www.wikidata.org/entity/Q108066385>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1499> .
+
+<http://www.wikidata.org/entity/Q24011189>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29135> .
+
+<http://www.wikidata.org/entity/Q1769186>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29135> .
+
+<http://www.wikidata.org/entity/Q108066553>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/30900> .
+
+<http://www.wikidata.org/entity/Q108066379>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1503> .
+
+<http://www.wikidata.org/entity/Q108066373>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1996> .
+
+<http://www.wikidata.org/entity/Q108066372>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1508> .
+
+<http://www.wikidata.org/entity/Q5794112>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/39864> .
+
+<http://www.wikidata.org/entity/Q108066367>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1495> .
+
+<http://www.wikidata.org/entity/Q108066384>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1487> .
+
+<http://www.wikidata.org/entity/Q12386675>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/30850> .
+
+<http://www.wikidata.org/entity/Q20546103>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/30850> .
+
+<http://www.wikidata.org/entity/Q12386683>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/30850> .
+
+<http://www.wikidata.org/entity/Q113514684>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/30850> .
+
+<http://www.wikidata.org/entity/Q108066409>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/9> .
+
+<http://www.wikidata.org/entity/Q110688940>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/29110> .
+
+<http://www.wikidata.org/entity/Q108064806>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/31657> .
+
+<http://www.wikidata.org/entity/Q97605343>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/31657> .
+
+<http://www.wikidata.org/entity/Q97624866>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/31657> .
+
+<http://www.wikidata.org/entity/Q115502312>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1992> .
+
+<http://www.wikidata.org/entity/Q108066388>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1504> .
+
+<http://www.wikidata.org/entity/Q108066448>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/552> .
+
+<http://www.wikidata.org/entity/Q108066370>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1491> .
+
+<http://www.wikidata.org/entity/Q97628406>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/3000> .
+
+<http://www.wikidata.org/entity/Q97628347>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/3000> .
+
+<http://www.wikidata.org/entity/Q97622316>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/3000> .
+
+<http://www.wikidata.org/entity/Q3079849>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/13633> .
+
+<http://www.wikidata.org/entity/Q108066369>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1496> .
+
+<http://www.wikidata.org/entity/Q108066423>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/5> .
+
+<http://www.wikidata.org/entity/Q108066374>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1488> .
+
+
+
+<http://www.wikidata.org/entity/Q108066375>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1500> .
+
+
+<http://www.wikidata.org/entity/Q108066377>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1505> .
+
+<http://www.wikidata.org/entity/Q97622045>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/17565> .
+
+
+<http://www.wikidata.org/entity/Q108066366>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/1497> .
+
+
+
+<http://www.wikidata.org/entity/Q108066408>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/cueva/6> .

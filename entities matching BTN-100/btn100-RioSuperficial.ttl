@@ -1,0 +1,133 @@
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georec: <https://datos.ign.es/recurso/btn100/rio-superficial/> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q6115560>
+        owl:sameAs  georec:329 .
+
+<http://www.wikidata.org/entity/Q3320755>
+        owl:sameAs  georec:558 .
+
+<http://www.wikidata.org/entity/Q14764>
+        owl:sameAs  georec:20 , georec:719 .
+
+<http://www.wikidata.org/entity/Q5847616>
+        owl:sameAs  georec:93 .
+
+<http://www.wikidata.org/entity/Q23980086>
+        owl:sameAs  georec:561 .
+
+<http://www.wikidata.org/entity/Q3398835>
+        owl:sameAs  georec:120 .
+
+<http://www.wikidata.org/entity/Q14551>
+        owl:sameAs  georec:215 .
+
+<http://www.wikidata.org/entity/Q9071866>
+        owl:sameAs  georec:256 .
+
+<http://www.wikidata.org/entity/Q6980744>
+        owl:sameAs  georec:113 .
+
+<http://www.wikidata.org/entity/Q9071973>
+        owl:sameAs  georec:283 .
+
+<http://www.wikidata.org/entity/Q23979286>
+        owl:sameAs  georec:402 .
+
+<http://www.wikidata.org/entity/Q1051446>
+        owl:sameAs  georec:419 .
+
+<http://www.wikidata.org/entity/Q511959>
+        owl:sameAs  georec:261 .
+
+<http://www.wikidata.org/entity/Q3329219>
+        owl:sameAs  georec:343 .
+
+<http://www.wikidata.org/entity/Q14768>
+        owl:sameAs  georec:41 .
+
+<http://www.wikidata.org/entity/Q23986261>
+        owl:sameAs  georec:343 .
+
+<http://www.wikidata.org/entity/Q1555858>
+        owl:sameAs  georec:210 .
+
+<http://www.wikidata.org/entity/Q6115408>
+        owl:sameAs  georec:25 .
+
+<http://www.wikidata.org/entity/Q2581531>
+        owl:sameAs  georec:341 .
+
+<http://www.wikidata.org/entity/Q6980876>
+        owl:sameAs  georec:123 .
+
+<http://www.wikidata.org/entity/Q23990921>
+        owl:sameAs  georec:177 .
+
+<http://www.wikidata.org/entity/Q11703418>
+        owl:sameAs  georec:360 .
+
+<http://www.wikidata.org/entity/Q323199>
+        owl:sameAs  georec:94 .
+
+<http://www.wikidata.org/entity/Q6115497>
+        owl:sameAs  georec:43 .
+
+<http://www.wikidata.org/entity/Q3322231>
+        owl:sameAs  georec:263 , georec:518 , georec:320 .
+
+<http://www.wikidata.org/entity/Q23977863>
+        owl:sameAs  georec:239 .
+
+<http://www.wikidata.org/entity/Q6115706>
+        owl:sameAs  georec:369 .
+
+<http://www.wikidata.org/entity/Q113646607>
+        owl:sameAs  georec:561 .
+
+<http://www.wikidata.org/entity/Q6115775>
+        owl:sameAs  georec:249 , georec:505 .
+
+<http://www.wikidata.org/entity/Q9072036>
+        owl:sameAs  georec:182 .
+
+<http://www.wikidata.org/entity/Q9071942>
+        owl:sameAs  georec:150 .
+
+<http://www.wikidata.org/entity/Q9071855>
+        owl:sameAs  georec:470 .
+
+<http://www.wikidata.org/entity/Q107339026>
+        owl:sameAs  georec:343 .
+
+<http://www.wikidata.org/entity/Q14553>
+        owl:sameAs  georec:205 .
+
+<http://www.wikidata.org/entity/Q23979290>
+        owl:sameAs  georec:402 .
+
+<http://www.wikidata.org/entity/Q23990945>
+        owl:sameAs  georec:737 .
+
+<http://www.wikidata.org/entity/Q104816684>
+        owl:sameAs  georec:402 .
+
+<http://www.wikidata.org/entity/Q3399423>
+        owl:sameAs  georec:261 .
+
+<http://www.wikidata.org/entity/Q23977859>
+        owl:sameAs   georec:95 .

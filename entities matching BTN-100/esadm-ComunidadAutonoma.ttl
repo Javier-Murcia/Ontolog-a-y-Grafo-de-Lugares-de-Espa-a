@@ -1,0 +1,66 @@
+PREFIX btn100:    <https://datos.ign.es/def/btn100#>
+PREFIX dc:        <http://purl.org/dc/elements/1.1/>
+PREFIX esadm:     <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX georec:    <https://datos.ign.es/recurso/btn100/rio-superficial/>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:        <http://www.opengis.net/ont/sf#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q5727>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/la-rioja> .
+
+<http://www.wikidata.org/entity/Q5748>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/castilla-la-mancha> .
+
+<http://www.wikidata.org/entity/Q5739>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/castilla-y-leon> .
+
+<http://www.wikidata.org/entity/Q3908>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/galicia> .
+
+<http://www.wikidata.org/entity/Q5813>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/canarias> .
+
+<http://www.wikidata.org/entity/Q4040>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/aragon> .
+
+<http://www.wikidata.org/entity/Q5783>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/andalucia> .
+
+<http://www.wikidata.org/entity/Q5777>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/extremadura> .
+
+<http://www.wikidata.org/entity/Q5756>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/comunidad-de-madrid> .
+
+<http://www.wikidata.org/entity/Q3946>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/cantabria> .
+
+<http://www.wikidata.org/entity/Q5772>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/comunidad-autonoma/region-de-murcia> .
+
+<http://www.wikidata.org/entity/Q107356467>
+                owl:sameAs
+        <https://datos.ign.es/recurso/btn100/comunidad-autonoma/illes-balears> .
+
+<http://www.wikidata.org/entity/Q5720>
+                        owl:sameAs
+        <https://datos.ign.es/recurso/btn100/comunidad-autonoma/comunitat-valenciana> .
+
+        <http://www.wikidata.org/entity/Q4018> owl:sameAs <https://datos.ign.es/recurso/btn100/comunidad-autonoma/comunidad-foral-de-navarra>.
+
+        <http://www.wikidata.org/entity/Q3995> owl:sameAs
+<https://datos.ign.es/recurso/btn100/comunidad-autonoma/pais-vasco-euskadi>.
+
+<http://www.wikidata.org/entity/Q3934> owl:sameAs
+<https://datos.ign.es/recurso/btn100/comunidad-autonoma/principado-de-asturias> .
+
+<http://www.wikidata.org/entity/Q5705> owl:sameAs
+<https://datos.ign.es/recurso/btn100/comunidad-autonoma/cataluna-catalunya>.

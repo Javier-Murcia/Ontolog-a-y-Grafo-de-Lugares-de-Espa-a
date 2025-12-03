@@ -1,0 +1,85 @@
+@prefix mo:    <http://purl.org/ontology/mo/> .
+@prefix geonames: <http://www.geonames.org/ontology#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georec: <https://datos.ign.es/recurso/btn100/aeropuerto/> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix genonames: <http://www.geonames.org/ontology#> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q651392>
+        owl:sameAs  georec:611 .
+
+<http://www.wikidata.org/entity/Q978595>
+        owl:sameAs  georec:546 .
+
+<http://www.wikidata.org/entity/Q695659>
+        owl:sameAs  georec:108 .
+
+<http://www.wikidata.org/entity/Q259867>
+        owl:sameAs  georec:471 .
+
+<http://www.wikidata.org/entity/Q686526>
+        owl:sameAs  georec:89 .
+
+<http://www.wikidata.org/entity/Q701561>
+        owl:sameAs  georec:270 .
+
+<http://www.wikidata.org/entity/Q1130612>
+        owl:sameAs  georec:527 .
+
+<http://www.wikidata.org/entity/Q974415>
+        owl:sameAs  georec:274 .
+
+<http://www.wikidata.org/entity/Q1433170>
+        owl:sameAs  georec:265 .
+
+<http://www.wikidata.org/entity/Q428292>
+        owl:sameAs  georec:292 .
+
+<http://www.wikidata.org/entity/Q932514>
+        owl:sameAs  georec:548 .
+
+<http://www.wikidata.org/entity/Q695127>
+        owl:sameAs  georec:511 .
+
+<http://www.wikidata.org/entity/Q821984>
+        owl:sameAs  georec:547 .
+
+<http://www.wikidata.org/entity/Q1432772>
+        owl:sameAs  georec:321 .
+
+<http://www.wikidata.org/entity/Q1344758>
+        owl:sameAs  georec:488 .
+
+<http://www.wikidata.org/entity/Q1431349>
+        owl:sameAs  georec:529 .
+
+<http://www.wikidata.org/entity/Q586862>
+        owl:sameAs  georec:420 .
+
+<http://www.wikidata.org/entity/Q1431249>
+        owl:sameAs  georec:544 .
+
+<http://www.wikidata.org/entity/Q1430901>
+        owl:sameAs  georec:596 .
+
+<http://www.wikidata.org/entity/Q537632>
+        owl:sameAs  georec:186 .
+
+<http://www.wikidata.org/entity/Q836666>
+        owl:sameAs  georec:314 .
+
+<http://www.wikidata.org/entity/Q604275>
+        owl:sameAs  georec:545 .

@@ -1,0 +1,28 @@
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georec: <https://datos.ign.es/recurso/btn100/rio-superficial/> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q107738375>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/humedal/913> .
+
+        <http://www.wikidata.org/entity/Q3418404>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rambla/1244> , <https://datos.ign.es/recurso/btn100/rambla/384> , <https://datos.ign.es/recurso/btn100/rambla/1275> .
+
+<http://www.wikidata.org/entity/Q11944533>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rambla/428> .
+
+<http://www.wikidata.org/entity/Q107786866>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rambla/32> .

@@ -1,0 +1,20 @@
+PREFIX btn100:    <https://datos.ign.es/def/btn100#>
+PREFIX dc:        <http://purl.org/dc/elements/1.1/>
+PREFIX esadm:     <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX georec:    <https://datos.ign.es/recurso/btn100/rio-superficial/>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sf:        <http://www.opengis.net/ont/sf#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q23987268>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/parque-nacional/1288> .
+
+<http://www.wikidata.org/entity/Q2054008>
+owl:sameAs  <https://datos.ign.es/recurso/btn100/parque-natural/956> .

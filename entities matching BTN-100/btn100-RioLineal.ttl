@@ -1,0 +1,633 @@
+@prefix btn100: <https://datos.ign.es/def/btn100#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix sf:    <http://www.opengis.net/ont/sf#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esadm: <http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio#> .
+@prefix georec: <https://datos.ign.es/recurso/btn100/rio-superficial/> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<http://www.wikidata.org/entity/Q95610746>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1673> , <https://datos.ign.es/recurso/btn100/rio-lineal/1434> .
+
+<http://www.wikidata.org/entity/Q9071872>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/3637> .
+
+<http://www.wikidata.org/entity/Q23988802>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15373> , <https://datos.ign.es/recurso/btn100/rio-lineal/12690> .
+
+<http://www.wikidata.org/entity/Q8242671>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/25467> .
+
+<http://www.wikidata.org/entity/Q23984801>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15943> , <https://datos.ign.es/recurso/btn100/rio-lineal/22320> , <https://datos.ign.es/recurso/btn100/rio-lineal/22319> , <https://datos.ign.es/recurso/btn100/rio-lineal/34632> , <https://datos.ign.es/recurso/btn100/rio-lineal/34631> , <https://datos.ign.es/recurso/btn100/rio-lineal/34630> .
+
+<http://www.wikidata.org/entity/Q6115775>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10217> , <https://datos.ign.es/recurso/btn100/rio-lineal/10216> , <https://datos.ign.es/recurso/btn100/rio-lineal/24208> , <https://datos.ign.es/recurso/btn100/rio-lineal/24207> .
+
+<http://www.wikidata.org/entity/Q4796266>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16482> .
+
+<http://www.wikidata.org/entity/Q9072197>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4353> , <https://datos.ign.es/recurso/btn100/rio-lineal/28192> , <https://datos.ign.es/recurso/btn100/rio-lineal/28191> .
+
+<http://www.wikidata.org/entity/Q7636606>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12330> , <https://datos.ign.es/recurso/btn100/rio-lineal/18398> .
+
+<http://www.wikidata.org/entity/Q9072176>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12912> , <https://datos.ign.es/recurso/btn100/rio-lineal/12911> , <https://datos.ign.es/recurso/btn100/rio-lineal/21188> , <https://datos.ign.es/recurso/btn100/rio-lineal/21187> .
+
+<http://www.wikidata.org/entity/Q14553>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9822> , <https://datos.ign.es/recurso/btn100/rio-lineal/348> , <https://datos.ign.es/recurso/btn100/rio-lineal/347> , <https://datos.ign.es/recurso/btn100/rio-lineal/9823> , <https://datos.ign.es/recurso/btn100/rio-lineal/27644> .
+
+<http://www.wikidata.org/entity/Q23986261>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4610> , <https://datos.ign.es/recurso/btn100/rio-lineal/4612> , <https://datos.ign.es/recurso/btn100/rio-lineal/31675> , <https://datos.ign.es/recurso/btn100/rio-lineal/27063> , <https://datos.ign.es/recurso/btn100/rio-lineal/2484> , <https://datos.ign.es/recurso/btn100/rio-lineal/8760> , <https://datos.ign.es/recurso/btn100/rio-lineal/4405> , <https://datos.ign.es/recurso/btn100/rio-lineal/27057> , <https://datos.ign.es/recurso/btn100/rio-lineal/27064> , <https://datos.ign.es/recurso/btn100/rio-lineal/18548> , <https://datos.ign.es/recurso/btn100/rio-lineal/26981> , <https://datos.ign.es/recurso/btn100/rio-lineal/13120> , <https://datos.ign.es/recurso/btn100/rio-lineal/4502> , <https://datos.ign.es/recurso/btn100/rio-lineal/15416> .
+
+<http://www.wikidata.org/entity/Q6115875>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/18850> , <https://datos.ign.es/recurso/btn100/rio-lineal/21433> .
+
+<http://www.wikidata.org/entity/Q20545461>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/23597> .
+
+<http://www.wikidata.org/entity/Q6109261>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/13587> , <https://datos.ign.es/recurso/btn100/rio-lineal/8354> , <https://datos.ign.es/recurso/btn100/rio-lineal/13584> , <https://datos.ign.es/recurso/btn100/rio-lineal/33500> , <https://datos.ign.es/recurso/btn100/rio-lineal/33515> , <https://datos.ign.es/recurso/btn100/rio-lineal/33474> , <https://datos.ign.es/recurso/btn100/rio-lineal/33446> , <https://datos.ign.es/recurso/btn100/rio-lineal/33447> , <https://datos.ign.es/recurso/btn100/rio-lineal/13583> , <https://datos.ign.es/recurso/btn100/rio-lineal/33490> , <https://datos.ign.es/recurso/btn100/rio-lineal/33453> , <https://datos.ign.es/recurso/btn100/rio-lineal/33456> , <https://datos.ign.es/recurso/btn100/rio-lineal/33492> , <https://datos.ign.es/recurso/btn100/rio-lineal/36897> , <https://datos.ign.es/recurso/btn100/rio-lineal/33518> , <https://datos.ign.es/recurso/btn100/rio-lineal/33520> , <https://datos.ign.es/recurso/btn100/rio-lineal/33523> , <https://datos.ign.es/recurso/btn100/rio-lineal/33510> , <https://datos.ign.es/recurso/btn100/rio-lineal/8352> , <https://datos.ign.es/recurso/btn100/rio-lineal/33524> , <https://datos.ign.es/recurso/btn100/rio-lineal/33479> , <https://datos.ign.es/recurso/btn100/rio-lineal/33504> , <https://datos.ign.es/recurso/btn100/rio-lineal/33498> , <https://datos.ign.es/recurso/btn100/rio-lineal/33488> , <https://datos.ign.es/recurso/btn100/rio-lineal/36896> , <https://datos.ign.es/recurso/btn100/rio-lineal/33512> , <https://datos.ign.es/recurso/btn100/rio-lineal/36903> , <https://datos.ign.es/recurso/btn100/rio-lineal/8353> , <https://datos.ign.es/recurso/btn100/rio-lineal/33469> , <https://datos.ign.es/recurso/btn100/rio-lineal/33443> , <https://datos.ign.es/recurso/btn100/rio-lineal/13582> , <https://datos.ign.es/recurso/btn100/rio-lineal/33502> , <https://datos.ign.es/recurso/btn100/rio-lineal/33494> , <https://datos.ign.es/recurso/btn100/rio-lineal/33484> , <https://datos.ign.es/recurso/btn100/rio-lineal/33489> , <https://datos.ign.es/recurso/btn100/rio-lineal/13588> , <https://datos.ign.es/recurso/btn100/rio-lineal/33522> , <https://datos.ign.es/recurso/btn100/rio-lineal/33486> , <https://datos.ign.es/recurso/btn100/rio-lineal/8351> , <https://datos.ign.es/recurso/btn100/rio-lineal/33487> , <https://datos.ign.es/recurso/btn100/rio-lineal/36776> , <https://datos.ign.es/recurso/btn100/rio-lineal/33516> , <https://datos.ign.es/recurso/btn100/rio-lineal/33482> , <https://datos.ign.es/recurso/btn100/rio-lineal/33496> , <https://datos.ign.es/recurso/btn100/rio-lineal/33506> , <https://datos.ign.es/recurso/btn100/rio-lineal/33455> , <https://datos.ign.es/recurso/btn100/rio-lineal/33472> , <https://datos.ign.es/recurso/btn100/rio-lineal/36898> , <https://datos.ign.es/recurso/btn100/rio-lineal/33508> , <https://datos.ign.es/recurso/btn100/rio-lineal/8355> .
+
+<http://www.wikidata.org/entity/Q4119062>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/959> , <https://datos.ign.es/recurso/btn100/rio-lineal/958> , <https://datos.ign.es/recurso/btn100/rio-lineal/11047> , <https://datos.ign.es/recurso/btn100/rio-lineal/11046> , <https://datos.ign.es/recurso/btn100/rio-lineal/11045> .
+
+<http://www.wikidata.org/entity/Q23979017>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14001> .
+
+<http://www.wikidata.org/entity/Q3399121>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31668> .
+
+<http://www.wikidata.org/entity/Q11703419>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16238> , <https://datos.ign.es/recurso/btn100/rio-lineal/26259> .
+
+<http://www.wikidata.org/entity/Q6114757>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11570> , <https://datos.ign.es/recurso/btn100/rio-lineal/17986> .
+
+<http://www.wikidata.org/entity/Q6115399>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/23206> , <https://datos.ign.es/recurso/btn100/rio-lineal/23205> , <https://datos.ign.es/recurso/btn100/rio-lineal/23204> .
+
+<http://www.wikidata.org/entity/Q5575138>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15765> , <https://datos.ign.es/recurso/btn100/rio-lineal/8039> .
+
+<http://www.wikidata.org/entity/Q9071704>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15845> , <https://datos.ign.es/recurso/btn100/rio-lineal/15662> , <https://datos.ign.es/recurso/btn100/rio-lineal/16890> , <https://datos.ign.es/recurso/btn100/rio-lineal/20519> .
+
+<http://www.wikidata.org/entity/Q9071612>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/5239> , <https://datos.ign.es/recurso/btn100/rio-lineal/31135> .
+
+<http://www.wikidata.org/entity/Q15110499>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9520> , <https://datos.ign.es/recurso/btn100/rio-lineal/9519> , <https://datos.ign.es/recurso/btn100/rio-lineal/9518> , <https://datos.ign.es/recurso/btn100/rio-lineal/5993> , <https://datos.ign.es/recurso/btn100/rio-lineal/5992> , <https://datos.ign.es/recurso/btn100/rio-lineal/5991> .
+
+<http://www.wikidata.org/entity/Q104816651>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10156> .
+
+<http://www.wikidata.org/entity/Q3320755>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/17197> , <https://datos.ign.es/recurso/btn100/rio-lineal/17196> , <https://datos.ign.es/recurso/btn100/rio-lineal/17195> , <https://datos.ign.es/recurso/btn100/rio-lineal/8908> .
+
+<http://www.wikidata.org/entity/Q16627219>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/22975> .
+
+<http://www.wikidata.org/entity/Q848193>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/27583> .
+
+<http://www.wikidata.org/entity/Q23980086>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/28214> , <https://datos.ign.es/recurso/btn100/rio-lineal/16961> , <https://datos.ign.es/recurso/btn100/rio-lineal/24890> , <https://datos.ign.es/recurso/btn100/rio-lineal/28215> , <https://datos.ign.es/recurso/btn100/rio-lineal/1454> , <https://datos.ign.es/recurso/btn100/rio-lineal/21185> , <https://datos.ign.es/recurso/btn100/rio-lineal/24892> , <https://datos.ign.es/recurso/btn100/rio-lineal/23540> , <https://datos.ign.es/recurso/btn100/rio-lineal/7432> , <https://datos.ign.es/recurso/btn100/rio-lineal/24891> , <https://datos.ign.es/recurso/btn100/rio-lineal/28216> , <https://datos.ign.es/recurso/btn100/rio-lineal/5089> , <https://datos.ign.es/recurso/btn100/rio-lineal/15708> , <https://datos.ign.es/recurso/btn100/rio-lineal/16960> .
+
+<http://www.wikidata.org/entity/Q105883471>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/5594> , <https://datos.ign.es/recurso/btn100/rio-lineal/25826> , <https://datos.ign.es/recurso/btn100/rio-lineal/25825> .
+
+<http://www.wikidata.org/entity/Q19858865>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/32711> , <https://datos.ign.es/recurso/btn100/rio-lineal/32710> .
+
+<http://www.wikidata.org/entity/Q28941037>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1842> .
+
+<http://www.wikidata.org/entity/Q5934903>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/18644> .
+
+<http://www.wikidata.org/entity/Q5875413>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/30669> .
+
+<http://www.wikidata.org/entity/Q114289353>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/32327> .
+
+<http://www.wikidata.org/entity/Q2744506>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2744> .
+
+<http://www.wikidata.org/entity/Q4063674>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12860> , <https://datos.ign.es/recurso/btn100/rio-lineal/18663> , <https://datos.ign.es/recurso/btn100/rio-lineal/30581> , <https://datos.ign.es/recurso/btn100/rio-lineal/22903> , <https://datos.ign.es/recurso/btn100/rio-lineal/37451> .
+
+<http://www.wikidata.org/entity/Q5554801>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/22518> , <https://datos.ign.es/recurso/btn100/rio-lineal/22517> , <https://datos.ign.es/recurso/btn100/rio-lineal/22516> , <https://datos.ign.es/recurso/btn100/rio-lineal/22515> , <https://datos.ign.es/recurso/btn100/rio-lineal/22513> , <https://datos.ign.es/recurso/btn100/rio-lineal/22512> .
+
+<http://www.wikidata.org/entity/Q23992711>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10347> .
+
+<http://www.wikidata.org/entity/Q3322231>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/29618> , <https://datos.ign.es/recurso/btn100/rio-lineal/29617> , <https://datos.ign.es/recurso/btn100/rio-lineal/29616> , <https://datos.ign.es/recurso/btn100/rio-lineal/26508> , <https://datos.ign.es/recurso/btn100/rio-lineal/26507> , <https://datos.ign.es/recurso/btn100/rio-lineal/26506> .
+
+<http://www.wikidata.org/entity/Q511413>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/3637> .
+
+<http://www.wikidata.org/entity/Q3329219>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/27063> , <https://datos.ign.es/recurso/btn100/rio-lineal/27064> , <https://datos.ign.es/recurso/btn100/rio-lineal/4405> , <https://datos.ign.es/recurso/btn100/rio-lineal/4502> , <https://datos.ign.es/recurso/btn100/rio-lineal/4612> , <https://datos.ign.es/recurso/btn100/rio-lineal/13120> , <https://datos.ign.es/recurso/btn100/rio-lineal/15416> , <https://datos.ign.es/recurso/btn100/rio-lineal/31675> , <https://datos.ign.es/recurso/btn100/rio-lineal/8760> , <https://datos.ign.es/recurso/btn100/rio-lineal/2484> , <https://datos.ign.es/recurso/btn100/rio-lineal/18548> , <https://datos.ign.es/recurso/btn100/rio-lineal/27057> , <https://datos.ign.es/recurso/btn100/rio-lineal/26981> , <https://datos.ign.es/recurso/btn100/rio-lineal/4610> .
+
+<http://www.wikidata.org/entity/Q5390246>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15845> , <https://datos.ign.es/recurso/btn100/rio-lineal/15662> , <https://datos.ign.es/recurso/btn100/rio-lineal/16890> , <https://datos.ign.es/recurso/btn100/rio-lineal/20519> .
+
+<http://www.wikidata.org/entity/Q6114931>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1642> .
+
+<http://www.wikidata.org/entity/Q6115239>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15922> , <https://datos.ign.es/recurso/btn100/rio-lineal/13441> .
+
+<http://www.wikidata.org/entity/Q5706133>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6789> .
+
+<http://www.wikidata.org/entity/Q3399266>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16194> , <https://datos.ign.es/recurso/btn100/rio-lineal/32424> .
+
+<http://www.wikidata.org/entity/Q95622485>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31705> .
+
+<http://www.wikidata.org/entity/Q5400046>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12657> , <https://datos.ign.es/recurso/btn100/rio-lineal/21761> , <https://datos.ign.es/recurso/btn100/rio-lineal/21760> .
+
+<http://www.wikidata.org/entity/Q9071707>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6690> .
+
+<http://www.wikidata.org/entity/Q6115844>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/24213> .
+
+<http://www.wikidata.org/entity/Q845522>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14818> , <https://datos.ign.es/recurso/btn100/rio-lineal/29498> .
+
+<http://www.wikidata.org/entity/Q17801>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15134> , <https://datos.ign.es/recurso/btn100/rio-lineal/1323> , <https://datos.ign.es/recurso/btn100/rio-lineal/1325> , <https://datos.ign.es/recurso/btn100/rio-lineal/1322> , <https://datos.ign.es/recurso/btn100/rio-lineal/1327> , <https://datos.ign.es/recurso/btn100/rio-lineal/15131> , <https://datos.ign.es/recurso/btn100/rio-lineal/1326> , <https://datos.ign.es/recurso/btn100/rio-lineal/1324> , <https://datos.ign.es/recurso/btn100/rio-lineal/15133> , <https://datos.ign.es/recurso/btn100/rio-lineal/15130> , <https://datos.ign.es/recurso/btn100/rio-lineal/15135> , <https://datos.ign.es/recurso/btn100/rio-lineal/15132> .
+
+<http://www.wikidata.org/entity/Q14764>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10946> , <https://datos.ign.es/recurso/btn100/rio-lineal/10945> , <https://datos.ign.es/recurso/btn100/rio-lineal/10944> , <https://datos.ign.es/recurso/btn100/rio-lineal/9472> , <https://datos.ign.es/recurso/btn100/rio-lineal/9471> , <https://datos.ign.es/recurso/btn100/rio-lineal/9470> , <https://datos.ign.es/recurso/btn100/rio-lineal/36808> , <https://datos.ign.es/recurso/btn100/rio-lineal/36809> .
+
+<http://www.wikidata.org/entity/Q25511364>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2446> , <https://datos.ign.es/recurso/btn100/rio-lineal/10901> .
+
+<http://www.wikidata.org/entity/Q6115560>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2421> , <https://datos.ign.es/recurso/btn100/rio-lineal/8290> .
+
+<http://www.wikidata.org/entity/Q591444>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14762> .
+
+<http://www.wikidata.org/entity/Q14551>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9945> , <https://datos.ign.es/recurso/btn100/rio-lineal/9943> , <https://datos.ign.es/recurso/btn100/rio-lineal/32825> , <https://datos.ign.es/recurso/btn100/rio-lineal/32824> , <https://datos.ign.es/recurso/btn100/rio-lineal/27435> , <https://datos.ign.es/recurso/btn100/rio-lineal/36193> .
+
+<http://www.wikidata.org/entity/Q2179056>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/24781> , <https://datos.ign.es/recurso/btn100/rio-lineal/24399> .
+
+<http://www.wikidata.org/entity/Q21996027>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8408> , <https://datos.ign.es/recurso/btn100/rio-lineal/31874> , <https://datos.ign.es/recurso/btn100/rio-lineal/29966> .
+
+<http://www.wikidata.org/entity/Q3006700>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7830> , <https://datos.ign.es/recurso/btn100/rio-lineal/13283> , <https://datos.ign.es/recurso/btn100/rio-lineal/13282> .
+
+<http://www.wikidata.org/entity/Q3798018>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/20752> .
+
+<http://www.wikidata.org/entity/Q9072111>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/5275> , <https://datos.ign.es/recurso/btn100/rio-lineal/29923> .
+
+<http://www.wikidata.org/entity/Q9071878>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6550> .
+
+<http://www.wikidata.org/entity/Q6115468>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/23789> , <https://datos.ign.es/recurso/btn100/rio-lineal/22282> .
+
+<http://www.wikidata.org/entity/Q11908336>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11021> , <https://datos.ign.es/recurso/btn100/rio-lineal/5986> .
+
+<http://www.wikidata.org/entity/Q9072061>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/24097> .
+
+<http://www.wikidata.org/entity/Q23980047>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/37447> , <https://datos.ign.es/recurso/btn100/rio-lineal/34447> , <https://datos.ign.es/recurso/btn100/rio-lineal/17798> , <https://datos.ign.es/recurso/btn100/rio-lineal/22187> , <https://datos.ign.es/recurso/btn100/rio-lineal/10751> , <https://datos.ign.es/recurso/btn100/rio-lineal/7884> , <https://datos.ign.es/recurso/btn100/rio-lineal/31916> , <https://datos.ign.es/recurso/btn100/rio-lineal/34446> , <https://datos.ign.es/recurso/btn100/rio-lineal/17797> , <https://datos.ign.es/recurso/btn100/rio-lineal/15073> , <https://datos.ign.es/recurso/btn100/rio-lineal/5955> , <https://datos.ign.es/recurso/btn100/rio-lineal/3375> , <https://datos.ign.es/recurso/btn100/rio-lineal/28575> , <https://datos.ign.es/recurso/btn100/rio-lineal/9203> , <https://datos.ign.es/recurso/btn100/rio-lineal/9305> , <https://datos.ign.es/recurso/btn100/rio-lineal/13319> , <https://datos.ign.es/recurso/btn100/rio-lineal/9306> , <https://datos.ign.es/recurso/btn100/rio-lineal/22188> , <https://datos.ign.es/recurso/btn100/rio-lineal/31417> , <https://datos.ign.es/recurso/btn100/rio-lineal/11916> , <https://datos.ign.es/recurso/btn100/rio-lineal/34445> , <https://datos.ign.es/recurso/btn100/rio-lineal/25495> , <https://datos.ign.es/recurso/btn100/rio-lineal/10592> .
+
+<http://www.wikidata.org/entity/Q5938139>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1597> , <https://datos.ign.es/recurso/btn100/rio-lineal/36604> .
+
+<http://www.wikidata.org/entity/Q2882917>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/5812> , <https://datos.ign.es/recurso/btn100/rio-lineal/20612> .
+
+<http://www.wikidata.org/entity/Q6114897>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1010> .
+
+<http://www.wikidata.org/entity/Q95613413>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16174> .
+
+<http://www.wikidata.org/entity/Q64547392>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/35587> , <https://datos.ign.es/recurso/btn100/rio-lineal/35586> , <https://datos.ign.es/recurso/btn100/rio-lineal/35585> , <https://datos.ign.es/recurso/btn100/rio-lineal/35584> , <https://datos.ign.es/recurso/btn100/rio-lineal/35583> .
+
+<http://www.wikidata.org/entity/Q6115497>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/29746> .
+
+<http://www.wikidata.org/entity/Q6115626>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12031> .
+
+<http://www.wikidata.org/entity/Q4852679>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/19647> , <https://datos.ign.es/recurso/btn100/rio-lineal/15671> , <https://datos.ign.es/recurso/btn100/rio-lineal/31619> , <https://datos.ign.es/recurso/btn100/rio-lineal/29260> , <https://datos.ign.es/recurso/btn100/rio-lineal/29417> , <https://datos.ign.es/recurso/btn100/rio-lineal/18162> , <https://datos.ign.es/recurso/btn100/rio-lineal/16954> , <https://datos.ign.es/recurso/btn100/rio-lineal/16084> , <https://datos.ign.es/recurso/btn100/rio-lineal/1338> , <https://datos.ign.es/recurso/btn100/rio-lineal/16744> , <https://datos.ign.es/recurso/btn100/rio-lineal/31661> .
+
+<http://www.wikidata.org/entity/Q6115263>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/26433> .
+
+<http://www.wikidata.org/entity/Q9071610>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4588> , <https://datos.ign.es/recurso/btn100/rio-lineal/20034> , <https://datos.ign.es/recurso/btn100/rio-lineal/20035> .
+
+<http://www.wikidata.org/entity/Q16627309>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11587> , <https://datos.ign.es/recurso/btn100/rio-lineal/35765> , <https://datos.ign.es/recurso/btn100/rio-lineal/35764> , <https://datos.ign.es/recurso/btn100/rio-lineal/35763> .
+
+<http://www.wikidata.org/entity/Q2581531>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/13194> , <https://datos.ign.es/recurso/btn100/rio-lineal/13193> , <https://datos.ign.es/recurso/btn100/rio-lineal/17602> , <https://datos.ign.es/recurso/btn100/rio-lineal/17601> .
+
+<http://www.wikidata.org/entity/Q9071752>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/18982> , <https://datos.ign.es/recurso/btn100/rio-lineal/21576> .
+
+<http://www.wikidata.org/entity/Q21192918>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/13868> , <https://datos.ign.es/recurso/btn100/rio-lineal/23036> .
+
+
+
+<http://www.wikidata.org/entity/Q9072106>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/13945> , <https://datos.ign.es/recurso/btn100/rio-lineal/15189> .
+
+<http://www.wikidata.org/entity/Q12399363>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/742> .
+
+<http://www.wikidata.org/entity/Q9071618>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9334> .
+
+<http://www.wikidata.org/entity/Q23990949>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10398> , <https://datos.ign.es/recurso/btn100/rio-lineal/20354> , <https://datos.ign.es/recurso/btn100/rio-lineal/20353> .
+
+<http://www.wikidata.org/entity/Q9071973>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7238> , <https://datos.ign.es/recurso/btn100/rio-lineal/6566> , <https://datos.ign.es/recurso/btn100/rio-lineal/6565> , <https://datos.ign.es/recurso/btn100/rio-lineal/6564> .
+
+<http://www.wikidata.org/entity/Q23986333>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11784> .
+
+<http://www.wikidata.org/entity/Q23994182>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8866> , <https://datos.ign.es/recurso/btn100/rio-lineal/8865> , <https://datos.ign.es/recurso/btn100/rio-lineal/278> , <https://datos.ign.es/recurso/btn100/rio-lineal/277> .
+
+<http://www.wikidata.org/entity/Q2647270>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31696> , <https://datos.ign.es/recurso/btn100/rio-lineal/31695> , <https://datos.ign.es/recurso/btn100/rio-lineal/31694> , <https://datos.ign.es/recurso/btn100/rio-lineal/26808> , <https://datos.ign.es/recurso/btn100/rio-lineal/26807> , <https://datos.ign.es/recurso/btn100/rio-lineal/26806> .
+
+<http://www.wikidata.org/entity/Q20018950>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/30157> , <https://datos.ign.es/recurso/btn100/rio-lineal/18808> .
+
+<http://www.wikidata.org/entity/Q9070170>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11990> .
+
+<http://www.wikidata.org/entity/Q23977863>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12361> , <https://datos.ign.es/recurso/btn100/rio-lineal/32429> , <https://datos.ign.es/recurso/btn100/rio-lineal/18832> .
+
+<http://www.wikidata.org/entity/Q6115813>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12034> .
+
+
+<http://www.wikidata.org/entity/Q9072235>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7778> , <https://datos.ign.es/recurso/btn100/rio-lineal/24991> .
+
+<http://www.wikidata.org/entity/Q5694120>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/641> .
+
+<http://www.wikidata.org/entity/Q2838207>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14625> .
+
+<http://www.wikidata.org/entity/Q6115408>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/26278> , <https://datos.ign.es/recurso/btn100/rio-lineal/23564> .
+
+<http://www.wikidata.org/entity/Q9071918>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9948> .
+
+<http://www.wikidata.org/entity/Q6114858>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/22229> , <https://datos.ign.es/recurso/btn100/rio-lineal/23588> .
+
+<http://www.wikidata.org/entity/Q23960189>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4844> .
+
+<http://www.wikidata.org/entity/Q975503>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/23712> .
+
+<http://www.wikidata.org/entity/Q107339773>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16711> , <https://datos.ign.es/recurso/btn100/rio-lineal/16710> , <https://datos.ign.es/recurso/btn100/rio-lineal/20775> , <https://datos.ign.es/recurso/btn100/rio-lineal/20127> .
+
+<http://www.wikidata.org/entity/Q3822250>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16812> .
+
+<http://www.wikidata.org/entity/Q9071634>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7117> .
+
+<http://www.wikidata.org/entity/Q9071805>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15620> , <https://datos.ign.es/recurso/btn100/rio-lineal/9617> , <https://datos.ign.es/recurso/btn100/rio-lineal/9616> , <https://datos.ign.es/recurso/btn100/rio-lineal/9615> , <https://datos.ign.es/recurso/btn100/rio-lineal/15623> , <https://datos.ign.es/recurso/btn100/rio-lineal/15622> , <https://datos.ign.es/recurso/btn100/rio-lineal/15621> .
+
+<http://www.wikidata.org/entity/Q23986349>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31623> , <https://datos.ign.es/recurso/btn100/rio-lineal/31622> , <https://datos.ign.es/recurso/btn100/rio-lineal/31621> , <https://datos.ign.es/recurso/btn100/rio-lineal/25831> , <https://datos.ign.es/recurso/btn100/rio-lineal/25830> , <https://datos.ign.es/recurso/btn100/rio-lineal/25829> .
+
+<http://www.wikidata.org/entity/Q23999300>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/18473> .
+
+<http://www.wikidata.org/entity/Q23986328>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10740> , <https://datos.ign.es/recurso/btn100/rio-lineal/10739> , <https://datos.ign.es/recurso/btn100/rio-lineal/10738> , <https://datos.ign.es/recurso/btn100/rio-lineal/9179> , <https://datos.ign.es/recurso/btn100/rio-lineal/9178> , <https://datos.ign.es/recurso/btn100/rio-lineal/9177> .
+
+<http://www.wikidata.org/entity/Q9072009>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/5396> , <https://datos.ign.es/recurso/btn100/rio-lineal/5395> , <https://datos.ign.es/recurso/btn100/rio-lineal/5808> .
+
+<http://www.wikidata.org/entity/Q9071926>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11126> , <https://datos.ign.es/recurso/btn100/rio-lineal/27798> .
+
+<http://www.wikidata.org/entity/Q11202802>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4618> , <https://datos.ign.es/recurso/btn100/rio-lineal/8541> .
+
+<http://www.wikidata.org/entity/Q23136>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/32951> , <https://datos.ign.es/recurso/btn100/rio-lineal/32950> , <https://datos.ign.es/recurso/btn100/rio-lineal/36095> .
+
+<http://www.wikidata.org/entity/Q9071876>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16907> , <https://datos.ign.es/recurso/btn100/rio-lineal/29785> .
+
+<http://www.wikidata.org/entity/Q6115487>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2578> , <https://datos.ign.es/recurso/btn100/rio-lineal/12014> .
+
+<http://www.wikidata.org/entity/Q9071855>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10480> , <https://datos.ign.es/recurso/btn100/rio-lineal/14177> .
+
+<http://www.wikidata.org/entity/Q9072080>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8134> , <https://datos.ign.es/recurso/btn100/rio-lineal/29863> .
+
+<http://www.wikidata.org/entity/Q23990447>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31935> , <https://datos.ign.es/recurso/btn100/rio-lineal/24021> , <https://datos.ign.es/recurso/btn100/rio-lineal/18387> .
+
+<http://www.wikidata.org/entity/Q95630064>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/24096> .
+
+<http://www.wikidata.org/entity/Q2673301>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/18635> , <https://datos.ign.es/recurso/btn100/rio-lineal/18634> , <https://datos.ign.es/recurso/btn100/rio-lineal/23904> , <https://datos.ign.es/recurso/btn100/rio-lineal/18633> , <https://datos.ign.es/recurso/btn100/rio-lineal/23903> , <https://datos.ign.es/recurso/btn100/rio-lineal/23902> .
+
+<http://www.wikidata.org/entity/Q6115616>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/17927> .
+
+<http://www.wikidata.org/entity/Q15120472>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8527> .
+
+<http://www.wikidata.org/entity/Q7386454>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7971> , <https://datos.ign.es/recurso/btn100/rio-lineal/5782> .
+
+<http://www.wikidata.org/entity/Q116060870>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1330> .
+
+<http://www.wikidata.org/entity/Q23988059>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10689> , <https://datos.ign.es/recurso/btn100/rio-lineal/28658> .
+
+<http://www.wikidata.org/entity/Q9072017>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4220> , <https://datos.ign.es/recurso/btn100/rio-lineal/13333> .
+
+<http://www.wikidata.org/entity/Q24002355>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6978> .
+
+<http://www.wikidata.org/entity/Q9071955>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/20323> .
+
+<http://www.wikidata.org/entity/Q24002689>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6859> , <https://datos.ign.es/recurso/btn100/rio-lineal/28504> .
+
+<http://www.wikidata.org/entity/Q23986286>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9568> , <https://datos.ign.es/recurso/btn100/rio-lineal/5524> .
+
+<http://www.wikidata.org/entity/Q65121043>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10207> , <https://datos.ign.es/recurso/btn100/rio-lineal/5838> .
+
+<http://www.wikidata.org/entity/Q107735588>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15102> , <https://datos.ign.es/recurso/btn100/rio-lineal/15101> , <https://datos.ign.es/recurso/btn100/rio-lineal/19523> .
+
+<http://www.wikidata.org/entity/Q105659007>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11691> .
+
+<http://www.wikidata.org/entity/Q2404969>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12631> , <https://datos.ign.es/recurso/btn100/rio-lineal/12630> , <https://datos.ign.es/recurso/btn100/rio-lineal/12629> , <https://datos.ign.es/recurso/btn100/rio-lineal/23808> , <https://datos.ign.es/recurso/btn100/rio-lineal/23807> .
+
+<http://www.wikidata.org/entity/Q95611467>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6558> .
+
+<http://www.wikidata.org/entity/Q6115119>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8846> , <https://datos.ign.es/recurso/btn100/rio-lineal/8845> , <https://datos.ign.es/recurso/btn100/rio-lineal/31687> .
+
+<http://www.wikidata.org/entity/Q6115816>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/10098> , <https://datos.ign.es/recurso/btn100/rio-lineal/982> .
+
+<http://www.wikidata.org/entity/Q9071650>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11636> .
+
+<http://www.wikidata.org/entity/Q9071821>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8079> , <https://datos.ign.es/recurso/btn100/rio-lineal/8078> , <https://datos.ign.es/recurso/btn100/rio-lineal/18843> .
+
+<http://www.wikidata.org/entity/Q8191872>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/32933> , <https://datos.ign.es/recurso/btn100/rio-lineal/32932> , <https://datos.ign.es/recurso/btn100/rio-lineal/19079> , <https://datos.ign.es/recurso/btn100/rio-lineal/32926> , <https://datos.ign.es/recurso/btn100/rio-lineal/19077> , <https://datos.ign.es/recurso/btn100/rio-lineal/26439> , <https://datos.ign.es/recurso/btn100/rio-lineal/26438> , <https://datos.ign.es/recurso/btn100/rio-lineal/26437> .
+
+<http://www.wikidata.org/entity/Q1555858>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4158> , <https://datos.ign.es/recurso/btn100/rio-lineal/10716> .
+
+<http://www.wikidata.org/entity/Q23984429>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16666> , <https://datos.ign.es/recurso/btn100/rio-lineal/25711> .
+
+<http://www.wikidata.org/entity/Q9071942>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/17202> , <https://datos.ign.es/recurso/btn100/rio-lineal/31445> .
+
+
+<http://www.wikidata.org/entity/Q6115077>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31746> , <https://datos.ign.es/recurso/btn100/rio-lineal/22729> , <https://datos.ign.es/recurso/btn100/rio-lineal/31745> , <https://datos.ign.es/recurso/btn100/rio-lineal/22728> .
+
+<http://www.wikidata.org/entity/Q3756028>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31873> .
+
+<http://www.wikidata.org/entity/Q16627123>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/31020> .
+
+<http://www.wikidata.org/entity/Q42607692>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/20622> .
+
+<http://www.wikidata.org/entity/Q4796265>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/32733> , <https://datos.ign.es/recurso/btn100/rio-lineal/32732> .
+
+<http://www.wikidata.org/entity/Q385707>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/27059> .
+
+<http://www.wikidata.org/entity/Q5847616>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/17189> , <https://datos.ign.es/recurso/btn100/rio-lineal/36191> , <https://datos.ign.es/recurso/btn100/rio-lineal/36189> , <https://datos.ign.es/recurso/btn100/rio-lineal/36192> .
+
+<http://www.wikidata.org/entity/Q6115114>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16140> .
+
+<http://www.wikidata.org/entity/Q16627344>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/18385> .
+
+<http://www.wikidata.org/entity/Q6980744>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6241> , <https://datos.ign.es/recurso/btn100/rio-lineal/6240> , <https://datos.ign.es/recurso/btn100/rio-lineal/28498> , <https://datos.ign.es/recurso/btn100/rio-lineal/28497> .
+
+<http://www.wikidata.org/entity/Q11703418>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/228> , <https://datos.ign.es/recurso/btn100/rio-lineal/27823> .
+
+
+<http://www.wikidata.org/entity/Q6115406>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/23769> , <https://datos.ign.es/recurso/btn100/rio-lineal/31187> .
+
+<http://www.wikidata.org/entity/Q6115719>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2575> .
+
+<http://www.wikidata.org/entity/Q6114856>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2410> .
+
+<http://www.wikidata.org/entity/Q19831089>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2714> , <https://datos.ign.es/recurso/btn100/rio-lineal/11756> .
+
+<http://www.wikidata.org/entity/Q9071887>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12372> , <https://datos.ign.es/recurso/btn100/rio-lineal/10374> , <https://datos.ign.es/recurso/btn100/rio-lineal/28531> , <https://datos.ign.es/recurso/btn100/rio-lineal/26491> .
+
+<http://www.wikidata.org/entity/Q9071866>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8928> , <https://datos.ign.es/recurso/btn100/rio-lineal/31412> .
+
+<http://www.wikidata.org/entity/Q9030584>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14828> , <https://datos.ign.es/recurso/btn100/rio-lineal/1233> .
+
+<http://www.wikidata.org/entity/Q9071845>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/5859> .
+
+<http://www.wikidata.org/entity/Q48781577>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/16731> .
+
+<http://www.wikidata.org/entity/Q24001444>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/20857> .
+
+<http://www.wikidata.org/entity/Q9071632>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6845> , <https://datos.ign.es/recurso/btn100/rio-lineal/6846> , <https://datos.ign.es/recurso/btn100/rio-lineal/25192> , <https://datos.ign.es/recurso/btn100/rio-lineal/25191> .
+
+<http://www.wikidata.org/entity/Q23990921>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7723> .
+
+<http://www.wikidata.org/entity/Q5804164>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/25342> .
+
+<http://www.wikidata.org/entity/Q6115556>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14078> , <https://datos.ign.es/recurso/btn100/rio-lineal/7784> , <https://datos.ign.es/recurso/btn100/rio-lineal/751> .
+
+<http://www.wikidata.org/entity/Q6115706>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8299> , <https://datos.ign.es/recurso/btn100/rio-lineal/27276> , <https://datos.ign.es/recurso/btn100/rio-lineal/27275> , <https://datos.ign.es/recurso/btn100/rio-lineal/27274> .
+
+<http://www.wikidata.org/entity/Q9072107>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4716> , <https://datos.ign.es/recurso/btn100/rio-lineal/22308> .
+
+<http://www.wikidata.org/entity/Q95615942>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/9187> .
+
+<http://www.wikidata.org/entity/Q9072036>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1728> , <https://datos.ign.es/recurso/btn100/rio-lineal/8605> .
+
+<http://www.wikidata.org/entity/Q14768>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/7279> , <https://datos.ign.es/recurso/btn100/rio-lineal/7277> , <https://datos.ign.es/recurso/btn100/rio-lineal/7276> , <https://datos.ign.es/recurso/btn100/rio-lineal/7275> , <https://datos.ign.es/recurso/btn100/rio-lineal/23145> , <https://datos.ign.es/recurso/btn100/rio-lineal/23144> , <https://datos.ign.es/recurso/btn100/rio-lineal/23142> , <https://datos.ign.es/recurso/btn100/rio-lineal/23141> , <https://datos.ign.es/recurso/btn100/rio-lineal/32615> .
+
+<http://www.wikidata.org/entity/Q6115543>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/1854> , <https://datos.ign.es/recurso/btn100/rio-lineal/15111> .
+
+<http://www.wikidata.org/entity/Q13050048>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/36119> .
+
+<http://www.wikidata.org/entity/Q25512248>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/3153> .
+
+<http://www.wikidata.org/entity/Q9071861>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/4199> .
+
+<http://www.wikidata.org/entity/Q1051446>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/15715> .
+
+<http://www.wikidata.org/entity/Q1144845>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/879> , <https://datos.ign.es/recurso/btn100/rio-lineal/36694> , <https://datos.ign.es/recurso/btn100/rio-lineal/36693> .
+
+<http://www.wikidata.org/entity/Q6109263>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/21162> , <https://datos.ign.es/recurso/btn100/rio-lineal/21160> , <https://datos.ign.es/recurso/btn100/rio-lineal/21161> , <https://datos.ign.es/recurso/btn100/rio-lineal/32443> , <https://datos.ign.es/recurso/btn100/rio-lineal/34629> , <https://datos.ign.es/recurso/btn100/rio-lineal/34628> , <https://datos.ign.es/recurso/btn100/rio-lineal/21159> , <https://datos.ign.es/recurso/btn100/rio-lineal/21158> , <https://datos.ign.es/recurso/btn100/rio-lineal/20464> , <https://datos.ign.es/recurso/btn100/rio-lineal/20468> , <https://datos.ign.es/recurso/btn100/rio-lineal/20465> , <https://datos.ign.es/recurso/btn100/rio-lineal/21163> , <https://datos.ign.es/recurso/btn100/rio-lineal/20463> , <https://datos.ign.es/recurso/btn100/rio-lineal/34627> , <https://datos.ign.es/recurso/btn100/rio-lineal/20467> .
+
+<http://www.wikidata.org/entity/Q323199>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/2509> , <https://datos.ign.es/recurso/btn100/rio-lineal/25420> .
+
+<http://www.wikidata.org/entity/Q511959>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8779> , <https://datos.ign.es/recurso/btn100/rio-lineal/8778> , <https://datos.ign.es/recurso/btn100/rio-lineal/3265> , <https://datos.ign.es/recurso/btn100/rio-lineal/28939> , <https://datos.ign.es/recurso/btn100/rio-lineal/35926> , <https://datos.ign.es/recurso/btn100/rio-lineal/35925> , <https://datos.ign.es/recurso/btn100/rio-lineal/35924> .
+
+<http://www.wikidata.org/entity/Q5859944>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/6984> .
+
+<http://www.wikidata.org/entity/Q23995789>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/11624> , <https://datos.ign.es/recurso/btn100/rio-lineal/21586> .
+
+<http://www.wikidata.org/entity/Q9071890>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/496> , <https://datos.ign.es/recurso/btn100/rio-lineal/18981> .
+
+<http://www.wikidata.org/entity/Q22970089>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/3595> , <https://datos.ign.es/recurso/btn100/rio-lineal/31268> .
+
+<http://www.wikidata.org/entity/Q6114959>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/13797> , <https://datos.ign.es/recurso/btn100/rio-lineal/15960> , <https://datos.ign.es/recurso/btn100/rio-lineal/23354> , <https://datos.ign.es/recurso/btn100/rio-lineal/27229> .
+
+<http://www.wikidata.org/entity/Q9071635>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/23486> .
+
+<http://www.wikidata.org/entity/Q6115609>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12260> .
+
+<http://www.wikidata.org/entity/Q23990945>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/37225> , <https://datos.ign.es/recurso/btn100/rio-lineal/37241> , <https://datos.ign.es/recurso/btn100/rio-lineal/37240> , <https://datos.ign.es/recurso/btn100/rio-lineal/37235> , <https://datos.ign.es/recurso/btn100/rio-lineal/37234> .
+
+<http://www.wikidata.org/entity/Q6980876>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/29655> , <https://datos.ign.es/recurso/btn100/rio-lineal/20249> .
+
+<http://www.wikidata.org/entity/Q3399423>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8779> , <https://datos.ign.es/recurso/btn100/rio-lineal/8778> , <https://datos.ign.es/recurso/btn100/rio-lineal/3265> , <https://datos.ign.es/recurso/btn100/rio-lineal/28939> , <https://datos.ign.es/recurso/btn100/rio-lineal/35926> , <https://datos.ign.es/recurso/btn100/rio-lineal/35925> , <https://datos.ign.es/recurso/btn100/rio-lineal/35924> .
+
+<http://www.wikidata.org/entity/Q3398835>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12181> , <https://datos.ign.es/recurso/btn100/rio-lineal/12180> , <https://datos.ign.es/recurso/btn100/rio-lineal/30931> , <https://datos.ign.es/recurso/btn100/rio-lineal/30930> .
+
+
+
+<http://www.wikidata.org/entity/Q104816803>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/29949> .
+
+<http://www.wikidata.org/entity/Q23992050>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/27022> , <https://datos.ign.es/recurso/btn100/rio-lineal/29327> , <https://datos.ign.es/recurso/btn100/rio-lineal/28251> .
+
+<http://www.wikidata.org/entity/Q9071714>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/8590> , <https://datos.ign.es/recurso/btn100/rio-lineal/23066> .
+
+<http://www.wikidata.org/entity/Q23987906>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/14012> , <https://datos.ign.es/recurso/btn100/rio-lineal/22736> .
+
+<http://www.wikidata.org/entity/Q20021592>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/22521> , <https://datos.ign.es/recurso/btn100/rio-lineal/27802> .
+
+<http://www.wikidata.org/entity/Q23977859>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/12361> , <https://datos.ign.es/recurso/btn100/rio-lineal/32429> , <https://datos.ign.es/recurso/btn100/rio-lineal/18832> .
+
+
+<http://www.wikidata.org/entity/Q9072018>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/32132> .
+
+<http://www.wikidata.org/entity/Q48781504>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/26523> .
+
+<http://www.wikidata.org/entity/Q6115717>
+        owl:sameAs  <https://datos.ign.es/recurso/btn100/rio-lineal/17604> , <https://datos.ign.es/recurso/btn100/rio-lineal/17624> , <https://datos.ign.es/recurso/btn100/rio-lineal/17605> .
